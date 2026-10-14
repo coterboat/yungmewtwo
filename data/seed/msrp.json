@@ -1,0 +1,1234 @@
+{
+  "byType": {
+    "booster-box": {
+      "msrp": 161.64,
+      "packs": 36,
+      "source": "https://seller.tcgplayer.com/blog/mega-evolution-quick-facts",
+      "confidence": "med",
+      "note": "36 x 4.49. Documented for Journey Together (Enhanced box at Pokémon Center), the Mega Evolution Enhanced box, and Pitch Black / Delta Reign (PokeGuardian). TCGplayer shows no MSRP for the plain ME01 box, and no box exists for Ascended Heroes, 30th Celebration, Black Bolt or White Flare."
+    },
+    "half-box": {
+      "msrp": null,
+      "packs": 18,
+      "source": "unknown",
+      "confidence": "low",
+      "note": "MSRP not found; kiosk 18-pack listed for Pitch Black and Delta Reign. 18 x 4.49 = 80.82 would be the derived figure."
+    },
+    "etb": {
+      "msrp": 49.99,
+      "packs": 9,
+      "source": "https://seller.tcgplayer.com/blog/perfect-order-quick-facts",
+      "confidence": "high",
+      "note": "Unchanged from Black Bolt / White Flare (TCGplayer quick facts) through Delta Reign."
+    },
+    "pc-etb": {
+      "msrp": 59.99,
+      "packs": 11,
+      "source": "https://seller.tcgplayer.com/blog/ascended-heroes-quick-facts",
+      "confidence": "high",
+      "note": "11 packs and 2 promos; pack count confirmed for AH, PBL, 30C, DLR."
+    },
+    "bundle": {
+      "msrp": 26.94,
+      "packs": 6,
+      "source": "https://seller.tcgplayer.com/blog/mega-evolution-quick-facts",
+      "confidence": "high",
+      "note": "Also $26.94 at Journey Together (Mar 2025), Prismatic Evolutions and Black Bolt / White Flare (TCGplayer quick facts). One third-party guide claims $23.94 for older sets, which is contradicted."
+    },
+    "pack": {
+      "msrp": 4.49,
+      "packs": 1,
+      "source": "https://www.pokemoncenter.com/search/mega-evolution-tcg",
+      "confidence": "med",
+      "note": "Pokémon Center lists $4.49. The 30th Celebration pack is 5 cards and is not sold singly in EN."
+    },
+    "sleeved-pack": {
+      "msrp": 4.49,
+      "packs": 1,
+      "source": "https://www.pokemoncenter.com/search/mega-evolution-tcg",
+      "confidence": "med"
+    },
+    "blister": {
+      "msrp": 13.99,
+      "packs": 3,
+      "source": "https://www.pokeguardian.com/3231721_pokemon-tcg-mega-evolution-delta-reign-revealed",
+      "confidence": "med",
+      "note": "3-pack blister. Single-pack blister / checklane about $5.49 (low; one guide says $6.00 or $5.50). 30th Celebration 2-pack blister $9.99; Enhanced 2-pack blister $10.99."
+    },
+    "art-bundle": {
+      "msrp": null,
+      "packs": 4,
+      "source": "unknown",
+      "confidence": "low",
+      "note": "Set of 4 art packs is a TCGplayer-listed SKU; no official MSRP found (4 x 4.49 = 17.96 would be derived)."
+    },
+    "build-battle": {
+      "msrp": 21.99,
+      "packs": 4,
+      "source": "https://seller.tcgplayer.com/blog/mega-evolution-quick-facts",
+      "confidence": "high"
+    },
+    "tin": {
+      "msrp": 9.99,
+      "packs": 2,
+      "source": "https://billsarchive.com/articles/30th-anniversary-english-products-msrp.html",
+      "confidence": "med",
+      "note": "Mini Tin. Full-size ex Tins and the Mega Forces Tin are $21.99 with 4 packs; older US tins were $24.99 (one guide)."
+    },
+    "upc": {
+      "msrp": 179.99,
+      "packs": 30,
+      "source": "https://billsarchive.com/articles/30th-anniversary-english-products-msrp.html",
+      "confidence": "med",
+      "note": "30th Celebration Day / Night (29 packs + 1 Classic Collection pack). The Mega Charizard X ex UPC was $119.99 with 18 packs (2025-11-14)."
+    },
+    "premium-collection": {
+      "msrp": 39.99,
+      "packs": 8,
+      "source": "https://www.pokebeach.com/2026/02/mega-zygarde-ex-premium-collection-revealed-for-may",
+      "confidence": "high",
+      "note": "Mega Zygarde ex and 30th Celebration Ditto, 8 packs. Prismatic Super-Premium Collection is $89.99 (low)."
+    },
+    "collection": {
+      "msrp": 14.99,
+      "packs": 3,
+      "source": "https://billsarchive.com/articles/30th-anniversary-english-products-msrp.html",
+      "confidence": "med",
+      "note": "Poster / Tech Sticker class. Spread: Knock Out $9.99 (2 packs), ex Box $21.99 (4), Ascended Heroes Premium Poster $49.99 (10)."
+    },
+    "deck": {
+      "msrp": 19.99,
+      "packs": 0,
+      "source": "https://billsarchive.com/articles/30th-anniversary-english-products-msrp.html",
+      "confidence": "med",
+      "note": "30th Celebration Battle Deck, no packs."
+    }
+  },
+  "byProduct": {
+    "593324": {
+      "name": "Prismatic Evolutions Pokemon Center Elite Trainer Box (Exclusive)",
+      "set": "PRE",
+      "type": "pc-etb",
+      "msrp": 59.99,
+      "packs": 11,
+      "confidence": "high"
+    },
+    "593355": {
+      "name": "Prismatic Evolutions Elite Trainer Box",
+      "set": "PRE",
+      "type": "etb",
+      "msrp": 49.99,
+      "packs": 9,
+      "confidence": "high"
+    },
+    "593455": {
+      "name": "Prismatic Evolutions Mini Tin [Vaporeon]",
+      "set": "PRE",
+      "type": "tin",
+      "msrp": 9.99,
+      "packs": 2,
+      "confidence": "low",
+      "basis": "one guide: 8-count display $79.92 = 8 x 9.99"
+    },
+    "593456": {
+      "name": "Prismatic Evolutions Mini Tin [Jolteon]",
+      "set": "PRE",
+      "type": "tin",
+      "msrp": 9.99,
+      "packs": 2,
+      "confidence": "low",
+      "basis": "one guide: 8-count display $79.92 = 8 x 9.99"
+    },
+    "593457": {
+      "name": "Prismatic Evolutions Mini Tin [Flareon]",
+      "set": "PRE",
+      "type": "tin",
+      "msrp": 9.99,
+      "packs": 2,
+      "confidence": "low",
+      "basis": "one guide: 8-count display $79.92 = 8 x 9.99"
+    },
+    "593458": {
+      "name": "Prismatic Evolutions Mini Tin [Espeon]",
+      "set": "PRE",
+      "type": "tin",
+      "msrp": 9.99,
+      "packs": 2,
+      "confidence": "low",
+      "basis": "one guide: 8-count display $79.92 = 8 x 9.99"
+    },
+    "593459": {
+      "name": "Prismatic Evolutions Mini Tin [Umbreon]",
+      "set": "PRE",
+      "type": "tin",
+      "msrp": 9.99,
+      "packs": 2,
+      "confidence": "low",
+      "basis": "one guide: 8-count display $79.92 = 8 x 9.99"
+    },
+    "593460": {
+      "name": "Prismatic Evolutions Mini Tin [Leafeon]",
+      "set": "PRE",
+      "type": "tin",
+      "msrp": 9.99,
+      "packs": 2,
+      "confidence": "low",
+      "basis": "one guide: 8-count display $79.92 = 8 x 9.99"
+    },
+    "593461": {
+      "name": "Prismatic Evolutions Mini Tin [Glaceon]",
+      "set": "PRE",
+      "type": "tin",
+      "msrp": 9.99,
+      "packs": 2,
+      "confidence": "low",
+      "basis": "one guide: 8-count display $79.92 = 8 x 9.99"
+    },
+    "593462": {
+      "name": "Prismatic Evolutions Mini Tin [Sylveon]",
+      "set": "PRE",
+      "type": "tin",
+      "msrp": 9.99,
+      "packs": 2,
+      "confidence": "low",
+      "basis": "one guide: 8-count display $79.92 = 8 x 9.99"
+    },
+    "600518": {
+      "name": "Prismatic Evolutions Booster Bundle",
+      "set": "PRE",
+      "type": "bundle",
+      "msrp": 26.94,
+      "packs": 6,
+      "confidence": "high"
+    },
+    "622770": {
+      "name": "Prismatic Evolutions Super-Premium Collection",
+      "set": "PRE",
+      "type": "premium-collection",
+      "msrp": 89.99,
+      "packs": null,
+      "confidence": "low",
+      "basis": "single-source guide (bujusjujus); pack count unknown"
+    },
+    "624675": {
+      "name": "Destined Rivals Pokemon Center Elite Trainer Box (Exclusive)",
+      "set": "DRI",
+      "type": "pc-etb",
+      "msrp": 59.99,
+      "packs": 11,
+      "confidence": "high"
+    },
+    "624676": {
+      "name": "Destined Rivals Elite Trainer Box",
+      "set": "DRI",
+      "type": "etb",
+      "msrp": 49.99,
+      "packs": 9,
+      "confidence": "med",
+      "basis": "one source says 54.99; 49.99 used"
+    },
+    "624679": {
+      "name": "Destined Rivals Booster Box",
+      "set": "DRI",
+      "type": "booster-box",
+      "msrp": 161.64,
+      "packs": 36,
+      "confidence": "med",
+      "basis": "interpolated: Journey Together and Black Bolt / White Flare bundles and boxes are at this level; one source also says so"
+    },
+    "624683": {
+      "name": "Destined Rivals Booster Pack",
+      "set": "DRI",
+      "type": "pack",
+      "msrp": 4.49,
+      "packs": 1,
+      "confidence": "med"
+    },
+    "624684": {
+      "name": "Destined Rivals Sleeved Booster Pack",
+      "set": "DRI",
+      "type": "sleeved-pack",
+      "msrp": 4.49,
+      "packs": 1,
+      "confidence": "med"
+    },
+    "625670": {
+      "name": "Destined Rivals Booster Bundle",
+      "set": "DRI",
+      "type": "bundle",
+      "msrp": 26.94,
+      "packs": 6,
+      "confidence": "high"
+    },
+    "625677": {
+      "name": "Destined Rivals Build & Battle Box",
+      "set": "DRI",
+      "type": "build-battle",
+      "msrp": 21.99,
+      "packs": 4,
+      "confidence": "med",
+      "basis": "interpolated from Journey Together ($21.99)"
+    },
+    "625683": {
+      "name": "Destined Rivals 3 Pack Blister [Kangaskhan]",
+      "set": "DRI",
+      "type": "blister",
+      "msrp": 13.99,
+      "packs": 3,
+      "confidence": "med"
+    },
+    "625684": {
+      "name": "Destined Rivals 3 Pack Blister [Zebstrika]",
+      "set": "DRI",
+      "type": "blister",
+      "msrp": 13.99,
+      "packs": 3,
+      "confidence": "med"
+    },
+    "630431": {
+      "name": "Black Bolt Booster Bundle",
+      "set": "BLK",
+      "type": "bundle",
+      "msrp": 26.94,
+      "packs": 6,
+      "confidence": "high"
+    },
+    "630438": {
+      "name": "Unova Mini Tin [Garbodor & Amoonguss]",
+      "set": "BLK",
+      "type": "tin",
+      "msrp": 9.99,
+      "packs": 2,
+      "confidence": "med",
+      "basis": "TCGplayer shows $9.99; pack count assumed 2"
+    },
+    "630439": {
+      "name": "Unova Mini Tin [Chandelure & Zorua]",
+      "set": "BLK",
+      "type": "tin",
+      "msrp": 9.99,
+      "packs": 2,
+      "confidence": "med",
+      "basis": "TCGplayer shows $9.99; pack count assumed 2"
+    },
+    "630440": {
+      "name": "Unova Mini Tin [Krookodile & Excadrill]",
+      "set": "BLK",
+      "type": "tin",
+      "msrp": 9.99,
+      "packs": 2,
+      "confidence": "med",
+      "basis": "TCGplayer shows $9.99; pack count assumed 2"
+    },
+    "630441": {
+      "name": "Unova Mini Tin [Volcarona & Emolga]",
+      "set": "BLK",
+      "type": "tin",
+      "msrp": 9.99,
+      "packs": 2,
+      "confidence": "med",
+      "basis": "TCGplayer shows $9.99; pack count assumed 2"
+    },
+    "630442": {
+      "name": "Unova Mini Tin [Lilligant & Whimsicot]",
+      "set": "BLK",
+      "type": "tin",
+      "msrp": 9.99,
+      "packs": 2,
+      "confidence": "med",
+      "basis": "TCGplayer shows $9.99; pack count assumed 2"
+    },
+    "630443": {
+      "name": "Unova Mini Tin [Mienshao & Klinklang]",
+      "set": "BLK",
+      "type": "tin",
+      "msrp": 9.99,
+      "packs": 2,
+      "confidence": "med",
+      "basis": "TCGplayer shows $9.99; pack count assumed 2"
+    },
+    "630444": {
+      "name": "Unova Mini Tin [Alomomola & Axew]",
+      "set": "BLK",
+      "type": "tin",
+      "msrp": 9.99,
+      "packs": 2,
+      "confidence": "med",
+      "basis": "TCGplayer shows $9.99; pack count assumed 2"
+    },
+    "630445": {
+      "name": "Unova Mini Tin [Elektross & Galvantula]",
+      "set": "BLK",
+      "type": "tin",
+      "msrp": 9.99,
+      "packs": 2,
+      "confidence": "med",
+      "basis": "TCGplayer shows $9.99; pack count assumed 2"
+    },
+    "630612": {
+      "name": "Unova Poster Collection",
+      "set": "BLK",
+      "type": "collection",
+      "msrp": 14.99,
+      "packs": null,
+      "confidence": "high",
+      "basis": "TCGplayer quick facts; pack count not shown there"
+    },
+    "630614": {
+      "name": "Black Bolt Tech Sticker Collection",
+      "set": "BLK",
+      "type": "collection",
+      "msrp": 14.99,
+      "packs": null,
+      "confidence": "high",
+      "basis": "TCGplayer quick facts; pack count not shown there"
+    },
+    "630615": {
+      "name": "Unova Victini Illustration Collection",
+      "set": "BLK",
+      "type": "collection",
+      "msrp": 21.99,
+      "packs": null,
+      "confidence": "high",
+      "basis": "TCGplayer quick facts; pack count not shown there"
+    },
+    "630686": {
+      "name": "Black Bolt Elite Trainer Box",
+      "set": "BLK",
+      "type": "etb",
+      "msrp": 49.99,
+      "packs": 9,
+      "confidence": "high"
+    },
+    "630687": {
+      "name": "Black Bolt Pokemon Center Elite Trainer Box (Exclusive)",
+      "set": "BLK",
+      "type": "pc-etb",
+      "msrp": 59.99,
+      "packs": 11,
+      "confidence": "high"
+    },
+    "630688": {
+      "name": "White Flare Pokemon Center Elite Trainer Box (Exclusive)",
+      "set": "WHT",
+      "type": "pc-etb",
+      "msrp": 59.99,
+      "packs": 11,
+      "confidence": "high"
+    },
+    "630689": {
+      "name": "White Flare Elite Trainer Box",
+      "set": "WHT",
+      "type": "etb",
+      "msrp": 49.99,
+      "packs": 9,
+      "confidence": "high"
+    },
+    "630696": {
+      "name": "White Flare Booster Bundle",
+      "set": "WHT",
+      "type": "bundle",
+      "msrp": 26.94,
+      "packs": 6,
+      "confidence": "high"
+    },
+    "630700": {
+      "name": "White Flare Tech Sticker Collection",
+      "set": "WHT",
+      "type": "collection",
+      "msrp": 14.99,
+      "packs": null,
+      "confidence": "high",
+      "basis": "TCGplayer quick facts; pack count not shown there"
+    },
+    "644279": {
+      "name": "Mega Evolution Elite Trainer Box [Mega Gardevoir]",
+      "set": "ME01",
+      "type": "etb",
+      "msrp": 49.99,
+      "packs": 9,
+      "confidence": "high"
+    },
+    "644282": {
+      "name": "Mega Evolution Pokemon Center Elite Trainer Box (Exclusive) [Mega Lucario]",
+      "set": "ME01",
+      "type": "pc-etb",
+      "msrp": 59.99,
+      "packs": 11,
+      "confidence": "high"
+    },
+    "644298": {
+      "name": "Mega Evolution Booster Box",
+      "set": "ME01",
+      "type": "booster-box",
+      "msrp": 161.64,
+      "packs": 36,
+      "confidence": "med"
+    },
+    "644300": {
+      "name": "Mega Evolution Enhanced Booster Box",
+      "set": "ME01",
+      "type": "booster-box",
+      "msrp": 161.64,
+      "packs": 36,
+      "confidence": "med"
+    },
+    "644352": {
+      "name": "Mega Evolution Booster Pack",
+      "set": "ME01",
+      "type": "pack",
+      "msrp": 4.49,
+      "packs": 1,
+      "confidence": "med"
+    },
+    "644354": {
+      "name": "Mega Evolution Sleeved Booster Pack",
+      "set": "ME01",
+      "type": "sleeved-pack",
+      "msrp": 4.49,
+      "packs": 1,
+      "confidence": "med"
+    },
+    "644356": {
+      "name": "Mega Evolution 3 Pack Blister [Golduck]",
+      "set": "ME01",
+      "type": "blister",
+      "msrp": 13.99,
+      "packs": 3,
+      "confidence": "med"
+    },
+    "644357": {
+      "name": "Mega Evolution 3 Pack Blister [Psyduck]",
+      "set": "ME01",
+      "type": "blister",
+      "msrp": 13.99,
+      "packs": 3,
+      "confidence": "med"
+    },
+    "644362": {
+      "name": "Mega Evolution Booster Bundle",
+      "set": "ME01",
+      "type": "bundle",
+      "msrp": 26.94,
+      "packs": 6,
+      "confidence": "high"
+    },
+    "644363": {
+      "name": "Mega Evolution Build & Battle Box",
+      "set": "ME01",
+      "type": "build-battle",
+      "msrp": 21.99,
+      "packs": 4,
+      "confidence": "high"
+    },
+    "648394": {
+      "name": "Mega Evolution Elite Trainer Box [Mega Lucario]",
+      "set": "ME01",
+      "type": "etb",
+      "msrp": 49.99,
+      "packs": 9,
+      "confidence": "high"
+    },
+    "648415": {
+      "name": "Mega Evolution Pokemon Center Elite Trainer Box (Exclusive) [Mega Gardevoir]",
+      "set": "ME01",
+      "type": "pc-etb",
+      "msrp": 59.99,
+      "packs": 11,
+      "confidence": "high"
+    },
+    "654135": {
+      "name": "Phantasmal Flames Pokemon Center Elite Trainer Box (Exclusive)",
+      "set": "PFL",
+      "type": "pc-etb",
+      "msrp": 59.99,
+      "packs": 11,
+      "confidence": "high"
+    },
+    "654136": {
+      "name": "Phantasmal Flames Elite Trainer Box",
+      "set": "PFL",
+      "type": "etb",
+      "msrp": 49.99,
+      "packs": 9,
+      "confidence": "high"
+    },
+    "654137": {
+      "name": "Phantasmal Flames Booster Box",
+      "set": "PFL",
+      "type": "booster-box",
+      "msrp": 161.64,
+      "packs": 36,
+      "confidence": "med"
+    },
+    "654144": {
+      "name": "Phantasmal Flames Booster Pack",
+      "set": "PFL",
+      "type": "pack",
+      "msrp": 4.49,
+      "packs": 1,
+      "confidence": "med"
+    },
+    "654145": {
+      "name": "Phantasmal Flames Sleeved Booster Pack",
+      "set": "PFL",
+      "type": "sleeved-pack",
+      "msrp": 4.49,
+      "packs": 1,
+      "confidence": "med"
+    },
+    "654154": {
+      "name": "Phantasmal Flames 3 Pack Blister [Sneasel]",
+      "set": "PFL",
+      "type": "blister",
+      "msrp": 13.99,
+      "packs": 3,
+      "confidence": "med"
+    },
+    "654156": {
+      "name": "Phantasmal Flames 3 Pack Blister [Weavile]",
+      "set": "PFL",
+      "type": "blister",
+      "msrp": 13.99,
+      "packs": 3,
+      "confidence": "med"
+    },
+    "654160": {
+      "name": "Phantasmal Flames Booster Bundle",
+      "set": "PFL",
+      "type": "bundle",
+      "msrp": 26.94,
+      "packs": 6,
+      "confidence": "high"
+    },
+    "662725": {
+      "name": "Phantasmal Flames Build & Battle Box",
+      "set": "PFL",
+      "type": "build-battle",
+      "msrp": 21.99,
+      "packs": 4,
+      "confidence": "high"
+    },
+    "666906": {
+      "name": "Mega Evolution: Ascended Heroes Collection - Erika (3-Tab)",
+      "set": "ASC",
+      "type": "collection",
+      "msrp": 9.99,
+      "packs": 2,
+      "confidence": "med",
+      "basis": "PokeBeach set-guide extract"
+    },
+    "666907": {
+      "name": "Mega Evolution: Ascended Heroes Collection - Larry (3-Tab)",
+      "set": "ASC",
+      "type": "collection",
+      "msrp": 9.99,
+      "packs": 2,
+      "confidence": "med",
+      "basis": "PokeBeach set-guide extract"
+    },
+    "666908": {
+      "name": "Mega Evolution: Ascended Heroes Tech Sticker Collection - Charmander",
+      "set": "ASC",
+      "type": "collection",
+      "msrp": 15.99,
+      "packs": 3,
+      "confidence": "med",
+      "basis": "PokeBeach set-guide extract"
+    },
+    "666909": {
+      "name": "Mega Evolution: Ascended Heroes Tech Sticker Collection - Gastly",
+      "set": "ASC",
+      "type": "collection",
+      "msrp": 15.99,
+      "packs": 3,
+      "confidence": "med",
+      "basis": "PokeBeach set-guide extract"
+    },
+    "668496": {
+      "name": "Ascended Heroes Elite Trainer Box",
+      "set": "ASC",
+      "type": "etb",
+      "msrp": 49.99,
+      "packs": 9,
+      "confidence": "high"
+    },
+    "668497": {
+      "name": "Ascended Heroes Pokemon Center Elite Trainer Box (Exclusive)",
+      "set": "ASC",
+      "type": "pc-etb",
+      "msrp": 59.99,
+      "packs": 11,
+      "confidence": "high"
+    },
+    "668536": {
+      "name": "Premium Poster Collection: Mega Lucario",
+      "set": "ASC",
+      "type": "collection",
+      "msrp": 49.99,
+      "packs": 10,
+      "confidence": "med",
+      "basis": "PokeBeach set-guide extract"
+    },
+    "668537": {
+      "name": "Premium Poster Collection: Mega Gardevoir",
+      "set": "ASC",
+      "type": "collection",
+      "msrp": 49.99,
+      "packs": 10,
+      "confidence": "med",
+      "basis": "PokeBeach set-guide extract"
+    },
+    "668541": {
+      "name": "Ascended Heroes Booster Bundle",
+      "set": "ASC",
+      "type": "bundle",
+      "msrp": 26.94,
+      "packs": 6,
+      "confidence": "high"
+    },
+    "672393": {
+      "name": "Perfect Order 3 Pack Blister [Chikorita]",
+      "set": "POR",
+      "type": "blister",
+      "msrp": 13.99,
+      "packs": 3,
+      "confidence": "med"
+    },
+    "672394": {
+      "name": "Perfect Order Booster Box",
+      "set": "POR",
+      "type": "booster-box",
+      "msrp": 161.64,
+      "packs": 36,
+      "confidence": "high"
+    },
+    "672396": {
+      "name": "Perfect Order Booster Bundle",
+      "set": "POR",
+      "type": "bundle",
+      "msrp": 26.94,
+      "packs": 6,
+      "confidence": "high"
+    },
+    "672398": {
+      "name": "Perfect Order Booster Pack",
+      "set": "POR",
+      "type": "pack",
+      "msrp": 4.49,
+      "packs": 1,
+      "confidence": "med"
+    },
+    "672400": {
+      "name": "Perfect Order Build & Battle Box",
+      "set": "POR",
+      "type": "build-battle",
+      "msrp": 21.99,
+      "packs": 4,
+      "confidence": "high"
+    },
+    "672401": {
+      "name": "Perfect Order Elite Trainer Box",
+      "set": "POR",
+      "type": "etb",
+      "msrp": 49.99,
+      "packs": 9,
+      "confidence": "high"
+    },
+    "672404": {
+      "name": "Perfect Order Pokemon Center Elite Trainer Box",
+      "set": "POR",
+      "type": "pc-etb",
+      "msrp": 59.99,
+      "packs": 11,
+      "confidence": "high"
+    },
+    "672412": {
+      "name": "Perfect Order Sleeved Booster Pack",
+      "set": "POR",
+      "type": "sleeved-pack",
+      "msrp": 4.49,
+      "packs": 1,
+      "confidence": "med"
+    },
+    "672733": {
+      "name": "Ascended Heroes Mega Meganium ex Box",
+      "set": "ASC",
+      "type": "collection",
+      "msrp": 21.99,
+      "packs": 4,
+      "confidence": "med",
+      "basis": "PokeBeach set-guide extract"
+    },
+    "672734": {
+      "name": "Ascended Heroes Mega Emboar ex Box",
+      "set": "ASC",
+      "type": "collection",
+      "msrp": 21.99,
+      "packs": 4,
+      "confidence": "med",
+      "basis": "PokeBeach set-guide extract"
+    },
+    "672735": {
+      "name": "Ascended Heroes Mega Feraligatr ex Box",
+      "set": "ASC",
+      "type": "collection",
+      "msrp": 21.99,
+      "packs": 4,
+      "confidence": "med",
+      "basis": "PokeBeach set-guide extract"
+    },
+    "684444": {
+      "name": "Chaos Rising Booster Box",
+      "set": "CRI",
+      "type": "booster-box",
+      "msrp": 161.64,
+      "packs": 36,
+      "confidence": "high"
+    },
+    "684446": {
+      "name": "Chaos Rising Booster Pack",
+      "set": "CRI",
+      "type": "pack",
+      "msrp": 4.49,
+      "packs": 1,
+      "confidence": "med"
+    },
+    "684448": {
+      "name": "Chaos Rising Sleeved Booster Pack",
+      "set": "CRI",
+      "type": "sleeved-pack",
+      "msrp": 4.49,
+      "packs": 1,
+      "confidence": "med"
+    },
+    "684450": {
+      "name": "Chaos Rising Elite Trainer Box",
+      "set": "CRI",
+      "type": "etb",
+      "msrp": 49.99,
+      "packs": 9,
+      "confidence": "high"
+    },
+    "684452": {
+      "name": "Chaos Rising Pokemon Center Elite Trainer Box",
+      "set": "CRI",
+      "type": "pc-etb",
+      "msrp": 59.99,
+      "packs": 11,
+      "confidence": "high"
+    },
+    "684454": {
+      "name": "Chaos Rising Build & Battle Box",
+      "set": "CRI",
+      "type": "build-battle",
+      "msrp": 21.99,
+      "packs": 4,
+      "confidence": "high"
+    },
+    "684456": {
+      "name": "Chaos Rising Booster Bundle",
+      "set": "CRI",
+      "type": "bundle",
+      "msrp": 26.94,
+      "packs": 6,
+      "confidence": "high"
+    },
+    "684458": {
+      "name": "Chaos Rising 3-Pack Blister [Charmeleon]",
+      "set": "CRI",
+      "type": "blister",
+      "msrp": 13.99,
+      "packs": 3,
+      "confidence": "med"
+    },
+    "692938": {
+      "name": "Pitch Black 3-Pack Blister [Binacle]",
+      "set": "PBL",
+      "type": "blister",
+      "msrp": 13.99,
+      "packs": 3,
+      "confidence": "med"
+    },
+    "692939": {
+      "name": "Pitch Black Booster Box",
+      "set": "PBL",
+      "type": "booster-box",
+      "msrp": 161.64,
+      "packs": 36,
+      "confidence": "high"
+    },
+    "692942": {
+      "name": "Pitch Black Booster Bundle",
+      "set": "PBL",
+      "type": "bundle",
+      "msrp": 26.94,
+      "packs": 6,
+      "confidence": "high"
+    },
+    "692944": {
+      "name": "Pitch Black Booster Pack",
+      "set": "PBL",
+      "type": "pack",
+      "msrp": 4.49,
+      "packs": 1,
+      "confidence": "med"
+    },
+    "692946": {
+      "name": "Pitch Black Build & Battle Box",
+      "set": "PBL",
+      "type": "build-battle",
+      "msrp": 21.99,
+      "packs": 4,
+      "confidence": "high"
+    },
+    "692947": {
+      "name": "Pitch Black Elite Trainer Box",
+      "set": "PBL",
+      "type": "etb",
+      "msrp": 49.99,
+      "packs": 9,
+      "confidence": "high"
+    },
+    "692949": {
+      "name": "Pitch Black Pokemon Center Elite Trainer Box (Exclusive)",
+      "set": "PBL",
+      "type": "pc-etb",
+      "msrp": 59.99,
+      "packs": 11,
+      "confidence": "high"
+    },
+    "692957": {
+      "name": "Pitch Black Sleeved Booster Pack",
+      "set": "PBL",
+      "type": "sleeved-pack",
+      "msrp": 4.49,
+      "packs": 1,
+      "confidence": "med"
+    },
+    "704143": {
+      "name": "30th Celebration Elite Trainer Box",
+      "set": "30C",
+      "type": "etb",
+      "msrp": 49.99,
+      "packs": 9,
+      "confidence": "high"
+    },
+    "704144": {
+      "name": "30th Celebration Pokemon Center Elite Trainer Box",
+      "set": "30C",
+      "type": "pc-etb",
+      "msrp": 59.99,
+      "packs": 11,
+      "confidence": "high"
+    },
+    "704145": {
+      "name": "30th Celebration Tech Sticker Collection [Alolan Exeggutor]",
+      "set": "30C",
+      "type": "collection",
+      "msrp": 14.99,
+      "packs": 3,
+      "confidence": "med"
+    },
+    "704146": {
+      "name": "30th Celebration Tech Sticker Collection [Lucario]",
+      "set": "30C",
+      "type": "collection",
+      "msrp": 14.99,
+      "packs": 3,
+      "confidence": "med"
+    },
+    "704148": {
+      "name": "30th Celebration 2-Pack Blister",
+      "set": "30C",
+      "type": "blister",
+      "msrp": 9.99,
+      "packs": 2,
+      "confidence": "med"
+    },
+    "704149": {
+      "name": "30th Celebration ex Tin [Sylveon ex] (International Version)",
+      "set": "30C",
+      "type": "tin",
+      "msrp": 21.99,
+      "packs": 4,
+      "confidence": "med"
+    },
+    "704150": {
+      "name": "30th Celebration ex Tin [Greninja ex] (International Version)",
+      "set": "30C",
+      "type": "tin",
+      "msrp": 21.99,
+      "packs": 4,
+      "confidence": "med"
+    },
+    "704152": {
+      "name": "30th Celebration Knock Out Collection",
+      "set": "30C",
+      "type": "collection",
+      "msrp": 9.99,
+      "packs": 2,
+      "confidence": "med"
+    },
+    "704153": {
+      "name": "30th Celebration Poster Collection",
+      "set": "30C",
+      "type": "collection",
+      "msrp": 14.99,
+      "packs": 3,
+      "confidence": "med"
+    },
+    "704155": {
+      "name": "30th Celebration Sylveon ex Box",
+      "set": "30C",
+      "type": "collection",
+      "msrp": 21.99,
+      "packs": 4,
+      "confidence": "med"
+    },
+    "704168": {
+      "name": "30th Celebration Greninja ex Box",
+      "set": "30C",
+      "type": "collection",
+      "msrp": 21.99,
+      "packs": 4,
+      "confidence": "med"
+    },
+    "704171": {
+      "name": "30th Celebration Booster Bundle",
+      "set": "30C",
+      "type": "bundle",
+      "msrp": 26.94,
+      "packs": 6,
+      "confidence": "high"
+    },
+    "704176": {
+      "name": "30th Celebration Mini Tin [Espeon]",
+      "set": "30C",
+      "type": "tin",
+      "msrp": 9.99,
+      "packs": 2,
+      "confidence": "med"
+    },
+    "704177": {
+      "name": "30th Celebration Mini Tin [Day Pikachu]",
+      "set": "30C",
+      "type": "tin",
+      "msrp": 9.99,
+      "packs": 2,
+      "confidence": "med"
+    },
+    "704178": {
+      "name": "30th Celebration Mini Tin [Mew]",
+      "set": "30C",
+      "type": "tin",
+      "msrp": 9.99,
+      "packs": 2,
+      "confidence": "med"
+    },
+    "704179": {
+      "name": "30th Celebration Mini Tin [Lapras]",
+      "set": "30C",
+      "type": "tin",
+      "msrp": 9.99,
+      "packs": 2,
+      "confidence": "med"
+    },
+    "704180": {
+      "name": "30th Celebration Mini Tin [Moltres]",
+      "set": "30C",
+      "type": "tin",
+      "msrp": 9.99,
+      "packs": 2,
+      "confidence": "med"
+    },
+    "704181": {
+      "name": "30th Celebration Mini Tin [Zapdos]",
+      "set": "30C",
+      "type": "tin",
+      "msrp": 9.99,
+      "packs": 2,
+      "confidence": "med"
+    },
+    "704182": {
+      "name": "30th Celebration Mini Tin [Umbreon]",
+      "set": "30C",
+      "type": "tin",
+      "msrp": 9.99,
+      "packs": 2,
+      "confidence": "med"
+    },
+    "704183": {
+      "name": "30th Celebration Mini Tin [Mewtwo]",
+      "set": "30C",
+      "type": "tin",
+      "msrp": 9.99,
+      "packs": 2,
+      "confidence": "med"
+    },
+    "704184": {
+      "name": "30th Celebration Mini Tin [Night Pikachu]",
+      "set": "30C",
+      "type": "tin",
+      "msrp": 9.99,
+      "packs": 2,
+      "confidence": "med"
+    },
+    "704185": {
+      "name": "30th Celebration Mini Tin [Greninja]",
+      "set": "30C",
+      "type": "tin",
+      "msrp": 9.99,
+      "packs": 2,
+      "confidence": "med"
+    },
+    "704186": {
+      "name": "30th Celebration Mini Tin Display",
+      "set": "30C",
+      "type": "tin",
+      "msrp": 99.9,
+      "packs": 20,
+      "confidence": "med"
+    },
+    "704187": {
+      "name": "30th Celebration Battle Deck [Espeon ex]",
+      "set": "30C",
+      "type": "deck",
+      "msrp": 19.99,
+      "packs": 0,
+      "confidence": "med"
+    },
+    "704188": {
+      "name": "30th Celebration Battle Deck [Umbreon ex]",
+      "set": "30C",
+      "type": "deck",
+      "msrp": 19.99,
+      "packs": 0,
+      "confidence": "med"
+    },
+    "704189": {
+      "name": "30th Celebration Ditto Premium Collection",
+      "set": "30C",
+      "type": "premium-collection",
+      "msrp": 39.99,
+      "packs": 8,
+      "confidence": "med"
+    },
+    "704190": {
+      "name": "30th Celebration Ultra-Premium Collection [Day]",
+      "set": "30C",
+      "type": "upc",
+      "msrp": 179.99,
+      "packs": 30,
+      "confidence": "med",
+      "basis": "29 packs + 1 Classic Collection pack"
+    },
+    "704191": {
+      "name": "30th Celebration Ultra-Premium Collection [Night]",
+      "set": "30C",
+      "type": "upc",
+      "msrp": 179.99,
+      "packs": 30,
+      "confidence": "med",
+      "basis": "29 packs + 1 Classic Collection pack"
+    },
+    "709095": {
+      "name": "Mega Evolution: Ascended Heroes Collection - Erika (1-Tab)",
+      "set": "ASC",
+      "type": "collection",
+      "msrp": 9.99,
+      "packs": 2,
+      "confidence": "med",
+      "basis": "PokeBeach set-guide extract"
+    },
+    "709097": {
+      "name": "Mega Evolution: Ascended Heroes Collection - Larry (1-Tab)",
+      "set": "ASC",
+      "type": "collection",
+      "msrp": 9.99,
+      "packs": 2,
+      "confidence": "med",
+      "basis": "PokeBeach set-guide extract"
+    },
+    "712093": {
+      "name": "Delta Reign 3 Pack Blister [Seel]",
+      "set": "DLR",
+      "type": "blister",
+      "msrp": 13.99,
+      "packs": 3,
+      "confidence": "med"
+    },
+    "712094": {
+      "name": "Delta Reign Booster Box",
+      "set": "DLR",
+      "type": "booster-box",
+      "msrp": 161.64,
+      "packs": 36,
+      "confidence": "high"
+    },
+    "712097": {
+      "name": "Delta Reign Booster Bundle",
+      "set": "DLR",
+      "type": "bundle",
+      "msrp": 26.94,
+      "packs": 6,
+      "confidence": "high"
+    },
+    "712099": {
+      "name": "Delta Reign Booster Pack",
+      "set": "DLR",
+      "type": "pack",
+      "msrp": 4.49,
+      "packs": 1,
+      "confidence": "med"
+    },
+    "712101": {
+      "name": "Delta Reign Build & Battle Box",
+      "set": "DLR",
+      "type": "build-battle",
+      "msrp": 21.99,
+      "packs": 4,
+      "confidence": "high"
+    },
+    "712102": {
+      "name": "Delta Reign Elite Trainer Box",
+      "set": "DLR",
+      "type": "etb",
+      "msrp": 49.99,
+      "packs": 9,
+      "confidence": "high"
+    },
+    "712104": {
+      "name": "Delta Reign Pokemon Center Elite Trainer Box (Exclusive)",
+      "set": "DLR",
+      "type": "pc-etb",
+      "msrp": 59.99,
+      "packs": 11,
+      "confidence": "high"
+    },
+    "712112": {
+      "name": "Delta Reign Sleeved Booster Pack",
+      "set": "DLR",
+      "type": "sleeved-pack",
+      "msrp": 4.49,
+      "packs": 1,
+      "confidence": "med"
+    },
+    "718673": {
+      "name": "30th Celebration ex Tin [Greninja ex] (Retail Version)",
+      "set": "30C",
+      "type": "tin",
+      "msrp": 21.99,
+      "packs": 4,
+      "confidence": "med"
+    },
+    "718674": {
+      "name": "30th Celebration ex Tin [Sylveon ex] (Retail Version)",
+      "set": "30C",
+      "type": "tin",
+      "msrp": 21.99,
+      "packs": 4,
+      "confidence": "med"
+    }
+  }
+}

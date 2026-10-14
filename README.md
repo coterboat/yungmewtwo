@@ -1,32 +1,25 @@
-# React + TypeScript + Vite
+# yungmewtwo
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A Pokémon TCG radar for two hunters: card and sealed prices with history, release drops,
+a shared board for deals and drawings, a restock log that learns your stores, a vault, and
+phone alerts. Static site on GitHub Pages; GitHub Actions does the fetching.
 
-Currently, two official plugins are available:
+Live: https://coterboat.github.io/yungmewtwo/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## How it works
 
-## React Compiler
+- `scripts/pull-tcgcsv.ts` pulls TCGplayer catalog + prices (English and Japanese) nightly from
+  [TCGCSV](https://tcgcsv.com) into `data/catalog/` and `data/snapshots/` (one file per day; that's the price history).
+- `scripts/build-site-data.ts` turns `data/` into `public/data/` at build time (builders in `scripts/site/`).
+- `data/user/*.json` is what you two write from the app (posts, sightings, watchlist, vaults). Each post is a commit.
+- `data/seed/*.json` is hand-curated: release calendar, MSRPs, pull rates, retailer notes.
+- `.github/workflows/site.yml` runs the pulls on a schedule and deploys.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Develop
 
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
-
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
 ```
-
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+npm install
+npm run data      # build public/data from data/
+npm run dev
+npm test
+```

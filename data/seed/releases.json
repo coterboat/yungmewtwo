@@ -1,0 +1,1478 @@
+[
+  {
+    "prerelease": {
+      "start": "2025-09-13",
+      "end": "2025-09-21"
+    },
+    "preorder": {
+      "date": "2025-07-15",
+      "where": "Pokémon Center",
+      "note": "limit 1 per item; virtual queue; source https://www.wargamer.com/pokemon-trading-card-game/chaos-rising-delay"
+    },
+    "products": [
+      {
+        "type": "Booster Pack (sleeved)",
+        "msrp": 4.49,
+        "packs": 1
+      },
+      {
+        "type": "Enhanced Booster Display Box",
+        "msrp": 161.64,
+        "packs": 36,
+        "note": "includes Bulbasaur box-topper promo"
+      },
+      {
+        "type": "Half Booster Display Box",
+        "msrp": null,
+        "packs": 18,
+        "note": "MSRP unknown"
+      },
+      {
+        "type": "Booster Bundle",
+        "msrp": 26.94,
+        "packs": 6
+      },
+      {
+        "type": "Elite Trainer Box (Mega Lucario or Mega Gardevoir)",
+        "msrp": 49.99,
+        "packs": 9
+      },
+      {
+        "type": "Pokémon Center ETB",
+        "msrp": 59.99,
+        "packs": 11,
+        "note": "pack count from the TCGplayer catalog; MSRP was labelled unconfirmed pre-launch"
+      },
+      {
+        "type": "Build & Battle Box",
+        "msrp": 21.99,
+        "packs": 4
+      },
+      {
+        "type": "Mega Heroes Mini Tin",
+        "msrp": null,
+        "packs": 2,
+        "note": "MSRP unknown"
+      }
+    ],
+    "id": "me01-mega-evolution",
+    "name": "Mega Evolution",
+    "code": "ME01",
+    "abbr": "MEG",
+    "region": "EN",
+    "series": "Mega Evolution",
+    "kind": "main",
+    "date": "2025-09-26",
+    "dateNote": "EMEA: prerelease from 2025-09-27, release 2025-10-10",
+    "mapsTo": "jp-m1l-mega-brave",
+    "tcgGroupId": 24380,
+    "source": "https://seller.tcgplayer.com/blog/mega-evolution-quick-facts",
+    "confidence": "high",
+    "notes": "188 cards (132 + 56 secret). JP parents are M1L Mega Brave (jp-m1l-mega-brave) and M1S Mega Symphonia (jp-m1s-mega-symphonia), both released 2025-08-01."
+  },
+  {
+    "prerelease": {
+      "start": "2025-11-01",
+      "end": "2025-11-09"
+    },
+    "preorder": {
+      "date": "2025-09-15",
+      "where": "Pokémon Center",
+      "note": "limit 1 per item; virtual queue; source https://x.com/PokemonRestocks/status/1967618667283427374"
+    },
+    "products": [
+      {
+        "type": "Booster Pack",
+        "msrp": 4.49,
+        "packs": 1
+      },
+      {
+        "type": "Booster Display Box",
+        "msrp": 161.64,
+        "packs": 36,
+        "note": "one guide (tcgprotectors) lists $144.99, which conflicts; 36 x 4.49 pattern used"
+      },
+      {
+        "type": "Booster Bundle",
+        "msrp": 26.94,
+        "packs": 6
+      },
+      {
+        "type": "Elite Trainer Box",
+        "msrp": 49.99,
+        "packs": 9
+      },
+      {
+        "type": "Pokémon Center ETB",
+        "msrp": 59.99,
+        "packs": 11,
+        "note": "pack count from the TCGplayer catalog"
+      },
+      {
+        "type": "Build & Battle Box",
+        "msrp": 21.99,
+        "packs": 4,
+        "date": "2025-11-14",
+        "note": "sold early from 2025-11-01 at select retailers"
+      },
+      {
+        "type": "Mega Charizard X ex Ultra-Premium Collection",
+        "msrp": 119.99,
+        "packs": 18
+      }
+    ],
+    "id": "me02-phantasmal-flames",
+    "name": "Mega Evolution—Phantasmal Flames",
+    "code": "ME02",
+    "abbr": "PFL",
+    "region": "EN",
+    "series": "Mega Evolution",
+    "kind": "main",
+    "date": "2025-11-14",
+    "dateNote": "US/CA/AU/NZ; TCG Live a day earlier",
+    "mapsTo": "jp-m2-inferno-x",
+    "tcgGroupId": 24448,
+    "source": "https://www.pokebeach.com/2025/09/mega-charizard-x-ex-ultra-premium-collection-revealed-for-november",
+    "confidence": "high",
+    "notes": "130 cards (94 + 36 secret)."
+  },
+  {
+    "prerelease": null,
+    "preorder": {
+      "date": "2025-11-24",
+      "where": "Pokémon Center"
+    },
+    "products": [
+      {
+        "type": "Collection (Erika / Larry)",
+        "msrp": 9.99,
+        "packs": 2,
+        "date": "2026-01-30",
+        "note": "2 packs + coin + promo; MSRP from PokeBeach set-guide extract"
+      },
+      {
+        "type": "Tech Sticker Collection (Charmander / Gastly)",
+        "msrp": 15.99,
+        "packs": 3,
+        "date": "2026-01-30"
+      },
+      {
+        "type": "2-Pack Blister (Larry's Komala / Erika's Tangela)",
+        "msrp": null,
+        "packs": 2,
+        "date": "2026-01-30",
+        "note": "MSRP unknown"
+      },
+      {
+        "type": "Elite Trainer Box",
+        "msrp": 49.99,
+        "packs": 9,
+        "date": "2026-02-20"
+      },
+      {
+        "type": "Pokémon Center ETB",
+        "msrp": 59.99,
+        "packs": 11,
+        "date": "2026-02-20"
+      },
+      {
+        "type": "Mini Tin",
+        "msrp": null,
+        "packs": 2,
+        "date": "2026-02-20",
+        "note": "MSRP unknown"
+      },
+      {
+        "type": "Premium Poster Collection (Mega Lucario / Mega Gardevoir)",
+        "msrp": 49.99,
+        "packs": 10,
+        "date": "2026-03-20"
+      },
+      {
+        "type": "First Partners Deluxe Pin Collection",
+        "msrp": 24.99,
+        "packs": 5,
+        "date": "2026-03-20",
+        "note": "some sources say 2026-03-30"
+      },
+      {
+        "type": "Booster Bundle",
+        "msrp": 26.94,
+        "packs": 6,
+        "date": "2026-04-24"
+      },
+      {
+        "type": "Mega ex Box (Meganium / Emboar / Feraligatr)",
+        "msrp": 21.99,
+        "packs": 4,
+        "date": "2026-04-24"
+      }
+    ],
+    "id": "me02-5-ascended-heroes",
+    "name": "Mega Evolution—Ascended Heroes",
+    "code": "ME02.5",
+    "abbr": "ASC",
+    "region": "EN",
+    "series": "Mega Evolution",
+    "kind": "special",
+    "date": "2026-01-30",
+    "dateNote": "Set and wave-1 products 2026-01-30; ETB and Mini Tins 2026-02-20 (the TCGplayer catalog dates the group 2026-02-20); posters and pin 2026-03-20; bundle and ex Boxes 2026-04-24",
+    "mapsTo": "jp-m2a-mega-dream-ex",
+    "tcgGroupId": 24541,
+    "source": "https://seller.tcgplayer.com/blog/ascended-heroes-quick-facts",
+    "confidence": "high",
+    "notes": "295 cards (217 + 78 secret). No booster display box and no prerelease. Collection, poster, pin and ex Box MSRPs are medium confidence."
+  },
+  {
+    "prerelease": {
+      "start": "2026-03-14",
+      "end": "2026-03-22"
+    },
+    "preorder": {
+      "date": "2026-01-08",
+      "where": "Pokémon Center"
+    },
+    "products": [
+      {
+        "type": "Booster Display Box",
+        "msrp": 161.64,
+        "packs": 36,
+        "note": "inferred; the TCGplayer table shows $230.80, which looks like a market price"
+      },
+      {
+        "type": "Elite Trainer Box",
+        "msrp": 49.99,
+        "packs": 9
+      },
+      {
+        "type": "Pokémon Center ETB",
+        "msrp": 59.99,
+        "packs": 11,
+        "note": "pack count from the TCGplayer catalog"
+      },
+      {
+        "type": "Booster Bundle",
+        "msrp": 26.94,
+        "packs": 6
+      },
+      {
+        "type": "Build & Battle Box",
+        "msrp": 21.99,
+        "packs": 4
+      }
+    ],
+    "id": "me03-perfect-order",
+    "name": "Mega Evolution—Perfect Order",
+    "code": "ME03",
+    "abbr": "POR",
+    "region": "EN",
+    "series": "Mega Evolution",
+    "kind": "main",
+    "date": "2026-03-27",
+    "mapsTo": "jp-m3-nihil-zero",
+    "tcgGroupId": 24587,
+    "source": "https://seller.tcgplayer.com/blog/perfect-order-quick-facts",
+    "confidence": "high",
+    "notes": "TCGplayer lists the prerelease as 2026-03-14 to 2026-03-26; PokeBeach says to 03-22. Standard-legal 2026-04-10, which also rotates out G-mark cards."
+  },
+  {
+    "prerelease": {
+      "start": "2026-05-09",
+      "end": "2026-05-17"
+    },
+    "preorder": {
+      "date": "2026-04-13",
+      "where": "Pokémon Center",
+      "note": "approximate: derived from \"39 days before release, latest ever for a set\""
+    },
+    "products": [
+      {
+        "type": "Booster Display Box",
+        "msrp": 161.64,
+        "packs": 36
+      },
+      {
+        "type": "Elite Trainer Box",
+        "msrp": 49.99,
+        "packs": 9,
+        "note": "one secondary source claims $64.99; nothing confirms it"
+      },
+      {
+        "type": "Pokémon Center ETB",
+        "msrp": 59.99,
+        "packs": 11,
+        "note": "pack count from the TCGplayer catalog"
+      },
+      {
+        "type": "Booster Bundle",
+        "msrp": 26.94,
+        "packs": 6,
+        "note": "Pokémon Center lists $26.94"
+      },
+      {
+        "type": "Build & Battle Box",
+        "msrp": 21.99,
+        "packs": 4
+      }
+    ],
+    "id": "me04-chaos-rising",
+    "name": "Mega Evolution—Chaos Rising",
+    "code": "ME04",
+    "abbr": "CRI",
+    "region": "EN",
+    "series": "Mega Evolution",
+    "kind": "main",
+    "date": "2026-05-22",
+    "mapsTo": "jp-m4-ninja-spinner",
+    "tcgGroupId": 24655,
+    "source": "https://www.pokebeach.com/2026/04/chaos-rising-preorders-finally-open-on-pokemon-center-the-latest-ever-for-a-set",
+    "confidence": "med",
+    "notes": "Date and set code are high confidence; MSRPs are medium (carried over from earlier ME sets and corroborated by the bundle listing)."
+  },
+  {
+    "prerelease": {
+      "start": "2026-07-04",
+      "end": "2026-07-12"
+    },
+    "preorder": {
+      "date": "2026-06-10",
+      "where": "Pokémon Center",
+      "note": "37 days before release; queue about 9 hours"
+    },
+    "products": [
+      {
+        "type": "Booster Pack (sleeved)",
+        "msrp": 4.49,
+        "packs": 1
+      },
+      {
+        "type": "Booster Display Box",
+        "msrp": 161.64,
+        "packs": 36
+      },
+      {
+        "type": "Half Booster Display Box",
+        "msrp": null,
+        "packs": 18,
+        "note": "kiosk 18-pack listed; MSRP unknown"
+      },
+      {
+        "type": "Booster Bundle",
+        "msrp": 26.94,
+        "packs": 6
+      },
+      {
+        "type": "Elite Trainer Box (Zarude promo)",
+        "msrp": 49.99,
+        "packs": 9
+      },
+      {
+        "type": "Pokémon Center ETB",
+        "msrp": 59.99,
+        "packs": 11
+      },
+      {
+        "type": "Build & Battle Box",
+        "msrp": 21.99,
+        "packs": 4
+      },
+      {
+        "type": "3-Pack Blister",
+        "msrp": 13.99,
+        "packs": 3,
+        "note": "PokeGuardian lists $13.99 and $5.49 without saying which blister; mapping assumed"
+      },
+      {
+        "type": "Single-pack blister / checklane",
+        "msrp": 5.49,
+        "packs": 1,
+        "note": "mapping unclear; low confidence"
+      },
+      {
+        "type": "Mini Portfolio + 1 pack",
+        "msrp": 5.49,
+        "packs": 1,
+        "date": "2026-10-02"
+      }
+    ],
+    "id": "me05-pitch-black",
+    "name": "Mega Evolution—Pitch Black",
+    "code": "ME05",
+    "abbr": "PBL",
+    "region": "EN",
+    "series": "Mega Evolution",
+    "kind": "main",
+    "date": "2026-07-17",
+    "mapsTo": "jp-m5-abyss-eye",
+    "tcgGroupId": 24688,
+    "source": "https://www.pokeguardian.com/3144089_mega-evolution-pitch-black-officially-revealed",
+    "confidence": "high",
+    "notes": "PokeGuardian says the MSRPs were carried over from earlier sets and unconfirmed; TCGplayer confirms ETB $49.99 and bundle $26.94. TCGplayer lists the prerelease as 2026-07-04 to 07-16. 84 main cards plus about 31 secret."
+  },
+  {
+    "prerelease": null,
+    "preorder": {
+      "date": "2026-07-15",
+      "where": "Pokémon Center",
+      "note": "queue about 6 hours; ETB limit 2"
+    },
+    "products": [
+      {
+        "type": "Elite Trainer Box (Nidorina promo)",
+        "msrp": 49.99,
+        "packs": 9
+      },
+      {
+        "type": "Pokémon Center ETB (2 promos)",
+        "msrp": 59.99,
+        "packs": 11
+      },
+      {
+        "type": "Pokémon ex Box (Sylveon ex / Greninja ex)",
+        "msrp": 21.99,
+        "packs": 4
+      },
+      {
+        "type": "Poster Collection",
+        "msrp": 14.99,
+        "packs": 3
+      },
+      {
+        "type": "Tech Sticker Collection (Alolan Exeggutor / Lucario)",
+        "msrp": 14.99,
+        "packs": 3
+      },
+      {
+        "type": "Knock Out Collection",
+        "msrp": 9.99,
+        "packs": 2
+      },
+      {
+        "type": "2-Pack Blister",
+        "msrp": 9.99,
+        "packs": 2
+      },
+      {
+        "type": "Booster Bundle",
+        "msrp": 26.94,
+        "packs": 6,
+        "date": "2026-10-02",
+        "note": "sources differ on whether this is 10-02"
+      },
+      {
+        "type": "Day & Night Mini Tin (10 designs)",
+        "msrp": 9.99,
+        "packs": 2,
+        "date": "2026-10-02"
+      },
+      {
+        "type": "Mini Tin Display (10)",
+        "msrp": 99.9,
+        "packs": 20,
+        "date": "2026-10-02"
+      },
+      {
+        "type": "Battle Deck Espeon ex / Umbreon ex",
+        "msrp": 19.99,
+        "packs": 0,
+        "date": "2026-10-30"
+      },
+      {
+        "type": "Ultra-Premium Collection Day / Night",
+        "msrp": 179.99,
+        "packs": 30,
+        "date": "2026-11-06",
+        "note": "29 packs + 1 Classic Collection pack"
+      },
+      {
+        "type": "Ditto Premium Collection",
+        "msrp": 39.99,
+        "packs": 8,
+        "date": "2026-11-06"
+      },
+      {
+        "type": "Figure Collection Mew / Mewtwo",
+        "msrp": 29.99,
+        "packs": 5,
+        "date": "2026-11-06"
+      },
+      {
+        "type": "ex Tin Sylveon ex / Greninja ex",
+        "msrp": 21.99,
+        "packs": 4,
+        "date": "2026-12-04"
+      },
+      {
+        "type": "Binder Collection",
+        "msrp": 31.99,
+        "packs": 5,
+        "date": "2026-12-04",
+        "note": "originally announced for 2026-10-02"
+      }
+    ],
+    "id": "30c-30th-celebration",
+    "name": "30th Celebration",
+    "code": "30C",
+    "abbr": "30C",
+    "region": "EN",
+    "series": "Mega Evolution era (anniversary special)",
+    "kind": "special",
+    "date": "2026-09-16",
+    "dateNote": "First simultaneous worldwide release. Product waves: 2026-10-02, 10-30, 11-06, 12-04.",
+    "mapsTo": "jp-m6a-30th-celebration",
+    "tcgGroupId": 24722,
+    "source": "https://billsarchive.com/articles/30th-anniversary-english-products-msrp.html",
+    "confidence": "med",
+    "notes": "Dates are high confidence (https://www.pokemon.com/us/pokemon-tcg/product-gallery plus ICv2 and Coded Yellow); later-wave prices come only from billsarchive and tcgdropradar. No standard EN booster box or single pack. 5 cards per pack with a guaranteed Pikachu. No prerelease found. Classic Collection reprints are the supplemental TCGplayer group 24837."
+  },
+  {
+    "prerelease": {
+      "start": "2026-10-24",
+      "end": "2026-11-01"
+    },
+    "preorder": {
+      "date": "2026-09-30",
+      "where": "Pokémon Center",
+      "note": "queue opened about 11:44 ET; sold out within hours; limits ETB 2, booster box 1, bundle 1"
+    },
+    "products": [
+      {
+        "type": "Booster Pack (sleeved)",
+        "msrp": 4.49,
+        "packs": 1
+      },
+      {
+        "type": "Booster Display Box",
+        "msrp": 161.64,
+        "packs": 36
+      },
+      {
+        "type": "Half Booster Display Box",
+        "msrp": null,
+        "packs": 18,
+        "note": "kiosk 18-pack listed; MSRP unknown"
+      },
+      {
+        "type": "Booster Bundle",
+        "msrp": 26.94,
+        "packs": 6
+      },
+      {
+        "type": "Elite Trainer Box (Kyogre promo)",
+        "msrp": 49.99,
+        "packs": 9
+      },
+      {
+        "type": "Pokémon Center ETB (2 Kyogre promos, one stamped)",
+        "msrp": 59.99,
+        "packs": 11
+      },
+      {
+        "type": "Build & Battle Box",
+        "msrp": 21.99,
+        "packs": 4,
+        "date": "2026-10-24",
+        "note": "sold at select Play! Pokémon stores from 2026-10-24"
+      },
+      {
+        "type": "3-Pack Blister",
+        "msrp": 13.99,
+        "packs": 3,
+        "note": "mapping of $13.99 / $5.49 assumed"
+      },
+      {
+        "type": "Single-pack blister",
+        "msrp": 5.49,
+        "packs": 1,
+        "note": "mapping unclear; low confidence"
+      }
+    ],
+    "id": "me06-delta-reign",
+    "name": "Mega Evolution—Delta Reign",
+    "code": "ME06",
+    "abbr": "DLR",
+    "region": "EN",
+    "series": "Mega Evolution",
+    "kind": "main",
+    "date": "2026-11-06",
+    "dateNote": "TCG Live 2026-11-05",
+    "mapsTo": "jp-m6-storm-emeralda",
+    "tcgGroupId": 24831,
+    "source": "https://www.pokeguardian.com/3231721_pokemon-tcg-mega-evolution-delta-reign-revealed",
+    "confidence": "high",
+    "notes": "Date and prerelease confirmed by https://www.setpulls.com/blog/pokemon-tcg-release-dates-2026-2027 (cites the official press schedule). Abbreviation DLR confirmed by the TCGplayer catalog (sets.json). Card count unknown (sources say over 135, 103 main, or 128). Last dated 2026 English main set."
+  },
+  {
+    "prerelease": null,
+    "preorder": null,
+    "products": [],
+    "id": "me07-aura-seeker-en",
+    "name": "English Aura Seeker (name unannounced)",
+    "code": "ME07",
+    "abbr": null,
+    "region": "EN",
+    "series": "Mega Evolution",
+    "kind": "main",
+    "date": null,
+    "dateNote": "Not announced. Guess is Jan-Feb 2027 from the usual 2-4 month JP-to-EN gap.",
+    "mapsTo": "jp-m7-aura-seeker",
+    "source": "https://pokennoisseur.ca/tools/release-calendar",
+    "confidence": "low",
+    "notes": "Placeholder for a pairing, not an announced product. Code ME07 is expected, not confirmed. Mega Lucario Z ex headlines."
+  },
+  {
+    "prerelease": null,
+    "preorder": null,
+    "products": [
+      {
+        "type": "Box with 20 mini booster packs of 3 cards each plus 5 sticker sheets (reported)",
+        "msrp": null,
+        "packs": 20,
+        "note": "MSRP unknown; card list and rarities unknown"
+      }
+    ],
+    "id": "en-valentines-box-2027",
+    "name": "Pokémon TCG Valentine's Box",
+    "region": "EN",
+    "series": null,
+    "kind": "product",
+    "date": "2027-01-27",
+    "dateNote": "Reported by PokeBeach on 2026-10-01; not officially announced",
+    "source": "https://www.pokebeach.com/2026/10/pokemon-to-release-first-ever-valentines-day-tcg-set",
+    "confidence": "low",
+    "notes": "GameRant headlines it as confirmed but only says it was teased."
+  },
+  {
+    "prerelease": null,
+    "preorder": null,
+    "products": [
+      {
+        "type": "Tin",
+        "msrp": null,
+        "packs": null,
+        "note": "MSRP unknown"
+      }
+    ],
+    "id": "en-team-rocket-tins-2025",
+    "name": "Team Rocket Tins",
+    "region": "EN",
+    "series": "SV",
+    "kind": "product",
+    "date": "2025-09-05",
+    "source": "https://icv2.com/articles/news/view/58268/pokemon-tcg-2025-product-release-calendar",
+    "confidence": "med"
+  },
+  {
+    "prerelease": null,
+    "preorder": null,
+    "products": [
+      {
+        "type": "Holiday Collection (Pokémon Center exclusive)",
+        "msrp": null,
+        "packs": null,
+        "note": "MSRP unknown"
+      }
+    ],
+    "id": "en-pokemon-center-holiday-collection-2025",
+    "name": "Pokémon Center 2025 Holiday Collection",
+    "region": "EN",
+    "series": null,
+    "kind": "product",
+    "date": "2025-10-13",
+    "source": "https://press.pokemon.com/en/Items/Schedule/Pokemon-Trading-Card-Game",
+    "confidence": "low",
+    "notes": "Listed on the press schedule per a search extract; the page could not be opened. No 2025 Trick or Trade BOOster Bundle was released (GameSpot reports only the 2024 product was on sale)."
+  },
+  {
+    "prerelease": null,
+    "preorder": null,
+    "products": [
+      {
+        "type": "League Battle Deck",
+        "msrp": null,
+        "packs": 0,
+        "note": "MSRP unknown"
+      }
+    ],
+    "id": "en-team-rockets-mewtwo-ex-league-battle-deck",
+    "name": "Team Rocket's Mewtwo ex League Battle Deck",
+    "region": "EN",
+    "series": "SV",
+    "kind": "product",
+    "date": "2025-11-07",
+    "source": "https://icv2.com/articles/news/view/58268/pokemon-tcg-2025-product-release-calendar",
+    "confidence": "med"
+  },
+  {
+    "prerelease": null,
+    "preorder": null,
+    "products": [
+      {
+        "type": "Figure Collection",
+        "msrp": null,
+        "packs": null,
+        "note": "MSRP unknown (30th Celebration figure collections are $29.99)"
+      }
+    ],
+    "id": "en-mega-lucario-ex-figure-collection",
+    "name": "Mega Lucario ex Figure Collection",
+    "region": "EN",
+    "series": "Mega Evolution",
+    "kind": "product",
+    "date": "2025-11-07",
+    "source": "https://icv2.com/articles/news/view/58268/pokemon-tcg-2025-product-release-calendar",
+    "confidence": "med"
+  },
+  {
+    "prerelease": null,
+    "preorder": null,
+    "products": [
+      {
+        "type": "Collector Chest",
+        "msrp": null,
+        "packs": null,
+        "note": "MSRP unknown"
+      }
+    ],
+    "id": "en-collector-chest-2025",
+    "name": "Collector Chest 2025",
+    "region": "EN",
+    "series": null,
+    "kind": "product",
+    "date": "2025-12-05",
+    "source": "https://icv2.com/articles/news/view/58268/pokemon-tcg-2025-product-release-calendar",
+    "confidence": "med"
+  },
+  {
+    "prerelease": null,
+    "preorder": null,
+    "products": [
+      {
+        "type": "ex Box",
+        "msrp": null,
+        "packs": null,
+        "note": "MSRP unknown (ex Boxes elsewhere are $21.99)"
+      }
+    ],
+    "id": "en-mega-kangaskhan-ex-box",
+    "name": "Mega Kangaskhan ex Box",
+    "region": "EN",
+    "series": "Mega Evolution",
+    "kind": "product",
+    "date": "2025-12-05",
+    "source": "https://icv2.com/articles/news/view/58268/pokemon-tcg-2025-product-release-calendar",
+    "confidence": "med"
+  },
+  {
+    "prerelease": null,
+    "preorder": null,
+    "products": [
+      {
+        "type": "Collection (Pikachu Pokémon Day-stamped promo, 30th-anniversary coin, 3 packs)",
+        "msrp": null,
+        "packs": 3,
+        "note": "MSRP unknown; retailer listings range $39.99-$49.99, unconfirmed"
+      }
+    ],
+    "id": "en-pokemon-day-2026-collection",
+    "name": "Pokémon Day 2026 Collection",
+    "region": "EN",
+    "series": null,
+    "kind": "product",
+    "date": "2026-01-30",
+    "source": "https://facetofacegames.com/en-us/products/pokemon-tcg-pokemon-day-2026-collection",
+    "confidence": "med"
+  },
+  {
+    "prerelease": null,
+    "preorder": null,
+    "products": [
+      {
+        "type": "Tin (x2)",
+        "msrp": null,
+        "packs": null,
+        "note": "MSRP unknown"
+      }
+    ],
+    "id": "en-mega-charizard-xy-tins-spring-2026",
+    "name": "Mega Charizard X / Y Tins (Spring 2026)",
+    "region": "EN",
+    "series": "Mega Evolution",
+    "kind": "product",
+    "date": "2026-02-20",
+    "source": "https://www.codedyellow.com/all-pokemon-tcg-products-revealed-for-2026/",
+    "confidence": "low"
+  },
+  {
+    "prerelease": null,
+    "preorder": null,
+    "products": [
+      {
+        "type": "Series 1",
+        "msrp": 17.99,
+        "packs": 3,
+        "date": "2026-03-20",
+        "note": "MSRP from one third-party guide only (low); 1 promo pack of 3 of 9 cards + 2 boosters + sticker sheet"
+      },
+      {
+        "type": "Series 2",
+        "msrp": 17.99,
+        "packs": 3,
+        "date": "2026-06-19"
+      },
+      {
+        "type": "Series 3",
+        "msrp": 17.99,
+        "packs": 3,
+        "date": "2026-08-07"
+      }
+    ],
+    "id": "en-first-partner-illustration-collection",
+    "name": "First Partner Illustration Collection Series 1 / 2 / 3",
+    "region": "EN",
+    "series": "Mega Evolution",
+    "kind": "product",
+    "date": "2026-03-20",
+    "dateNote": "Series 1 2026-03-20 (some sources 03-30), Series 2 2026-06-19 (ICv2 once listed 04-20), Series 3 2026-08-07; the TCGplayer catalog confirms 03-20, 06-19 and 08-07",
+    "tcgGroupId": 24584,
+    "source": "https://www.pokemon.com/us/news/check-out-every-pokemon-tcg-product-release-in-march-2026",
+    "confidence": "med"
+  },
+  {
+    "prerelease": null,
+    "preorder": null,
+    "products": [
+      {
+        "type": "Deck collection box (x4)",
+        "msrp": null,
+        "packs": 0,
+        "note": "MSRP unknown"
+      }
+    ],
+    "id": "en-2025-worlds-decks",
+    "name": "2025 World Championships Decks",
+    "region": "EN",
+    "series": null,
+    "kind": "product",
+    "date": "2026-04-03",
+    "dateNote": "Conflict: the pokemon.com June roundup lists 2026-06-05",
+    "source": "https://icv2.com/articles/news/view/61079/pokemon-tcg-2026-product-calendar",
+    "confidence": "low"
+  },
+  {
+    "prerelease": null,
+    "preorder": null,
+    "products": [
+      {
+        "type": "Premium Collection",
+        "msrp": 39.99,
+        "packs": 8
+      }
+    ],
+    "id": "en-mega-zygarde-ex-premium-collection",
+    "name": "Mega Zygarde ex Premium Collection",
+    "region": "EN",
+    "series": "Mega Evolution",
+    "kind": "product",
+    "date": "2026-05-22",
+    "source": "https://www.pokebeach.com/2026/02/mega-zygarde-ex-premium-collection-revealed-for-may",
+    "confidence": "high"
+  },
+  {
+    "prerelease": null,
+    "preorder": null,
+    "products": [
+      {
+        "type": "League Battle Deck",
+        "msrp": null,
+        "packs": 0,
+        "note": "MSRP unknown"
+      }
+    ],
+    "id": "en-mega-lucario-ex-league-battle-deck",
+    "name": "Mega Lucario ex League Battle Deck",
+    "region": "EN",
+    "series": "Mega Evolution",
+    "kind": "product",
+    "date": "2026-05-22",
+    "source": "https://icv2.com/articles/news/view/61079/pokemon-tcg-2026-product-calendar",
+    "confidence": "med"
+  },
+  {
+    "prerelease": null,
+    "preorder": null,
+    "products": [
+      {
+        "type": "Mini Tin / Tin",
+        "msrp": null,
+        "packs": null,
+        "note": "MSRP unknown"
+      }
+    ],
+    "id": "en-lumiose-city-mini-tins-mega-moonlit-tins",
+    "name": "Lumiose City Mini Tins + Mega Moonlit Tins",
+    "region": "EN",
+    "series": "Mega Evolution",
+    "kind": "product",
+    "date": "2026-06-05",
+    "source": "https://www.codedyellow.com/all-pokemon-tcg-products-revealed-for-2026/",
+    "confidence": "med"
+  },
+  {
+    "prerelease": null,
+    "preorder": null,
+    "products": [
+      {
+        "type": "Premium Collection",
+        "msrp": null,
+        "packs": null,
+        "note": "MSRP unknown"
+      }
+    ],
+    "id": "en-mega-greninja-ex-premium-collection",
+    "name": "Mega Greninja ex Premium Collection",
+    "region": "EN",
+    "series": "Mega Evolution",
+    "kind": "product",
+    "date": "2026-07-03",
+    "source": "https://icv2.com/articles/news/view/61079/pokemon-tcg-2026-product-calendar",
+    "confidence": "med"
+  },
+  {
+    "prerelease": null,
+    "preorder": null,
+    "products": [
+      {
+        "type": "Tin",
+        "msrp": 21.99,
+        "packs": 4,
+        "note": "price from a search extract (med)"
+      }
+    ],
+    "id": "en-mega-forces-tins",
+    "name": "Mega Forces Tins (Mega Dragonite / Darkrai / Zeraora ex)",
+    "region": "EN",
+    "series": "Mega Evolution",
+    "kind": "product",
+    "date": null,
+    "dateNote": "Originally 2026-08-28. Delayed per Magic Madhouse (2026-07-02) and not rescheduled; retailers expect late 2026 (2026-11-27 and 2026-12-04 are unconfirmed placeholders). The delay is not reflected on the official pokemon.com page.",
+    "source": "https://icv2.com/articles/news/view/62607/pokemon-tcg-mega-forces-tins-incoming",
+    "confidence": "med"
+  },
+  {
+    "prerelease": null,
+    "preorder": null,
+    "products": [
+      {
+        "type": "Enhanced 2-Pack Blister (cosmos holo, coin)",
+        "msrp": 10.99,
+        "packs": 2
+      }
+    ],
+    "id": "en-enhanced-2-pack-blister-2026-10",
+    "name": "Enhanced 2-Pack Blister (Gengar / Team Rocket's Mimikyu / Marshadow)",
+    "region": "EN",
+    "series": "Mega Evolution",
+    "kind": "product",
+    "date": "2026-10-02",
+    "source": "https://screenrant.com/pokemon-tcg-products-releasing-october-2026/",
+    "confidence": "med"
+  },
+  {
+    "prerelease": null,
+    "preorder": null,
+    "products": [
+      {
+        "type": "Mini Portfolio (60 cards) + 1 Pitch Black pack",
+        "msrp": 5.49,
+        "packs": 1,
+        "note": "one guide lists $8.99; ScreenRant $5.49"
+      }
+    ],
+    "id": "en-pitch-black-mini-portfolio",
+    "name": "Mini Portfolio (Pitch Black)",
+    "region": "EN",
+    "series": "Mega Evolution",
+    "kind": "product",
+    "date": "2026-10-02",
+    "source": "https://screenrant.com/pokemon-tcg-products-releasing-october-2026/",
+    "confidence": "med"
+  },
+  {
+    "prerelease": null,
+    "preorder": null,
+    "products": [
+      {
+        "type": "Deck Crafter's Collection (new product type, with a Pitch Black booster)",
+        "msrp": 9.99,
+        "packs": 1
+      }
+    ],
+    "id": "en-deck-crafters-collection-2026",
+    "name": "Deck Crafter's Collection (Meowth ex)",
+    "region": "EN",
+    "series": "Mega Evolution",
+    "kind": "product",
+    "date": "2026-10-23",
+    "source": "https://www.pokebeach.com/2026/08/new-pokemon-tcg-deck-crafters-collection-to-release-in-october",
+    "confidence": "med"
+  },
+  {
+    "prerelease": null,
+    "preorder": null,
+    "products": [
+      {
+        "type": "League Battle Deck",
+        "msrp": null,
+        "packs": 0,
+        "note": "MSRP unknown"
+      }
+    ],
+    "id": "en-mega-greninja-ex-league-battle-deck",
+    "name": "Mega Greninja ex League Battle Deck",
+    "region": "EN",
+    "series": "Mega Evolution",
+    "kind": "product",
+    "date": "2026-11-11",
+    "dateNote": "Coded Yellow says 2026-11-13",
+    "source": "https://icv2.com/articles/news/view/61079/pokemon-tcg-2026-product-calendar",
+    "confidence": "low"
+  },
+  {
+    "prerelease": null,
+    "preorder": null,
+    "products": [],
+    "id": "en-post-delta-reign-unannounced",
+    "name": "EN releases after Delta Reign (ex★ series, MEGA x MEGA Parade, anything else)",
+    "region": "EN",
+    "series": null,
+    "kind": "main",
+    "date": null,
+    "dateNote": "Nothing announced. The press schedule ends at Delta Reign.",
+    "source": "https://www.setpulls.com/blog/pokemon-tcg-release-dates-2026-2027",
+    "confidence": "high",
+    "notes": "Placeholder, not a real product. Confidence is high that nothing further is announced. A Pokémon: Wild Card animated TCG movie is also reported for 2027."
+  },
+  {
+    "prerelease": null,
+    "preorder": null,
+    "products": [],
+    "id": "jp-m1l-mega-brave",
+    "name": "Mega Brave",
+    "code": "M1L",
+    "abbr": "m1L",
+    "region": "JP",
+    "series": "MEGA",
+    "kind": "main",
+    "date": "2025-08-01",
+    "dateNote": "Before the 2025-09-01 window; included so the JP-to-EN lag can be computed",
+    "mapsTo": "me01-mega-evolution",
+    "tcgGroupId": 24399,
+    "source": "https://samuraiswordtokyo.com/pages/release-calendar",
+    "confidence": "high",
+    "notes": "Paired with M1S Mega Symphonia (released the same day)."
+  },
+  {
+    "prerelease": null,
+    "preorder": null,
+    "products": [],
+    "id": "jp-m1s-mega-symphonia",
+    "name": "Mega Symphonia",
+    "code": "M1S",
+    "abbr": "m1S",
+    "region": "JP",
+    "series": "MEGA",
+    "kind": "main",
+    "date": "2025-08-01",
+    "dateNote": "Before the 2025-09-01 window; included so the JP-to-EN lag can be computed",
+    "mapsTo": "me01-mega-evolution",
+    "tcgGroupId": 24400,
+    "source": "https://samuraiswordtokyo.com/pages/release-calendar",
+    "confidence": "high",
+    "notes": "Paired with M1L Mega Brave (released the same day)."
+  },
+  {
+    "prerelease": null,
+    "preorder": null,
+    "products": [
+      {
+        "type": "Starter Set",
+        "msrp": null,
+        "packs": null,
+        "note": "JPY 1800"
+      }
+    ],
+    "id": "jp-mega-starter-set-mega-gengar-ex",
+    "name": "MEGA Starter Set Mega Gengar ex",
+    "code": "MBG",
+    "abbr": "MBG",
+    "region": "JP",
+    "series": "MEGA",
+    "kind": "product",
+    "date": "2025-09-05",
+    "dateNote": "Bulbapedia says 2025-09-05; the TCGplayer catalog dates group 24444 as 2025-09-12",
+    "mapsTo": null,
+    "tcgGroupId": 24444,
+    "source": "https://bulbapedia.bulbagarden.net/wiki/MEGA_Starter_Set_Mega_Gengar_ex_(TCG)",
+    "confidence": "low",
+    "notes": "English Mega Battle Deck (Mega Gengar ex / Mega Diancie ex) is probably the counterpart; unconfirmed."
+  },
+  {
+    "prerelease": null,
+    "preorder": null,
+    "products": [
+      {
+        "type": "Booster Pack",
+        "msrp": null,
+        "packs": 1,
+        "note": "JPY 180 (assumed standard price before 2026-05)"
+      },
+      {
+        "type": "Box",
+        "msrp": null,
+        "packs": 30,
+        "note": "JPY 5400 (assumed)"
+      }
+    ],
+    "id": "jp-m2-inferno-x",
+    "name": "Inferno X",
+    "code": "M2",
+    "abbr": "M2",
+    "region": "JP",
+    "series": "MEGA",
+    "kind": "main",
+    "date": "2025-09-26",
+    "mapsTo": "me02-phantasmal-flames",
+    "tcgGroupId": 24459,
+    "source": "https://samuraiswordtokyo.com/pages/release-calendar",
+    "confidence": "high"
+  },
+  {
+    "prerelease": null,
+    "preorder": null,
+    "products": [
+      {
+        "type": "High Class Pack",
+        "msrp": null,
+        "packs": null,
+        "note": "MSRP unknown"
+      }
+    ],
+    "id": "jp-m2a-mega-dream-ex",
+    "name": "MEGA Dream ex",
+    "code": "M2a",
+    "abbr": "M2a",
+    "region": "JP",
+    "series": "MEGA",
+    "kind": "special",
+    "date": "2025-11-28",
+    "mapsTo": "me02-5-ascended-heroes",
+    "tcgGroupId": 24499,
+    "source": "https://samuraiswordtokyo.com/pages/release-calendar",
+    "confidence": "high"
+  },
+  {
+    "prerelease": null,
+    "preorder": null,
+    "products": [],
+    "id": "jp-start-deck-100-battle-collection",
+    "name": "Start Deck 100 Battle Collection",
+    "region": "JP",
+    "series": null,
+    "kind": "product",
+    "date": "2025-12-19",
+    "mapsTo": null,
+    "tcgGroupId": 24567,
+    "source": "https://www.justinbasil.com/new",
+    "confidence": "low",
+    "notes": "The TCGplayer catalog dates it 2025-12-19 as well (group 24567; CoroCiao version is group 24607)."
+  },
+  {
+    "prerelease": null,
+    "preorder": null,
+    "products": [
+      {
+        "type": "Booster Pack",
+        "msrp": null,
+        "packs": 1,
+        "note": "JPY 180"
+      },
+      {
+        "type": "Box",
+        "msrp": null,
+        "packs": 30,
+        "note": "JPY 5400"
+      }
+    ],
+    "id": "jp-m3-nihil-zero",
+    "name": "Nihil Zero (ムニキスゼロ)",
+    "code": "M3",
+    "abbr": "M3",
+    "region": "JP",
+    "series": "MEGA",
+    "kind": "main",
+    "date": "2026-01-23",
+    "mapsTo": "me03-perfect-order",
+    "tcgGroupId": 24600,
+    "source": "https://samuraiswordtokyo.com/pages/release-calendar",
+    "confidence": "high",
+    "notes": "80 main cards, 117 with secrets."
+  },
+  {
+    "prerelease": null,
+    "preorder": null,
+    "products": [],
+    "id": "jp-mega-gallade-ex-special-card-set",
+    "name": "Mega Gallade ex Special Card Set",
+    "region": "JP",
+    "series": "MEGA",
+    "kind": "product",
+    "date": "2026-01-23",
+    "mapsTo": null,
+    "source": "https://samuraiswordtokyo.com/pages/release-calendar",
+    "confidence": "med",
+    "notes": "Released alongside M3."
+  },
+  {
+    "prerelease": null,
+    "preorder": null,
+    "products": [
+      {
+        "type": "Booster Pack",
+        "msrp": null,
+        "packs": 1,
+        "note": "JPY 180"
+      },
+      {
+        "type": "Box",
+        "msrp": null,
+        "packs": 30,
+        "note": "JPY 5400"
+      }
+    ],
+    "id": "jp-m4-ninja-spinner",
+    "name": "Ninja Spinner (ニンジャスピナー)",
+    "code": "M4",
+    "abbr": "m4",
+    "region": "JP",
+    "series": "MEGA",
+    "kind": "main",
+    "date": "2026-03-13",
+    "mapsTo": "me04-chaos-rising",
+    "tcgGroupId": 24653,
+    "source": "https://samuraiswordtokyo.com/pages/release-calendar",
+    "confidence": "high"
+  },
+  {
+    "prerelease": null,
+    "preorder": null,
+    "products": [
+      {
+        "type": "Booster Pack",
+        "msrp": null,
+        "packs": 1,
+        "note": "JPY 200"
+      },
+      {
+        "type": "Box",
+        "msrp": null,
+        "packs": 30,
+        "note": "JPY 6000 (early retail listings)"
+      }
+    ],
+    "id": "jp-m5-abyss-eye",
+    "name": "Abyss Eye (アビスアイ)",
+    "code": "M5",
+    "abbr": "M5",
+    "region": "JP",
+    "series": "MEGA",
+    "kind": "main",
+    "date": "2026-05-22",
+    "mapsTo": "me05-pitch-black",
+    "tcgGroupId": 24711,
+    "source": "https://samuraiswordtokyo.com/pages/release-calendar",
+    "confidence": "high",
+    "notes": "First set at the new 200-yen price; the increase was announced 2026-01-30 (https://www.toy-people.com/en/?p=107219)."
+  },
+  {
+    "prerelease": null,
+    "preorder": null,
+    "products": [
+      {
+        "type": "Booster Pack",
+        "msrp": null,
+        "packs": 1,
+        "note": "JPY 200"
+      },
+      {
+        "type": "Box",
+        "msrp": null,
+        "packs": 30,
+        "note": "JPY 6000 (early retail listings)"
+      }
+    ],
+    "id": "jp-m6-storm-emeralda",
+    "name": "Storm Emeralda (ストームエメラルダ)",
+    "code": "M6",
+    "abbr": "m6",
+    "region": "JP",
+    "series": "MEGA",
+    "kind": "main",
+    "date": "2026-07-31",
+    "mapsTo": "me06-delta-reign",
+    "tcgGroupId": 24791,
+    "source": "https://samuraiswordtokyo.com/pages/release-calendar",
+    "confidence": "high",
+    "notes": "JP-to-EN gap is 98 days, the longest on record. The TCGplayer catalog also lists three JP starter sets of the same date (groups 24792, 24793, 24794)."
+  },
+  {
+    "prerelease": null,
+    "preorder": null,
+    "products": [
+      {
+        "type": "Booster Pack",
+        "msrp": null,
+        "packs": 1,
+        "note": "JPY 360"
+      },
+      {
+        "type": "Box (Japanese residents only)",
+        "msrp": null,
+        "packs": 20,
+        "note": "JPY 7200"
+      },
+      {
+        "type": "Premium Deck Set Espeon & Umbreon",
+        "msrp": null,
+        "packs": 0,
+        "note": "JPY 6200; TCGplayer group 24856"
+      },
+      {
+        "type": "Futuristic Box (Pokémon Center Online exclusive)",
+        "msrp": null,
+        "packs": 0,
+        "note": "JPY 27500"
+      }
+    ],
+    "id": "jp-m6a-30th-celebration",
+    "name": "30th CELEBRATION",
+    "code": "M6a",
+    "abbr": "m6a",
+    "region": "JP",
+    "series": "MEGA",
+    "kind": "special",
+    "date": "2026-09-16",
+    "mapsTo": "30c-30th-celebration",
+    "tcgGroupId": 24721,
+    "source": "https://billsarchive.com/articles/30th-anniversary-english-products-msrp.html",
+    "confidence": "high",
+    "notes": "Same-day worldwide release with the EN set."
+  },
+  {
+    "prerelease": null,
+    "preorder": null,
+    "products": [
+      {
+        "type": "Card Set (3 holo starter promos and a card stand)",
+        "msrp": null,
+        "packs": 2,
+        "note": "JPY 1200 each"
+      }
+    ],
+    "id": "jp-30th-celebration-card-sets",
+    "name": "30th CELEBRATION Card Sets x9 (Kanto to Paldea)",
+    "region": "JP",
+    "series": "MEGA",
+    "kind": "product",
+    "date": "2026-10-16",
+    "mapsTo": null,
+    "source": "https://billsarchive.com/articles/30th-anniversary-english-products-msrp.html",
+    "confidence": "med",
+    "notes": "No EN pairing listed."
+  },
+  {
+    "prerelease": null,
+    "preorder": null,
+    "products": [],
+    "id": "jp-special-deck-set-mega-feraligatr-dragonite-gengar",
+    "name": "Special Deck Set (Mega Feraligatr ex / Mega Dragonite ex / Mega Gengar ex)",
+    "region": "JP",
+    "series": "MEGA",
+    "kind": "product",
+    "date": "2026-11-13",
+    "mapsTo": null,
+    "source": "https://www.pokebeach.com/2026/05/aura-seeker-japanese-tcg-set-to-release-in-november",
+    "confidence": "low",
+    "notes": "Date taken from a search extract of PokeBeach's JP schedule coverage."
+  },
+  {
+    "prerelease": null,
+    "preorder": null,
+    "products": [
+      {
+        "type": "Booster Pack (5 cards)",
+        "msrp": null,
+        "packs": 1,
+        "note": "JPY 200"
+      },
+      {
+        "type": "Box",
+        "msrp": null,
+        "packs": 30,
+        "note": "JPY 6000 (estimated)"
+      }
+    ],
+    "id": "jp-m7-aura-seeker",
+    "name": "Aura Seeker",
+    "code": "M7",
+    "abbr": null,
+    "region": "JP",
+    "series": "MEGA",
+    "kind": "main",
+    "date": "2026-11-27",
+    "dateNote": "Reported (PokeBeach 2026-05-25), not found on an official date page",
+    "mapsTo": "me07-aura-seeker-en",
+    "source": "https://www.pokebeach.com/2026/05/aura-seeker-japanese-tcg-set-to-release-in-november",
+    "confidence": "med",
+    "notes": "78 main cards. Pack art appears on the Elite Fourum thread and the name is trademarked. Mega Lucario Z ex headlines; the Mega Attack Rare tier is expected to continue. No TCGplayer group yet."
+  },
+  {
+    "prerelease": null,
+    "preorder": null,
+    "products": [
+      {
+        "type": "High Class Pack",
+        "msrp": null,
+        "packs": null,
+        "note": "MSRP unknown"
+      }
+    ],
+    "id": "jp-mega-x-mega-parade",
+    "name": "MEGA x MEGA Parade",
+    "region": "JP",
+    "series": "MEGA",
+    "kind": "special",
+    "date": "2027-02-19",
+    "dateNote": "Reported by PokeBeach on 2026-08-25, not official; a retailer placeholder of 2027-02-17 also exists",
+    "mapsTo": null,
+    "source": "https://www.pokebeach.com/2026/08/mega-x-mega-parade-high-class-pokemon-tcg-set-to-release-in-february",
+    "confidence": "low",
+    "notes": "EN pairing unknown (later 2027 likely)."
+  },
+  {
+    "prerelease": null,
+    "preorder": null,
+    "products": [],
+    "id": "jp-ex-star-series-first-set",
+    "name": "ex★ (ex Star) series, first set",
+    "region": "JP",
+    "series": "ex★",
+    "kind": "main",
+    "date": null,
+    "dateNote": "No set name or date. Teased at the Worlds 2026 closing ceremony (Raikou, Entei, Suicune).",
+    "mapsTo": null,
+    "source": "https://www.pokeguardian.com/3346278_mega-lucario-z-ex-revealed-more-mega-attack-rare-cards-revealed-ex-star-series-teased",
+    "confidence": "high",
+    "notes": "Confidence is high that it was teased and nothing more is known. Placeholder row."
+  }
+]

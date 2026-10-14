@@ -1,0 +1,313 @@
+[
+  {
+    "retailer": "Pokémon Center",
+    "limits": [
+      "Preorder limits seen: 1 per item (ME, PFL), ETB 2 / booster box 1 / bundle 1 (Delta Reign), ETB 2 (30th Celebration)",
+      "Per-product limits shown on each product page (e.g. 2 per order on the Pitch Black bundle)",
+      "Orders over the limit are silently cancelled (low; third-party guide)"
+    ],
+    "patterns": [
+      "Preorders open months ahead: ME 2025-07-15, PFL 2025-09-15, ASC 2025-11-24, POR 2026-01-08, CRI about 2026-04-13, PBL 2026-06-10, 30C 2026-07-15, DLR 2026-09-30",
+      "Live restocks reported on weekdays, about 10am-4pm ET, median near noon (low; tracker data)",
+      "Queue opened about 11:44 ET for the Delta Reign drop; sold out within hours"
+    ],
+    "programs": [
+      "Queue-it style virtual waiting room since early 2025; refreshing, extra tabs or switching devices can lose your place (med)",
+      "About 5-10 minutes to check out once admitted (low; not official)",
+      "Queues: 30C preorder about 6 hours, Pitch Black about 9 hours, Delta Reign up to 12 hours reported",
+      "No US invitation or lottery system found (lotteries exist only on Pokémon Center Japan)"
+    ],
+    "notes": [
+      "About 2026-09-07/08 thousands of 30C preorders were cancelled in a bot purge; some real buyers were caught (Kotaku, Dexerto; no official statement)",
+      "One report cites bot accounts sharing orders of up to 28 ETBs on the Delta Reign drop (low)",
+      "PC ETBs: 11 packs, 2 promos, $59.99"
+    ],
+    "sources": [
+      "https://www.wargamer.com/pokemon-trading-card-game/chaos-rising-delay",
+      "https://www.pokebeach.com/2026/09/delta-reign-preorders-now-live-on-pokemon-center",
+      "https://www.josephwriteranderson.com/blog/30th-celebration-pokmon-center-preorders-go-live-with-6-hour-wait",
+      "https://kotaku.com/pokemon-tcg-30th-celebration-orders-cancelled-bots-scalpers-center-company-2000732116",
+      "https://tcgdropradar.com/blog/pokemon-center-restock-guide/",
+      "https://polkastarter.com/blog/delta-reign-preorders-sold-out"
+    ],
+    "asOf": "2026-10-14"
+  },
+  {
+    "retailer": "Target",
+    "limits": [
+      "30th Celebration launch: 2 per SKU, one transaction per card, personal use only, no camping (secondary reports, low-med; no Target press release)",
+      "Pokémon x Target collab: 1 per item per guest, in store and online (June 2026, ScreenRant)",
+      "Pack-level limits set by individual stores and enforced unevenly"
+    ],
+    "patterns": [
+      "Online drops overnight, about 1-6am ET (low; tracker claims Tue/Wed, Friday busiest)",
+      "30C online sales opened 3:00am ET on 2026-09-16 and were reportedly over by about 5:45am (low)",
+      "In-store restock by a third-party vendor, commonly Friday mornings, but varies by store (low)",
+      "Target-exclusive checklane blisters exist (Pitch Black, Delta Reign)"
+    ],
+    "programs": [
+      "No lottery or queue found"
+    ],
+    "notes": [
+      "Target Plus partners (e.g. BlueProton) listed Pokémon at 2-3x MSRP on target.com in May 2025 (high)",
+      "Target's own bundle price rose $29.99 to $31.99 on 2026-06-26 (Kotaku, med-high), about 20% over the $26.94 MSRP",
+      "No official nationwide restock calendar"
+    ],
+    "sources": [
+      "https://www.thebulletintime.com/news/target-pokemon-30th-anniversary-tcg-release-limits",
+      "https://screenrant.com/target-pokemon-card-limits-policy-changes/",
+      "https://comicbook.com/gaming/news/pokemon-tcg-prices-fixed-after-target-backlash/",
+      "https://kotaku.com/pokemon-tcg-where-target-stock-prices-gouging-scalpers-2000711454",
+      "https://tcgdropradar.com/retailer/target/"
+    ],
+    "asOf": "2026-10-14"
+  },
+  {
+    "retailer": "Walmart",
+    "limits": [
+      "Max 5 trading-card packs or boxes per visit, in store and online, effective 2025-11-05, all TCG brands (high)"
+    ],
+    "patterns": [
+      "Online drops often reported Wednesday nights about 9pm ET (low)",
+      "Thursday-morning in-store vendor arrivals reported (low)"
+    ],
+    "programs": [
+      "Weekly \"Collectibles Drawings\": free entry, usually Wednesday 5pm ET (2pm PT), window about 1 hour, winners random and auto-charged (med)",
+      "Drawing prices can exceed MSRP (e.g. Prismatic Evolutions ETB $69 shipped); items may not be returnable",
+      "Used for 30th Celebration items"
+    ],
+    "notes": [
+      "Marketplace sellers list at inflated prices; check \"sold and shipped by Walmart\"",
+      "No Walmart+ advantage confirmed for drawings"
+    ],
+    "sources": [
+      "https://www.pokebeach.com/forums/threads/walmart-imposing-purchase-limits-on-pokemon-cards-starting-november-5th.156498/",
+      "https://hip2save.com/deals/walmart-draw/",
+      "https://kotaku.com/pokemon-trading-card-tcg-scalper-walmart-purchase-limit-2000641073",
+      "https://tcgdropradar.com/retailer/walmart/"
+    ],
+    "asOf": "2026-10-14"
+  },
+  {
+    "retailer": "Best Buy",
+    "limits": [
+      "Limits vary by SKU and store; 1 per item at the Journey Together launch (2025), up to 8 sleeved packs (med-low)"
+    ],
+    "patterns": [
+      "No reliable restock schedule found"
+    ],
+    "programs": [
+      "Account-based queue for high-demand items; held items stay in cart about 10 minutes (low-med)",
+      "Early preorder access for My Best Buy Plus members reported (low)"
+    ],
+    "notes": [
+      "Many items online with in-store pickup; some reviewers say Pokémon is in-store only (conflicting)",
+      "Marketplace sellers list 30C ETB at $221.99-$289 (folio.fyi)"
+    ],
+    "sources": [
+      "https://folio.fyi/blog/where-to-buy-pokemon-cards",
+      "https://www.themovieblog.com/2026/10/pokemon-tcg-delta-reign-preorder-chaos/"
+    ],
+    "asOf": "2026-10-14"
+  },
+  {
+    "retailer": "GameStop",
+    "limits": [
+      "No per-customer limits found"
+    ],
+    "patterns": [
+      "Sells new Pokémon sealed at 2-4x MSRP (Gadget Review, 2026-07-15): 30C ETB $129.99 then $169.99, bundles $60-$90",
+      "Rarely posts online restocks (tracker note, low)"
+    ],
+    "programs": [
+      "Preorders require a 50% deposit (med)",
+      "Pro member discount about 5% (e.g. $84.99 shown as $80.74)"
+    ],
+    "notes": [
+      "After backlash: UPC $599.99 down to $399.99, ETB $99.99, bundles $59.99 (still about 2x MSRP, low-med)",
+      "Nintendo's president pledged agreements to curb above-MSRP reselling",
+      "A PokeBeach thread reports GameStop discontinuing Pokémon preorders at some point (date unclear, low)"
+    ],
+    "sources": [
+      "https://www.gadgetreview.com/gamestop-is-marking-up-pokemon-cards-by-over-300-percent",
+      "https://www.techtimes.com/articles/327680/20260917/pokemon-tcg-30th-celebration-launches-worldwide-gamestop-lists-etb-triple-price.htm"
+    ],
+    "asOf": "2026-10-14"
+  },
+  {
+    "retailer": "Costco",
+    "limits": [
+      "Per-warehouse limits; 3 per member typical, 10 on one opening day (2024 Reddit reports, low)"
+    ],
+    "patterns": [
+      "Occasional rotating exclusive bundles (e.g. catalog lists a Costco Ascended Heroes Mega ex Box Bundle)",
+      "Stock sells out in hours at the warehouse (low)"
+    ],
+    "programs": [
+      "None found"
+    ],
+    "notes": [
+      "No Pokémon cards listed online on 2026-09-24 (folio.fyi)",
+      "Restock dates unpublished"
+    ],
+    "sources": [
+      "https://www.eatthis.com/costco-pokemon-cards-purchase-limits/",
+      "https://folio.fyi/blog/where-to-buy-pokemon-cards"
+    ],
+    "asOf": "2026-10-14"
+  },
+  {
+    "retailer": "Sam's Club",
+    "limits": [
+      "Exclusives typically limited to 2 per membership (low-med)"
+    ],
+    "patterns": [
+      "Infrequent coordinated waves; clubs can be empty for weeks (low)"
+    ],
+    "programs": [
+      "Online drops require Plus membership (low)"
+    ],
+    "notes": [
+      "Exclusives seen in the catalog: Ascended Heroes Focused Fighters Premium Collection, Prismatic Evolutions Bundle + Surprise Box, Black Bolt / White Flare Binder & Unova Poster",
+      "No Pokémon listed online on 2026-09-24"
+    ],
+    "sources": [
+      "https://www.trackalacker.com/articles/news/the-ultimate-guide-to-pokemon-drops-at-sam-s-club",
+      "https://folio.fyi/blog/where-to-buy-pokemon-cards"
+    ],
+    "asOf": "2026-10-14"
+  },
+  {
+    "retailer": "Amazon",
+    "limits": [
+      "No limits found"
+    ],
+    "patterns": [
+      "Restocks irregular"
+    ],
+    "programs": [
+      "Request-invite lottery reported for the 30th Celebration ETB (one report, low)",
+      "Past invite systems for hot sets (low)"
+    ],
+    "notes": [
+      "Third-party sellers inflate prices and can list counterfeit or resealed product; buy items sold and shipped by Amazon",
+      "30C ETB relisted at $159.99 after an $89.99 invite price (low)"
+    ],
+    "sources": [
+      "https://time.news/pokemon-30th-celebration-etb-hits-159-99-on-amazon-near-market-value/",
+      "https://folio.fyi/blog/where-to-buy-pokemon-cards"
+    ],
+    "asOf": "2026-10-14"
+  },
+  {
+    "retailer": "Dick's Sporting Goods",
+    "limits": [
+      "Online per-order caps: Pitch Black bundle 2 per order / 2 per athlete, Perfect Order bundle 1, Prismatic Evolutions bundle 2 (med)"
+    ],
+    "patterns": [
+      "In-store stocking uncertain: folio.fyi says it does not regularly stock cards (low, conflicting)"
+    ],
+    "programs": [
+      "None found"
+    ],
+    "notes": [
+      "Sells some Mega Evolution-era booster bundles online; all sales final, no price matching",
+      "Limits may differ in store"
+    ],
+    "sources": [
+      "https://www.dickssportinggoods.com/p/pokmon-tcg-mega-pitch-black-booster-bundle-26pokucasuxswdciihcrc/26pokucasuxswdciihcrc",
+      "https://folio.fyi/blog/where-to-buy-pokemon-cards"
+    ],
+    "asOf": "2026-10-14"
+  },
+  {
+    "retailer": "Barnes & Noble",
+    "limits": [
+      "Anecdotal 1 per customer on Prismatic Evolutions and Chaos Rising packs (low; TikTok reports, no chain policy found)"
+    ],
+    "patterns": [
+      "Nothing known"
+    ],
+    "programs": [
+      "None found"
+    ],
+    "notes": [
+      "No official statement on 2026 Pokémon stock or limits found; stocking varies by store"
+    ],
+    "sources": [
+      "https://www.tiktok.com/discover/whats-the-barnes-noble-pokemon-limit"
+    ],
+    "asOf": "2026-10-14"
+  },
+  {
+    "retailer": "Five Below",
+    "limits": [
+      "Drop on 2026-09-12 limited to 3 packs per person (X post, low-med)",
+      "Many stores cap at 5 per customer (low)"
+    ],
+    "patterns": [
+      "Drop at store opening (about 10am local); limited booster packs from various sets; call ahead",
+      "Single boosters sell out fast (low)"
+    ],
+    "programs": [
+      "Occasional store-wide TCG drops (one on 2026-09-12)"
+    ],
+    "notes": [
+      "Online exclusive mystery bundle was out of stock",
+      "One reply claims stores only got Pitch Black product (unverified)"
+    ],
+    "sources": [
+      "https://x.com/PokeRestockHQ/status/2098560351952339287",
+      "https://folio.fyi/blog/where-to-buy-pokemon-cards"
+    ],
+    "asOf": "2026-10-14"
+  },
+  {
+    "retailer": "Walgreens / CVS",
+    "limits": [
+      "No official limits found"
+    ],
+    "patterns": [
+      "Mostly in-store restocks, no fixed schedule",
+      "TikTok claim of Tue/Thu restocks is unreliable (low)"
+    ],
+    "programs": [
+      "None found"
+    ],
+    "notes": [
+      "Mainly booster packs and 3-pack blisters, rarely tins; no ETBs or booster boxes (low-med)",
+      "Pricing reported at MSRP in one guide and $1-$2 over in another (conflicting)"
+    ],
+    "sources": [
+      "https://restockd.app/brands/pokemon",
+      "https://indoorgamebunker.com/does-walgreens-cvs-sell-pokemon-cards/",
+      "https://folio.fyi/blog/where-to-buy-pokemon-cards"
+    ],
+    "asOf": "2026-10-14"
+  },
+  {
+    "retailer": "Local game stores",
+    "limits": [
+      "Store-set limits, e.g. a Pokémon Day 2026 listing capped at 3 units (one retailer)"
+    ],
+    "patterns": [
+      "Allocation tight since 2023 and not loosened in 2026 (blog claim, low)",
+      "Restocks take weeks; set by distributor allocation"
+    ],
+    "programs": [
+      "Priority preorder / loyalty programs at some stores (e.g. a Delta Reign priority allocation reward)",
+      "Account-history based allocation reported anecdotally (low)",
+      "Play! Pokémon prerelease events: Delta Reign 2026-10-24 to 11-01 (Build & Battle Box sold from 10-24)"
+    ],
+    "notes": [
+      "Best route to MSRP for ETBs and boxes when big-box stores upcharge, but stock is limited",
+      "No official distributor statement on 2026 allocations found"
+    ],
+    "sources": [
+      "https://pagecrawl.io/blog/pokemon-tcg-restock-new-set-drop-alerts",
+      "https://www.delightfultcg.com/blogs/articles/pok-mon-tcg-preorder-checklist-for-new-releases",
+      "https://www.digitalmediavending.com/pokemon-tcg-new-set-release-vending-strategy"
+    ],
+    "asOf": "2026-10-14"
+  }
+]

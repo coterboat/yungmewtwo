@@ -1,0 +1,444 @@
+{
+  "MEG": {
+    "name": "Mega Evolution",
+    "tcgGroupId": 24380,
+    "cardsPerPack": 10,
+    "confidence": "med",
+    "note": "TCGplayer Authentication Center, 5,000+ packs; read via secondary pages because the TCGplayer article itself would not load. Each of the 2 Mega Hyper Rare cards is about 1 in 2520.",
+    "tiers": [
+      {
+        "rarity": "Double Rare",
+        "perPack": 5,
+        "source": "TCGplayer via https://pullrates.com/set/mega-evolution"
+      },
+      {
+        "rarity": "Illustration Rare",
+        "perPack": 9,
+        "source": "same"
+      },
+      {
+        "rarity": "Ultra Rare",
+        "perPack": 12,
+        "source": "same"
+      },
+      {
+        "rarity": "Special Illustration Rare",
+        "perPack": 101,
+        "source": "same"
+      },
+      {
+        "rarity": "Mega Hyper Rare",
+        "perPack": 1260,
+        "source": "same; https://www.thepricedex.com/set/me1/mega-evolution/pull-rates"
+      }
+    ]
+  },
+  "PFL": {
+    "name": "Mega Evolution—Phantasmal Flames",
+    "tcgGroupId": 24448,
+    "cardsPerPack": 10,
+    "confidence": "med",
+    "note": "TCGplayer 5,000+ packs, updated 2026-02-24. One Mega Hyper Rare card (Mega Charizard X ex). Any single SIR is about 1 in 400 (GameRant).",
+    "tiers": [
+      {
+        "rarity": "Double Rare",
+        "perPack": 5,
+        "source": "TCGplayer via https://tcgprotectors.com/blogs/pokemon-blog/phantasmal-flames-pull-rates-10000-packs-analyzed-hits-or-misses"
+      },
+      {
+        "rarity": "Illustration Rare",
+        "perPack": 9,
+        "source": "same"
+      },
+      {
+        "rarity": "Ultra Rare",
+        "perPack": 12,
+        "source": "same"
+      },
+      {
+        "rarity": "Special Illustration Rare",
+        "perPack": 80,
+        "source": "same; https://gamerant.com/pokemon-tcg-phantasmal-flames-pull-rates-chart/"
+      },
+      {
+        "rarity": "Mega Hyper Rare",
+        "perPack": 1260,
+        "source": "same"
+      }
+    ]
+  },
+  "ASC": {
+    "name": "Mega Evolution—Ascended Heroes",
+    "tcgGroupId": 24541,
+    "cardsPerPack": 11,
+    "confidence": "med",
+    "note": "Mega Attack Rare, SIR and Mega Hyper Rare are TCGplayer (2,000+ packs); the other tiers are community estimates from thepricedex. Other sites give Mega Attack Rare anywhere from 1 in 33 to 1 in 300 and Mega Hyper Rare near 1 in 1000.",
+    "tiers": [
+      {
+        "rarity": "Double Rare",
+        "perPack": 5,
+        "source": "community: https://www.thepricedex.com/set/me2pt5/ascended-heroes/pull-rates"
+      },
+      {
+        "rarity": "Illustration Rare",
+        "perPack": 9,
+        "source": "same"
+      },
+      {
+        "rarity": "Ultra Rare",
+        "perPack": 21,
+        "source": "community: thepricedex (low-med)"
+      },
+      {
+        "rarity": "Mega Attack Rare",
+        "perPack": 29,
+        "source": "TCGplayer 3.47% +/-0.77%, via search extract of https://www.tcgplayer.com/content/article/Pok%C3%A9mon-TCG-Ascended-Heroes-Pull-Rates/60143d94-88a7-42ce-8e73-babd7b3fabd6/"
+      },
+      {
+        "rarity": "Special Illustration Rare",
+        "perPack": 70,
+        "source": "TCGplayer 1.44% +/-0.50%, same"
+      },
+      {
+        "rarity": "Mega Hyper Rare",
+        "perPack": 540,
+        "source": "TCGplayer 0.19% +/-0.18%, same"
+      },
+      {
+        "rarity": "Poké Ball pattern reverse, Rare slot",
+        "perPack": 6,
+        "source": "community: thepricedex",
+        "catalogRarity": null,
+        "note": "No exact match among the Rarity strings in catalog group 24541."
+      },
+      {
+        "rarity": "Poké Ball pattern reverse, Uncommon slot",
+        "perPack": 3.6,
+        "source": "same",
+        "catalogRarity": null,
+        "note": "No exact match among the Rarity strings in catalog group 24541."
+      },
+      {
+        "rarity": "Poké Ball pattern reverse, Common slot",
+        "perPack": 2,
+        "source": "same",
+        "catalogRarity": null,
+        "note": "No exact match among the Rarity strings in catalog group 24541."
+      }
+    ]
+  },
+  "POR": {
+    "name": "Mega Evolution—Perfect Order",
+    "tcgGroupId": 24587,
+    "cardsPerPack": 10,
+    "confidence": "med",
+    "note": "TCGplayer 3,500+ packs. Another site gives SIR 1 in 83 and Mega Hyper Rare 1 in 956.",
+    "tiers": [
+      {
+        "rarity": "Double Rare",
+        "perPack": 5,
+        "source": "TCGplayer via https://pullrates.com/set/perfect-order"
+      },
+      {
+        "rarity": "Illustration Rare",
+        "perPack": 9,
+        "source": "same"
+      },
+      {
+        "rarity": "Ultra Rare",
+        "perPack": 12,
+        "source": "same"
+      },
+      {
+        "rarity": "Special Illustration Rare",
+        "perPack": 81,
+        "source": "same"
+      },
+      {
+        "rarity": "Mega Hyper Rare",
+        "perPack": 1786,
+        "source": "same"
+      }
+    ]
+  },
+  "CRI": {
+    "name": "Mega Evolution—Chaos Rising",
+    "tcgGroupId": 24655,
+    "cardsPerPack": 10,
+    "confidence": "med",
+    "note": "SIR, Illustration Rare and Mega Hyper Rare are TCGplayer (8,500+ packs, via search extract); Double Rare and Ultra Rare are community estimates. thepricedex has SIR 1 in 90 and Mega Hyper Rare 1 in 1100.",
+    "tiers": [
+      {
+        "rarity": "Double Rare",
+        "perPack": 5,
+        "source": "community: https://www.thepricedex.com/set/me4/chaos-rising/pull-rates (low-med)"
+      },
+      {
+        "rarity": "Illustration Rare",
+        "perPack": 9,
+        "source": "TCGplayer 10.66% +/-0.65%, via search extract of https://www.tcgplayer.com/content/article/Pok%C3%A9mon-TCG-Chaos-Rising-Pull-Rates/304e8bfc-175a-4d31-93fe-5bb1be11e5d2/"
+      },
+      {
+        "rarity": "Ultra Rare",
+        "perPack": 12,
+        "source": "community: thepricedex (low-med)"
+      },
+      {
+        "rarity": "Special Illustration Rare",
+        "perPack": 83,
+        "source": "TCGplayer 1.21% +/-0.23%, same"
+      },
+      {
+        "rarity": "Mega Hyper Rare",
+        "perPack": 956,
+        "source": "TCGplayer 0.10% +/-0.07%, same"
+      }
+    ]
+  },
+  "PBL": {
+    "name": "Mega Evolution—Pitch Black",
+    "tcgGroupId": 24688,
+    "cardsPerPack": 10,
+    "confidence": "med",
+    "note": "TCGplayer 4,000+ packs, dated 2026-07-21. Mega Darkrai ex SIR alone is about 1 in 480.",
+    "tiers": [
+      {
+        "rarity": "Double Rare",
+        "perPack": 5,
+        "source": "TCGplayer via https://pokepatch.com/2026/07/25/pitch-black-pull-rates-real-odds-top-chase-cards-me05/"
+      },
+      {
+        "rarity": "Illustration Rare",
+        "perPack": 9,
+        "source": "same"
+      },
+      {
+        "rarity": "Ultra Rare",
+        "perPack": 12,
+        "source": "same"
+      },
+      {
+        "rarity": "Special Illustration Rare",
+        "perPack": 80,
+        "source": "same"
+      },
+      {
+        "rarity": "Mega Hyper Rare",
+        "perPack": 1081,
+        "source": "same"
+      }
+    ]
+  },
+  "30C": {
+    "name": "30th Celebration",
+    "tcgGroupId": 24722,
+    "cardsPerPack": 5,
+    "confidence": "low",
+    "note": "Community data (Wargamer, 4,063 packs from streams; SI cites 6,500). TCGplayer 3,000+ packs gives Futuristic Rare about 1 in 120 and saw no RGB Rare. Slot 5 is always Pikachu; slot 4 is the rare slot.",
+    "tiers": [
+      {
+        "rarity": "Pikachu Rare",
+        "perPack": 1,
+        "source": "guaranteed in slot 5: https://www.wargamer.com/pokemon-trading-card-game/30th-celebration-pull-rates"
+      },
+      {
+        "rarity": "Double Rare",
+        "perPack": 4,
+        "source": "community 4,063 packs: same"
+      },
+      {
+        "rarity": "Illustration Rare",
+        "perPack": 5.2,
+        "source": "same"
+      },
+      {
+        "rarity": "Classic Collection",
+        "perPack": 9.8,
+        "source": "same",
+        "note": "This rarity appears only in the supplemental TCGplayer group 24837 (Classic Collection), not in group 24722. No exact match among the Rarity strings in catalog group 24722.",
+        "catalogRarity": null
+      },
+      {
+        "rarity": "Special Illustration Rare",
+        "perPack": 18,
+        "source": "same (believed about 20)"
+      },
+      {
+        "rarity": "Futuristic Rare",
+        "perPack": 120,
+        "source": "TCGplayer 3,000+ packs via search extract of https://www.tcgplayer.com/content/article/Pok%C3%A9mon-TCG-30th-Celebration-Pull-Rates/587b3657-481a-4ab8-827c-68cd3ab585b0/; community says 99-117"
+      },
+      {
+        "rarity": "RGB Rare",
+        "perPack": null,
+        "source": "unmeasured: TCGplayer saw none in 3,000+ packs; community 1 in 4,063 with a plausible range of 1 in 718 to 1 in 23,016"
+      }
+    ]
+  },
+  "DLR": {
+    "name": "Mega Evolution—Delta Reign",
+    "tcgGroupId": 24831,
+    "cardsPerPack": 10,
+    "confidence": null,
+    "note": "Unknown: set not released (2026-11-06), no pull-rate data. The catalog group has sealed products only. cardsPerPack is an inference from the ME-era pattern.",
+    "tiers": []
+  },
+  "PRE": {
+    "name": "SV: Prismatic Evolutions",
+    "tcgGroupId": 23821,
+    "cardsPerPack": 11,
+    "confidence": "med",
+    "note": "TCGplayer 1,200+ packs for SIR and the Poké Ball / Master Ball patterns; the other tiers are community estimates from thepricedex. Any single SIR is about 1 in 1440.",
+    "tiers": [
+      {
+        "rarity": "Double Rare",
+        "perPack": 6.1,
+        "source": "community: https://www.thepricedex.com/set/sv8pt5/prismatic-evolutions/pull-rates"
+      },
+      {
+        "rarity": "ACE SPEC Rare",
+        "perPack": 21.4,
+        "source": "same"
+      },
+      {
+        "rarity": "Ultra Rare",
+        "perPack": 13.4,
+        "source": "same"
+      },
+      {
+        "rarity": "Special Illustration Rare",
+        "perPack": 45,
+        "source": "TCGplayer via search extract of https://www.tcgplayer.com/content/article/Pok%C3%A9mon-TCG-Prismatic-Evolutions-Pull-Rates/d94889ea-f76a-4a13-b74d-5b0b071220a7/"
+      },
+      {
+        "rarity": "Hyper Rare",
+        "perPack": 178.6,
+        "source": "same"
+      },
+      {
+        "rarity": "Poké Ball pattern (any slot)",
+        "perPack": 3,
+        "source": "TCGplayer via search extract; consistent with thepricedex",
+        "catalogRarity": null,
+        "note": "No exact match among the Rarity strings in catalog group 23821."
+      },
+      {
+        "rarity": "Master Ball pattern (any slot)",
+        "perPack": 20,
+        "source": "same; any specific Master Ball card is about 1 in 1362",
+        "catalogRarity": null,
+        "note": "No exact match among the Rarity strings in catalog group 23821."
+      }
+    ]
+  },
+  "DRI": {
+    "name": "SV10: Destined Rivals",
+    "tcgGroupId": 24269,
+    "cardsPerPack": 10,
+    "confidence": "med",
+    "note": "SIR and Hyper Rare are TCGplayer (1.06% +/-0.22% and 0.67% +/-0.17%); the rest are thepricedex community estimates. ACE SPEC: no per-pack figure found.",
+    "tiers": [
+      {
+        "rarity": "Double Rare",
+        "perPack": 5,
+        "source": "community: https://www.thepricedex.com/set/sv10/destined-rivals/pull-rates"
+      },
+      {
+        "rarity": "Illustration Rare",
+        "perPack": 12.1,
+        "source": "same"
+      },
+      {
+        "rarity": "Ultra Rare",
+        "perPack": 15.6,
+        "source": "same"
+      },
+      {
+        "rarity": "Special Illustration Rare",
+        "perPack": 94,
+        "source": "TCGplayer via search extract of https://www.tcgplayer.com/content/article/Pok%C3%A9mon-TCG-Destined-Rivals-Pull-Rates/43ba832e-44c9-45a4-ae2e-594df2defdda/"
+      },
+      {
+        "rarity": "Hyper Rare",
+        "perPack": 149,
+        "source": "same"
+      }
+    ]
+  },
+  "BLK": {
+    "name": "SV: Black Bolt",
+    "tcgGroupId": 24325,
+    "cardsPerPack": null,
+    "confidence": "low",
+    "note": "Community data shared with White Flare (nearly identical pack structure). No booster display box exists for this set. Cards per pack not confirmed.",
+    "tiers": [
+      {
+        "rarity": "Illustration Rare",
+        "perPack": 6,
+        "source": "community, 1,000+ packs: https://pokepatch.com/2025/07/20/black-bolt-white-flare-pull-rates-in-pokemon-tcg-sets/"
+      },
+      {
+        "rarity": "Full Art",
+        "perPack": 14,
+        "source": "same",
+        "note": "Generic description, not a printed rarity name. No exact match among the Rarity strings in catalog group 24325.",
+        "catalogRarity": null
+      },
+      {
+        "rarity": "Poké Ball / Master Ball pattern (combined)",
+        "perPack": 7,
+        "source": "same",
+        "catalogRarity": null,
+        "note": "No exact match among the Rarity strings in catalog group 24325."
+      },
+      {
+        "rarity": "Special Illustration Rare",
+        "perPack": 83,
+        "source": "same"
+      },
+      {
+        "rarity": "Black White Rare",
+        "perPack": 496,
+        "source": "same, extrapolated; TCGplayer saw none in 700+ packs so the tier is effectively unmeasured"
+      }
+    ]
+  },
+  "WHT": {
+    "name": "SV: White Flare",
+    "tcgGroupId": 24326,
+    "cardsPerPack": null,
+    "confidence": "low",
+    "note": "Community data shared with Black Bolt (nearly identical pack structure). No booster display box exists for this set. Cards per pack not confirmed.",
+    "tiers": [
+      {
+        "rarity": "Illustration Rare",
+        "perPack": 6,
+        "source": "community, 1,000+ packs: https://pokepatch.com/2025/07/20/black-bolt-white-flare-pull-rates-in-pokemon-tcg-sets/"
+      },
+      {
+        "rarity": "Full Art",
+        "perPack": 14,
+        "source": "same",
+        "note": "Generic description, not a printed rarity name. No exact match among the Rarity strings in catalog group 24326.",
+        "catalogRarity": null
+      },
+      {
+        "rarity": "Poké Ball / Master Ball pattern (combined)",
+        "perPack": 7,
+        "source": "same",
+        "catalogRarity": null,
+        "note": "No exact match among the Rarity strings in catalog group 24326."
+      },
+      {
+        "rarity": "Special Illustration Rare",
+        "perPack": 83,
+        "source": "same"
+      },
+      {
+        "rarity": "Black White Rare",
+        "perPack": 496,
+        "source": "same, extrapolated; TCGplayer saw none in 700+ packs so the tier is effectively unmeasured"
+      }
+    ]
+  }
+}
