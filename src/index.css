@@ -108,6 +108,14 @@
   --shadow-card: var(--shadow);
 }
 
+/* A grid with no column template gets one column that can shrink, so long no-wrap text or a
+   sideways-scrolling chip row inside it can't widen the page. Any grid-cols-* utility overrides it. */
+@layer base {
+  .grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
 html {
   background: var(--bg);
   -webkit-text-size-adjust: 100%;
