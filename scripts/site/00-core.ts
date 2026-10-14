@@ -2,6 +2,7 @@
 // movers and meta. Most features read these.
 import type { BuildContext } from '../build-site-data.ts'
 import type { IndexRow, Mover, Movers, SealedRow, SetHistory, SetSummary, SiteMeta, SiteProduct, VariantPrice } from '../../src/lib/site.ts'
+import { displayName } from '../../src/lib/classify.ts'
 import type { Product, SetInfo } from '../../src/lib/types.ts'
 
 interface MsrpSeed {
@@ -50,7 +51,9 @@ export async function build(ctx: BuildContext) {
       }
       if (head) priced++
       const kind = p.kind === 'sealed' ? 'sealed' : 'card'
-      const sp: SiteProduct = { id: p.id, name: p.name, set: p.set, kind, v }
+      // TCGplayer appends the number to card names; the number is its own field, so drop it here once.
+      const name = displayName(p.name)
+      const sp: SiteProduct = { id: p.id, name, set: p.set, kind, v }
       if (p.num) sp.num = p.num
       if (p.rarity) sp.rarity = p.rarity
       if (p.released) sp.released = p.released
@@ -66,7 +69,7 @@ export async function build(ctx: BuildContext) {
           const hv = head ? v[head] : undefined
           sealedRows.push({
             id: p.id,
-            name: p.name,
+            name,
             set: set.id,
             lang: set.lang,
             sealed: p.sealed ?? 'other',
@@ -84,11 +87,11 @@ export async function build(ctx: BuildContext) {
         cards++
         if (headPrice > 0) {
           value += headPrice
-          chase.push([p.id, p.name, headPrice])
+          chase.push([p.id, name, headPrice])
         }
       }
       out.push(sp)
-      index[set.lang].push([p.id, p.name, set.id, kind === 'card' ? 'c' : 's', p.num ?? '', p.rarity ?? '', head, headPrice >= 0 ? headPrice : null, head ? v[head][3] : null])
+      index[set.lang].push([p.id, name, set.id, kind === 'card' ? 'c' : 's', p.num ?? '', p.rarity ?? '', head, headPrice >= 0 ? headPrice : null, head ? v[head][3] : null])
     }
 
     await ctx.write(`sets/${set.id}.json`, out)
@@ -147,7 +150,7 @@ function buildMovers(ctx: BuildContext): Movers {
       if (!p) continue
       const kind = p.kind === 'sealed' ? 'sealed' : 'card'
       if (market < (kind === 'sealed' ? 20 : 5)) continue
-      rows.push({ id, name: p.name, set: p.set, variant: key.slice(key.indexOf(':') + 1), kind, market, change: Math.round(change * 1000) / 1000, from: round2(market / (1 + change)) })
+      rows.push({ id, name: displayName(p.name), set: p.set, variant: key.slice(key.indexOf(':') + 1), kind, market, change: Math.round(change * 1000) / 1000, from: round2(market / (1 + change)) })
     }
     rows.sort((a, b) => b.change - a.change)
     out.windows[w] = { up: rows.filter((r) => r.change > 0).slice(0, 40), down: rows.filter((r) => r.change < 0).reverse().slice(0, 40) }

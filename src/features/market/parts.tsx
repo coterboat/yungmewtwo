@@ -8,6 +8,7 @@ import { daysBetween, historyNoteParts, rangeStart } from '../../lib/market.ts'
 import { useCountUp, useHistoryStatus } from '../../lib/market-hooks.ts'
 import { usePrefs } from '../../lib/prefs.ts'
 import type { Person } from '../../lib/user.ts'
+import { useJoinHint } from '../../lib/people.ts'
 
 /** What price history exists and when changes start to show. One line until tapped; nothing once 30+ days are in. */
 export function HistoryNote({ className }: { className?: string }) {
@@ -89,6 +90,7 @@ export function useChartRange(dates: string[]) {
 /** Shown in place of a save button when this device has no posting key. */
 export function NeedKey({ className }: { className?: string }) {
   const { token } = usePrefs()
+  const hint = useJoinHint()
   if (token) return null
   return (
     <div className={cx('flex items-start gap-2.5 rounded-xl border border-line bg-surface-2 px-3.5 py-3 text-[13px] text-ink-2', className)}>
@@ -97,8 +99,8 @@ export function NeedKey({ className }: { className?: string }) {
         Saving needs your posting key.{' '}
         <Link to="/settings" className="font-medium text-accent underline underline-offset-2">
           Add it in Settings
-        </Link>{' '}
-        (ask Alex for the join link).
+        </Link>
+        . {hint}
       </p>
     </div>
   )
