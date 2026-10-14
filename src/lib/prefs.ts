@@ -13,11 +13,13 @@ export interface Prefs {
   /** Radar section ids in display order; missing ids fall back to defaults. */
   radarOrder: string[]
   radarHidden: string[]
+  /** When Radar was last viewed (ISO), so newer board posts show as new. */
+  radarSeenAt: string | null
   marketLang: 'EN' | 'JP'
 }
 
 const KEY = 'yungmewtwo:prefs'
-const DEFAULTS: Prefs = { me: null, token: null, ntfyTopic: null, theme: 'system', radarOrder: [], radarHidden: [], marketLang: 'EN' }
+const DEFAULTS: Prefs = { me: null, token: null, ntfyTopic: null, theme: 'system', radarOrder: [], radarHidden: [], radarSeenAt: null, marketLang: 'EN' }
 
 function read(): Prefs {
   try {

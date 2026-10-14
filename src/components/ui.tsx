@@ -13,7 +13,7 @@ export function cx(...parts: Array<string | false | null | undefined>) {
 
 export function Card({ children, className, to, onClick, holo }: { children: ReactNode; className?: string; to?: string; onClick?: () => void; holo?: boolean }) {
   const cls = cx(
-    'block rounded-2xl border border-line bg-surface shadow-card',
+    'block min-w-0 rounded-2xl border border-line bg-surface shadow-card',
     (to || onClick) && 'transition hover:border-line-strong active:scale-[0.995]',
     holo && 'holo-ring border-transparent',
     className,
