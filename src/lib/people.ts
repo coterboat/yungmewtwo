@@ -20,6 +20,15 @@ export function useMe(): Person | undefined {
   return people.find((p) => p.id === me)
 }
 
+/** The repo owner: first in people.json. They make posting keys; everyone else gets a join link. */
+export function useJoinHint(): string {
+  const people = usePeople()
+  const me = useMe()
+  const owner = people[0]
+  if (!owner || me?.id === owner.id) return 'Make one on GitHub; the steps are in Settings.'
+  return `Ask ${owner.name} for your join link and it sets itself up.`
+}
+
 export function personName(people: Person[], id: string | undefined): string {
   return people.find((p) => p.id === id)?.name ?? id ?? 'Someone'
 }
