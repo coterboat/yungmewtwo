@@ -66,6 +66,11 @@ export function variantLabel(code: Variant): string {
   return VARIANT_LABELS[code] ?? code
 }
 
+/** TCGplayer appends the number to card names ("Charizard ex - 199/165"); we show the number on its own. */
+export function displayName(name: string): string {
+  return name.replace(/\s-\s[A-Za-z]*\d+[A-Za-z]?\/[A-Za-z]*\d+[A-Za-z]?(?=\s*(\(|$))/, '').trim()
+}
+
 export function productImage(id: number, size: 200 | 400 = 200): string {
   return `https://tcgplayer-cdn.tcgplayer.com/product/${id}_${size}w.jpg`
 }

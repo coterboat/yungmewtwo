@@ -16,10 +16,13 @@ export interface Prefs {
   /** When Radar was last viewed (ISO), so newer board posts show as new. */
   radarSeenAt: string | null
   marketLang: 'EN' | 'JP'
+  /** Anthropic API key for card scanning (this device only). */
+  anthropicKey: string | null
+  scanModel: 'claude-opus-5-5' | 'claude-haiku-5-5'
 }
 
 const KEY = 'yungmewtwo:prefs'
-const DEFAULTS: Prefs = { me: null, token: null, ntfyTopic: null, theme: 'system', radarOrder: [], radarHidden: [], radarSeenAt: null, marketLang: 'EN' }
+const DEFAULTS: Prefs = { me: null, token: null, ntfyTopic: null, theme: 'system', radarOrder: [], radarHidden: [], radarSeenAt: null, marketLang: 'EN', anthropicKey: null, scanModel: 'claude-opus-5-5' }
 
 function read(): Prefs {
   try {

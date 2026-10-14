@@ -2,7 +2,7 @@
 // card or sealed item gets chosen (watch, vault, deals, tools).
 import { Search } from 'lucide-react'
 import { useEffect, useMemo, useState, type ReactNode } from 'react'
-import { productImage, variantLabel } from '../lib/classify.ts'
+import { displayName, productImage, variantLabel } from '../lib/classify.ts'
 import { useIndex, useSetMap } from '../lib/data.ts'
 import { usePrefs } from '../lib/prefs.ts'
 import { searchIndex } from '../lib/search.ts'
@@ -66,7 +66,7 @@ export function ProductRow({
     <>
       <ProductThumb id={id} kind={kind} size="sm" />
       <div className="min-w-0 flex-1">
-        <div className="truncate text-[14px] font-medium">{name}</div>
+        <div className="truncate text-[14px] font-medium">{displayName(name)}</div>
         <div className="mt-0.5 flex items-center gap-1.5 truncate text-[12px] text-ink-3">
           {set && <span className="truncate">{setLabel(set)}</span>}
           {num && <span className="tabular">· {num}</span>}

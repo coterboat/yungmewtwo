@@ -184,7 +184,23 @@ body {
   }
 }
 
+/* A holo light bar sweeping over a photo while cards are being read. */
+.scan-sweep {
+  background: linear-gradient(180deg, transparent 0%, rgba(167, 139, 250, 0) 40%, rgba(167, 139, 250, 0.35) 49%, rgba(240, 171, 252, 0.6) 50%, rgba(167, 139, 250, 0.35) 51%, rgba(167, 139, 250, 0) 60%, transparent 100%);
+  background-size: 100% 220%;
+  animation: scan-sweep 1.8s ease-in-out infinite alternate;
+}
+@keyframes scan-sweep {
+  from {
+    background-position: 0 100%;
+  }
+  to {
+    background-position: 0 0%;
+  }
+}
+
 @media (prefers-reduced-motion: reduce) {
+  .scan-sweep,
   .holo-text,
   .holo-ring::before,
   .fade-in {

@@ -75,3 +75,14 @@ describe('recurring', () => {
     expect(nextOccurrence(walmart, Date.parse('2026-10-28T23:00:00Z')).toISOString()).toBe('2026-11-04T22:00:00.000Z')
   })
 })
+
+describe('displayName', () => {
+  it('drops the appended collector number but keeps printings', async () => {
+    const { displayName } = await import('./classify.ts')
+    expect(displayName('Charizard ex - 199/165')).toBe('Charizard ex')
+    expect(displayName('Mew ex - 205/165 (151 Metal Card)')).toBe('Mew ex (151 Metal Card)')
+    expect(displayName('Pikachu ex - TG05/TG30')).toBe('Pikachu ex')
+    expect(displayName('Pitch Black Booster Box')).toBe('Pitch Black Booster Box')
+    expect(displayName('Ho-Oh - 7/64')).toBe('Ho-Oh')
+  })
+})

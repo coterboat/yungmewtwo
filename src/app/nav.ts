@@ -1,4 +1,4 @@
-import { Calculator, CalendarClock, Gem, MapPin, Megaphone, Radar, Settings, TrendingUp, type LucideIcon } from 'lucide-react'
+import { Calculator, CalendarClock, Gem, MapPin, Megaphone, Radar, ScanLine, Settings, TrendingUp, type LucideIcon } from 'lucide-react'
 
 export interface NavItem {
   to: string
@@ -15,6 +15,7 @@ export const NAV: NavItem[] = [
   { to: '/board', label: 'Board', icon: Megaphone, primary: true },
   { to: '/hunt', label: 'Hunt', icon: MapPin, primary: true },
   { to: '/vault', label: 'Vault', icon: Gem },
+  { to: '/scan', label: 'Scan cards', icon: ScanLine },
   { to: '/tools', label: 'Tools', icon: Calculator },
   { to: '/settings', label: 'Settings', icon: Settings },
 ]

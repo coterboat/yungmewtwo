@@ -1,9 +1,10 @@
 // Radar: the home screen. One ranked list of what needs you now, then glanceable sections the
 // viewer can reorder or hide (saved on this device).
-import { ArrowDown, ArrowUp, Bell, CalendarClock, Eye, EyeOff, Gem, Megaphone, PartyPopper, Settings2, Sparkles, Tag, Target, Timer, TrendingDown, TrendingUp } from 'lucide-react'
+import { ArrowDown, ArrowUp, Bell, CalendarClock, Eye, EyeOff, Gem, Megaphone, PartyPopper, ScanLine, Settings2, Sparkles, Tag, Target, Timer, TrendingDown, TrendingUp } from 'lucide-react'
 import { useEffect, useMemo, useState, type ReactNode } from 'react'
 import { Link } from 'react-router-dom'
 import { ProductThumb, setLabel } from '../../components/product.tsx'
+import { displayName } from '../../lib/classify.ts'
 import { Badge, Button, Card, Delta, Empty, Money, Section, Sheet, Skeleton, cx } from '../../components/ui.tsx'
 import { useMeta, useMovers, useSetMap } from '../../lib/data.ts'
 import { ago, countdown, money, shortDate } from '../../lib/format.ts'
@@ -189,7 +190,7 @@ function WatchSection({ items, prices }: { items: WatchItem[]; prices: ReturnTyp
               <Link key={w.id} to={`/item/${w.productId}`} className="flex items-center gap-3 rounded-xl px-2 py-2 hover:bg-surface-2">
                 <ProductThumb id={w.productId} kind={p?.product.kind} size="sm" />
                 <div className="min-w-0 flex-1">
-                  <div className="truncate text-[14px] font-medium">{p?.product.name ?? '…'}</div>
+                  <div className="truncate text-[14px] font-medium">{p ? displayName(p.product.name) : '…'}</div>
                   <div className="truncate text-[12px] text-ink-3">{setLabel(p ? sets?.get(p.product.set) : undefined)}</div>
                   {progress != null && (
                     <div className="mt-1.5 h-1.5 w-full overflow-hidden rounded-full bg-surface-3">
@@ -257,8 +258,8 @@ function VaultSection({ items, prices }: { items: VaultItem[]; prices: ReturnTyp
   return (
     <Section title="Your vault" action={<Link to="/vault" className="text-[13px] font-medium text-accent">Vault</Link>}>
       {items.length === 0 ? (
-        <Empty icon={<Gem size={20} />} title="Start your library">
-          Add what you own from any card's page. Its value tracks itself, and Flip to Fund shows what to sell for the card you actually want.
+        <Empty icon={<Gem size={20} />} title="Start your library" action={<Link to="/scan"><Button variant="primary"><ScanLine size={16} /> Scan your cards</Button></Link>}>
+          Snap a binder page or a pile and every card gets added and priced. Its value tracks itself, and Flip to Fund shows what to sell for the card you actually want.
         </Empty>
       ) : (
         <Card className="p-4">
@@ -305,7 +306,7 @@ function MarketSection() {
             <Link key={`${m.id}:${m.variant}`} to={`/item/${m.id}`} className="flex items-center gap-3 rounded-xl px-2 py-2 hover:bg-surface-2">
               <ProductThumb id={m.id} kind={m.kind} size="sm" />
               <div className="min-w-0 flex-1">
-                <div className="truncate text-[14px] font-medium">{m.name}</div>
+                <div className="truncate text-[14px] font-medium">{displayName(m.name)}</div>
                 <div className="truncate text-[12px] text-ink-3">{setLabel(sets?.get(m.set))}</div>
               </div>
               <div className="shrink-0 text-right">

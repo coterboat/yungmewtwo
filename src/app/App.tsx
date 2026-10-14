@@ -15,6 +15,7 @@ const Vault = lazy(() => import('../features/vault/index.tsx'))
 const Tools = lazy(() => import('../features/tools/index.tsx'))
 const Settings = lazy(() => import('../features/settings/index.tsx'))
 const Join = lazy(() => import('../features/settings/JoinPage.tsx'))
+const Scan = lazy(() => import('../features/scan/index.tsx'))
 
 function Loading() {
   return (
@@ -39,6 +40,7 @@ export default function App() {
           <Route path="/board" element={<Board />} />
           <Route path="/hunt" element={<Hunt />} />
           <Route path="/vault" element={<Vault />} />
+          <Route path="/scan" element={<Scan />} />
           <Route path="/tools" element={<Tools />} />
           <Route path="/settings" element={<Settings />} />
           <Route path="/join" element={<Join />} />
