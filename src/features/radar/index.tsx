@@ -1,6 +1,6 @@
 // Radar: the home screen. One ranked list of what needs you now, then glanceable sections the
 // viewer can reorder or hide (saved on this device).
-import { ArrowDown, ArrowUp, Bell, CalendarClock, Eye, EyeOff, Gem, Megaphone, PartyPopper, ScanLine, Settings2, Sparkles, Tag, Target, Timer, TrendingDown, TrendingUp } from 'lucide-react'
+import { ArrowDown, ArrowUp, Bell, CalendarClock, CalendarDays, ExternalLink, Eye, EyeOff, Gem, Megaphone, Newspaper, PackageOpen, PartyPopper, ScanLine, Settings2, Sparkles, Tag, Target, Timer, TrendingDown, TrendingUp } from 'lucide-react'
 import { useEffect, useMemo, useState, type ReactNode } from 'react'
 import { Link } from 'react-router-dom'
 import { ProductThumb, setLabel } from '../../components/product.tsx'
@@ -14,11 +14,16 @@ import { getPrefs, setPrefs, usePrefs } from '../../lib/prefs.ts'
 import { buildAttention, type Attention, type PriceInfo } from '../../lib/radar.ts'
 import type { Post, Recurring, VaultItem, WatchItem } from '../../lib/user.ts'
 import { useUserFile } from '../../lib/userData.ts'
+import { heroRelease, preorderStatus, type DropRelease } from '../../lib/drops.ts'
+import type { NewsItem } from '../../lib/dropsNews.ts'
+import { localToday, useDrops, useNews } from '../drops/hooks.ts'
 import { usePrices } from './usePrices.ts'
 
 const SECTIONS: Array<{ id: string; label: string }> = [
   { id: 'now', label: 'Needs you now' },
+  { id: 'drop', label: 'Next drop' },
   { id: 'watch', label: 'Watchlist' },
+  { id: 'news', label: 'Hunt-worthy news' },
   { id: 'board', label: 'From the board' },
   { id: 'vault', label: 'Your vault' },
   { id: 'market', label: 'Market pulse' },
@@ -33,6 +38,9 @@ const KIND_ICON: Record<Attention['kind'], ReactNode> = {
   sell: <TrendingUp size={18} />,
   under: <TrendingDown size={18} />,
   post: <Megaphone size={18} />,
+  news: <Newspaper size={18} />,
+  preorder: <PackageOpen size={18} />,
+  release: <CalendarDays size={18} />,
 }
 
 function useSectionOrder() {
@@ -50,6 +58,8 @@ export default function RadarPage() {
   const recurring = useUserFile<Recurring>('recurring')
   const watch = useUserFile<WatchItem>('watch')
   const vault = useUserFile<VaultItem>(`vault-${me?.id ?? 'alex'}`)
+  const drops = useDrops()
+  const news = useNews()
   const [customize, setCustomize] = useState(false)
   const { order, hidden } = useSectionOrder()
   const [lastSeen] = useState(() => getPrefs().radarSeenAt ?? undefined)
@@ -69,12 +79,14 @@ export default function RadarPage() {
   const attention = useMemo(() => {
     const info = new Map<number, PriceInfo>()
     prices?.forEach((p, id) => info.set(id, { name: p.product.name, market: p.market, low: p.low }))
-    return buildAttention({ posts: posts.data ?? [], recurring: recurring.data ?? [], watch: watch.data ?? [], prices: info, me: me?.id, now, lastSeen })
-  }, [posts.data, recurring.data, watch.data, prices, me, now, lastSeen])
+    return buildAttention({ posts: posts.data ?? [], recurring: recurring.data ?? [], watch: watch.data ?? [], prices: info, me: me?.id, now, lastSeen, news: news.data?.items, releases: drops.data?.releases })
+  }, [posts.data, recurring.data, watch.data, prices, me, now, lastSeen, news.data, drops.data])
 
   const urgent = attention.filter((a) => a.urgency >= 60).length
   const sections: Record<string, ReactNode> = {
     now: <NowSection items={attention} loading={!posts.data} now={now} kinds={prices} />,
+    drop: <NextDropSection releases={drops.data?.releases} now={now} />,
+    news: <NewsSection items={news.data?.items} />,
     watch: <WatchSection items={myWatch} prices={prices} />,
     board: <BoardSection posts={posts.data} people={people} />,
     vault: <VaultSection items={held} prices={prices} />,
@@ -105,7 +117,7 @@ export default function RadarPage() {
         </Button>
       </div>
 
-      <div className="grid gap-x-6 lg:grid-cols-2">
+      <div className="grid grid-cols-1 gap-x-6 lg:grid-cols-2">
         {order
           .filter((id) => !hidden.has(id))
           .map((id) => (
@@ -138,7 +150,7 @@ function NowSection({ items, loading, now, kinds }: { items: Attention[]; loadin
           Drawings, drops, weekly events and price targets show up here as they get close. Set a target on any card to get pinged when it hits.
         </Empty>
       ) : (
-        <div className="grid gap-2.5 md:grid-cols-2">
+        <div className="grid grid-cols-1 gap-2.5 md:grid-cols-2">
           {items.slice(0, 8).map((a) => (
             <AttentionCard key={a.id} a={a} now={now} kind={a.productId ? kinds?.get(a.productId)?.product.kind : undefined} />
           ))}
@@ -151,7 +163,7 @@ function NowSection({ items, loading, now, kinds }: { items: Attention[]; loadin
 function AttentionCard({ a, now, kind }: { a: Attention; now: number; kind?: 'card' | 'sealed' }) {
   const live = a.when ? Date.parse(a.when) <= now : false
   return (
-    <Card to={a.href} holo={a.tone === 'holo'} className="p-3.5">
+    <Card to={a.external ? undefined : a.href} onClick={a.external ? () => window.open(a.href, '_blank', 'noopener') : undefined} holo={a.tone === 'holo'} className="p-3.5">
       <div className="flex items-center gap-3">
         {a.productId ? (
           <ProductThumb id={a.productId} kind={kind} size="sm" />
@@ -162,6 +174,7 @@ function AttentionCard({ a, now, kind }: { a: Attention; now: number; kind?: 'ca
           <div className="truncate text-[14.5px] font-semibold">{a.title}</div>
           <div className="truncate text-[12.5px] text-ink-2">{a.detail}</div>
         </div>
+        {a.external && <ExternalLink size={16} className="shrink-0 text-ink-3" aria-label="Opens the post" />}
         {a.when && (
           <div className="shrink-0 text-right">
             <div className={cx('text-[15px] font-bold tabular', a.tone === 'holo' && 'holo-text')}>{live ? 'Live' : countdown(a.when, now)}</div>
@@ -170,6 +183,85 @@ function AttentionCard({ a, now, kind }: { a: Attention; now: number; kind?: 'ca
         )}
       </div>
     </Card>
+  )
+}
+
+function NextDropSection({ releases, now }: { releases: DropRelease[] | undefined; now: number }) {
+  const today = localToday(now)
+  const next = releases ? heroRelease(releases, today) : undefined
+  if (!releases) return null
+  if (!next?.date) return null
+  const days = Math.max(0, Math.round((Date.parse(`${next.date}T00:00:00`) - now) / 86_400_000))
+  const pre = preorderStatus(next, today)
+  const premium = next.products.filter((p) => p.premium != null && p.tcg?.market != null).sort((a, b) => (b.tcg?.market ?? 0) - (a.tcg?.market ?? 0)).slice(0, 2)
+  return (
+    <Section title="Next drop" action={<Link to="/drops" className="text-[13px] font-medium text-accent">Drops</Link>}>
+      <Card to="/drops" className="p-4">
+        <div className="flex items-start justify-between gap-3">
+          <div className="min-w-0">
+            <div className="truncate text-lg font-bold tracking-tight">{next.name}</div>
+            <div className="text-[13px] text-ink-2">
+              {shortDate(next.date)}
+              {next.prerelease && ` · prereleases ${shortDate(next.prerelease.start)}–${shortDate(next.prerelease.end)}`}
+            </div>
+          </div>
+          <div className="shrink-0 text-right">
+            <div className="text-[30px] leading-none font-bold tabular">{days}</div>
+            <div className="text-[11px] text-ink-3">day{days === 1 ? '' : 's'}</div>
+          </div>
+        </div>
+        <div className="mt-3 text-[13px] text-ink-2">
+          {pre.state === 'opened' && <>Pre-orders opened {shortDate(pre.date)}{pre.where ? ` at ${pre.where}` : ''}.</>}
+          {pre.state === 'opens' && <>Pre-orders open {shortDate(pre.date)}{pre.where ? ` at ${pre.where}` : ''}.</>}
+          {pre.state === 'predicted' && <>Pre-orders likely {pre.inWindow ? 'any day now' : `from ${shortDate(pre.from)}`} ({pre.basis}).</>}
+          {pre.state === 'due' && <>Pre-orders are overdue by the usual pattern: watch Pokémon Center.</>}
+        </div>
+        {premium.length > 0 && (
+          <div className="mt-3 grid grid-cols-1 gap-1.5">
+            {premium.map((p) => (
+              <div key={p.label} className="flex items-center justify-between gap-2 rounded-xl bg-surface-2 px-3 py-2 text-[13px]">
+                <span className="min-w-0 flex-1 truncate text-ink-2">{p.label}</span>
+                <span className="shrink-0 tabular">
+                  <span className="font-semibold">{money(p.tcg?.market)}</span> <span className="text-[12px] text-ink-3">MSRP {money(p.msrp)}</span>
+                </span>
+              </div>
+            ))}
+          </div>
+        )}
+      </Card>
+    </Section>
+  )
+}
+
+const HOT_TAGS = ['price-error', 'drawing', 'restock', 'preorder', 'deal']
+
+function NewsSection({ items }: { items: NewsItem[] | undefined }) {
+  const hot = (items ?? []).filter((n) => n.watch?.length || n.tags.some((t) => HOT_TAGS.includes(t))).slice(0, 5)
+  if (!items) return null
+  return (
+    <Section title="Hunt-worthy news" sub="Drawings, restocks, pre-orders and deals from PokéBeach and Reddit" action={<Link to="/drops" className="text-[13px] font-medium text-accent">All news</Link>}>
+      {hot.length === 0 ? (
+        <Empty icon={<Newspaper size={20} />} title="Quiet right now">New drawings, restocks and price errors show up here as they're posted.</Empty>
+      ) : (
+        <Card className="divide-y divide-line">
+          {hot.map((n) => (
+            <a key={n.id} href={n.link} target="_blank" rel="noopener noreferrer" className="flex items-start gap-3 px-4 py-3 hover:bg-surface-2">
+              <div className="min-w-0 flex-1">
+                <div className="line-clamp-2 text-[14px] font-medium">{n.title}</div>
+                <div className="mt-1 flex flex-wrap items-center gap-1.5 text-[12px] text-ink-3">
+                  <span>{ago(n.date)}</span>
+                  {n.tags.filter((t) => HOT_TAGS.includes(t)).slice(0, 2).map((t) => (
+                    <Badge key={t} tone={t === 'price-error' ? 'critical' : 'neutral'}>{t.replace('-', ' ')}</Badge>
+                  ))}
+                  {n.watch?.length ? <Badge tone="accent">watchlist</Badge> : null}
+                </div>
+              </div>
+              <ExternalLink size={15} className="mt-1 shrink-0 text-ink-3" />
+            </a>
+          ))}
+        </Card>
+      )}
+    </Section>
   )
 }
 
@@ -361,7 +453,6 @@ function CustomizeSheet({ open, onClose, order, hidden }: { open: boolean; onClo
           )
         })}
       </div>
-      <Badge className="mt-4">Tip: more sections (next drop, hunt bets, news) land as their screens ship.</Badge>
     </Sheet>
   )
 }

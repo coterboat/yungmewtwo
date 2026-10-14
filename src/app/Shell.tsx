@@ -84,7 +84,10 @@ export function Shell({ children }: { children: ReactNode }) {
     return () => document.removeEventListener('keydown', onKey)
   }, [])
 
-  useEffect(() => window.scrollTo(0, 0), [location.pathname])
+  // Braces matter: newer browsers return a Promise from scrollTo, which React would treat as a cleanup.
+  useEffect(() => {
+    window.scrollTo(0, 0)
+  }, [location.pathname])
 
   const navCls = ({ isActive }: { isActive: boolean }) =>
     cx('flex min-h-11 items-center gap-3 rounded-xl px-3 text-[14px] font-medium transition', isActive ? 'bg-accent-soft text-ink' : 'text-ink-2 hover:bg-surface-2 hover:text-ink')

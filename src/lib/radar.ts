@@ -1,9 +1,11 @@
 // Radar's "needs you now" list: everything time-sensitive or actionable, ranked by urgency.
 // Pure so it can be tested; the page feeds it the user files and current prices.
+import { preorderStatus, type DropRelease } from './drops.ts'
+import type { NewsItem } from './dropsNews.ts'
 import { nextOccurrence } from './recurring.ts'
 import type { Post, Recurring, WatchItem } from './user.ts'
 
-export type AttentionKind = 'drawing' | 'drop' | 'deal' | 'weekly' | 'target' | 'sell' | 'under' | 'post'
+export type AttentionKind = 'drawing' | 'drop' | 'deal' | 'weekly' | 'target' | 'sell' | 'under' | 'post' | 'news' | 'preorder' | 'release'
 
 export interface Attention {
   id: string
@@ -18,6 +20,8 @@ export interface Attention {
   /** Visual weight: holo = act now, warm = soon, calm = good to know. */
   tone: 'holo' | 'warm' | 'calm'
   productId?: number
+  /** href is an outside link (news), opened in a new tab. */
+  external?: boolean
 }
 
 export interface PriceInfo {
@@ -37,8 +41,10 @@ export function buildAttention(input: {
   now: number
   /** Posts newer than this (ISO) and not by me count as new. */
   lastSeen?: string
+  news?: NewsItem[]
+  releases?: DropRelease[]
 }): Attention[] {
-  const { posts, recurring, watch, prices, me, now, lastSeen } = input
+  const { posts, recurring, watch, prices, me, now, lastSeen, news = [], releases = [] } = input
   const out: Attention[] = []
 
   for (const p of posts) {
@@ -123,6 +129,43 @@ export function buildAttention(input: {
     }
     if (w.above != null && p.market != null && p.market >= w.above) {
       out.push({ id: `sell:${w.id}`, kind: 'sell', title: p.name, detail: `Up to $${p.market.toFixed(2)}, past your $${w.above} sell line`, urgency: 75, href: `/item/${w.productId}`, tone: 'holo', productId: w.productId })
+    }
+  }
+
+  // Time-boxed news: a drawing or price error posted in the last couple of hours may still be live.
+  for (const n of news) {
+    const age = (now - Date.parse(n.date)) / H
+    if (age < 0 || age > 2) continue
+    const hot = n.tags.includes('price-error') || n.tags.includes('drawing')
+    if (!hot && !n.watch?.length) continue
+    out.push({
+      id: `news:${n.id}`,
+      kind: 'news',
+      title: n.title,
+      detail: n.watch?.length ? `Mentions ${n.watch[0].name} from your watchlist` : n.tags.includes('price-error') ? 'Possible price error, posted just now' : 'Posted just now, may still be open',
+      urgency: n.tags.includes('price-error') ? 82 : 72,
+      href: n.link,
+      external: true,
+      tone: age < 1 ? 'holo' : 'warm',
+    })
+  }
+
+  // Releases: a predicted pre-order window that's open or about to be, and release/prerelease eve.
+  const today = new Date(now).toISOString().slice(0, 10)
+  const inDays = (d: string) => Math.round((Date.parse(`${d}T00:00:00Z`) - Date.parse(`${today}T00:00:00Z`)) / (24 * H))
+  for (const r of releases) {
+    if (r.region !== 'EN') continue
+    const s = preorderStatus(r, today)
+    if (s.state === 'predicted' && inDays(s.from) <= 3) {
+      out.push({ id: `preorder:${r.id}`, kind: 'preorder', title: `${r.name} pre-orders`, detail: s.inWindow ? `Likely opening now (${s.basis})` : `Likely open from ${s.from} (${s.basis})`, urgency: s.inWindow ? 68 : 50, href: '/drops', tone: s.inWindow ? 'holo' : 'warm' })
+    } else if (s.state === 'opens' && inDays(s.date) >= 0 && inDays(s.date) <= 1) {
+      out.push({ id: `preorder:${r.id}`, kind: 'preorder', title: `${r.name} pre-orders open ${inDays(s.date) === 0 ? 'today' : 'tomorrow'}`, detail: s.where ?? 'Pre-orders', when: `${s.date}T00:00:00`, urgency: 74, href: '/drops', tone: 'holo' })
+    }
+    if (r.date && r.kind !== 'product' && inDays(r.date) >= 0 && inDays(r.date) <= 1) {
+      out.push({ id: `release:${r.id}`, kind: 'release', title: `${r.name} releases ${inDays(r.date) === 0 ? 'today' : 'tomorrow'}`, detail: 'Stores and online restocks start dropping', urgency: 66, href: '/drops', tone: 'holo' })
+    }
+    if (r.prerelease && inDays(r.prerelease.start) >= 0 && inDays(r.prerelease.start) <= 1) {
+      out.push({ id: `prerelease:${r.id}`, kind: 'release', title: `${r.name} prereleases start ${inDays(r.prerelease.start) === 0 ? 'today' : 'tomorrow'}`, detail: `Through ${r.prerelease.end} at local game stores`, urgency: 58, href: '/drops', tone: 'warm' })
     }
   }
 

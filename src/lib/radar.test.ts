@@ -57,3 +57,27 @@ describe('buildAttention', () => {
     expect(buildAttention({ ...base, posts, lastSeen: '2026-10-14T00:00:00Z' }).map((x) => x.title)).toEqual(['Fresh'])
   })
 })
+
+describe('buildAttention: news and releases', () => {
+  it('surfaces a fresh drawing or price error from the news, not stale ones', () => {
+    const news = [
+      { id: 'n1', source: 'reddit', title: 'Walmart lottery live for the next hour!', link: 'https://x/1', date: '2026-10-14T19:30:00Z', seen: '', tags: ['drawing', 'walmart'] },
+      { id: 'n2', source: 'reddit', title: 'Old drawing', link: 'https://x/2', date: '2026-10-14T10:00:00Z', seen: '', tags: ['drawing'] },
+      { id: 'n3', source: 'reddit', title: 'Reveal', link: 'https://x/3', date: '2026-10-14T19:50:00Z', seen: '', tags: ['reveal'] },
+    ]
+    const out = buildAttention({ ...base, news })
+    expect(out.map((x) => x.id)).toEqual(['news:n1'])
+    expect(out[0].external).toBe(true)
+  })
+  it('flags release eve and an open predicted pre-order window', () => {
+    const rel = (p: object) => ({ id: 'r', name: 'Set', region: 'EN', kind: 'main', date: null, confidence: 'high', origin: 'seed', prerelease: null, preorder: null, products: [], presale: false, ...p }) as never
+    const out = buildAttention({
+      ...base,
+      releases: [
+        rel({ id: 'a', name: 'Delta Reign', date: '2026-10-15' }),
+        rel({ id: 'b', name: 'Next Set', date: '2026-11-25', preorderPrediction: { from: '2026-10-13', to: '2026-10-19', likely: '2026-10-14', basis: 'last 3 sets' } }),
+      ],
+    })
+    expect(out.map((x) => x.id).sort()).toEqual(['preorder:b', 'release:a'])
+  })
+})
