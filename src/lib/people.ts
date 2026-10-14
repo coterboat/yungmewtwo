@@ -5,7 +5,7 @@ import { useUserFile } from './userData.ts'
 
 export const DEFAULT_PEOPLE: Person[] = [
   { id: 'alex', name: 'Alex', area: 'Sandy Springs, GA', color: '#a78bfa' },
-  { id: 'cousin', name: 'Cousin', area: 'Simpsonville, SC', color: '#f5a524' },
+  { id: 'paul', name: 'Paul', area: 'Simpsonville, SC', color: '#f5a524' },
 ]
 
 export function usePeople(): Person[] {

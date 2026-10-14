@@ -8,8 +8,8 @@ const base = { posts: [] as Post[], recurring: [] as Recurring[], watch: [] as W
 describe('buildAttention', () => {
   it('ranks a drawing closing in 1h above one closing in 2 days', () => {
     const posts: Post[] = [
-      { id: 'a', type: 'drawing', by: 'cousin', at: '2026-10-14T10:00:00Z', title: 'Later', ends: '2026-10-16T20:00:00Z' },
-      { id: 'b', type: 'drawing', by: 'cousin', at: '2026-10-14T10:00:00Z', title: 'Soon', ends: '2026-10-14T21:00:00Z' },
+      { id: 'a', type: 'drawing', by: 'paul', at: '2026-10-14T10:00:00Z', title: 'Later', ends: '2026-10-16T20:00:00Z' },
+      { id: 'b', type: 'drawing', by: 'paul', at: '2026-10-14T10:00:00Z', title: 'Soon', ends: '2026-10-14T21:00:00Z' },
     ]
     const out = buildAttention({ ...base, posts })
     expect(out.map((x) => x.title)).toEqual(['Soon', 'Later'])
@@ -17,8 +17,8 @@ describe('buildAttention', () => {
   })
   it('demotes drawings I already entered and drops closed ones', () => {
     const posts: Post[] = [
-      { id: 'a', type: 'drawing', by: 'cousin', at: '', title: 'Entered', ends: '2026-10-14T21:00:00Z', status: { alex: 'in' } },
-      { id: 'b', type: 'drawing', by: 'cousin', at: '', title: 'Closed', ends: '2026-10-14T19:00:00Z' },
+      { id: 'a', type: 'drawing', by: 'paul', at: '', title: 'Entered', ends: '2026-10-14T21:00:00Z', status: { alex: 'in' } },
+      { id: 'b', type: 'drawing', by: 'paul', at: '', title: 'Closed', ends: '2026-10-14T19:00:00Z' },
     ]
     const out = buildAttention({ ...base, posts })
     expect(out).toHaveLength(1)
@@ -29,7 +29,7 @@ describe('buildAttention', () => {
       { id: 'w1', by: 'alex', productId: 1, target: 100, added: '' },
       { id: 'w2', by: 'alex', productId: 2, target: 50, added: '' },
       { id: 'w3', by: 'alex', productId: 3, above: 200, added: '' },
-      { id: 'w4', by: 'cousin', productId: 1, target: 100, added: '' },
+      { id: 'w4', by: 'paul', productId: 1, target: 100, added: '' },
     ]
     const prices = new Map<number, PriceInfo>([
       [1, { name: 'One', market: 95, low: 90 }],
@@ -51,8 +51,8 @@ describe('buildAttention', () => {
   it("only surfaces other people's fresh deals", () => {
     const posts: Post[] = [
       { id: 'a', type: 'deal', by: 'alex', at: '2026-10-14T19:00:00Z', title: 'Mine' },
-      { id: 'b', type: 'deal', by: 'cousin', at: '2026-10-14T19:00:00Z', title: 'Fresh' },
-      { id: 'c', type: 'deal', by: 'cousin', at: '2026-10-10T19:00:00Z', title: 'Old' },
+      { id: 'b', type: 'deal', by: 'paul', at: '2026-10-14T19:00:00Z', title: 'Fresh' },
+      { id: 'c', type: 'deal', by: 'paul', at: '2026-10-10T19:00:00Z', title: 'Old' },
     ]
     expect(buildAttention({ ...base, posts, lastSeen: '2026-10-14T00:00:00Z' }).map((x) => x.title)).toEqual(['Fresh'])
   })
