@@ -1,0 +1,19 @@
+[
+{"id":605010,"name":"Basic Lightning Energy","set":23951,"kind":"card","rarity":"None"},
+{"id":605011,"name":"Basic Psychic Energy","set":23951,"kind":"card","rarity":"None"},
+{"id":605012,"name":"Basic Fighting Energy","set":23951,"kind":"card","rarity":"None"},
+{"id":605013,"name":"Joltik","set":23951,"kind":"card","num":"001/014","rarity":"None"},
+{"id":605014,"name":"Galvantula","set":23951,"kind":"card","num":"002/014","rarity":"None"},
+{"id":605015,"name":"Sigilyph","set":23951,"kind":"card","num":"003/014","rarity":"None"},
+{"id":605016,"name":"Gothita","set":23951,"kind":"card","num":"004/014","rarity":"None"},
+{"id":605017,"name":"Roggenrola","set":23951,"kind":"card","num":"005/014","rarity":"None"},
+{"id":605018,"name":"Boldore","set":23951,"kind":"card","num":"006/014","rarity":"None"},
+{"id":605019,"name":"Drilbur","set":23951,"kind":"card","num":"007/014","rarity":"None"},
+{"id":605020,"name":"Terrakion","set":23951,"kind":"card","num":"013/014","rarity":"None"},
+{"id":641890,"name":"Bianca","set":23951,"kind":"card","num":"014/014","rarity":"None"},
+{"id":641903,"name":"Energy Search","set":23951,"kind":"card","num":"008/014","rarity":"None"},
+{"id":641905,"name":"Great Ball","set":23951,"kind":"card","num":"009/014","rarity":"None"},
+{"id":641913,"name":"Switch","set":23951,"kind":"card","num":"010/014","rarity":"None"},
+{"id":641921,"name":"Pokemon Catcher","set":23951,"kind":"card","num":"011/014","rarity":"None"},
+{"id":641927,"name":"Cheren","set":23951,"kind":"card","num":"012/014","rarity":"None"}
+]

@@ -1,0 +1,23 @@
+[
+{"id":83694,"name":"Bagon","set":1543,"kind":"card","num":"1/10","rarity":"Common"},
+{"id":84403,"name":"Combusken","set":1543,"kind":"card","num":"2/10","rarity":"Common"},
+{"id":84737,"name":"Delcatty","set":1543,"kind":"card","num":"3/10","rarity":"Common"},
+{"id":85131,"name":"Electrike","set":1543,"kind":"card","num":"1/10","rarity":"Common"},
+{"id":85239,"name":"Energy Search (Latias)","set":1543,"kind":"card","num":"9/10","rarity":"Common"},
+{"id":85240,"name":"Energy Search (Latios)","set":1543,"kind":"card","num":"9/10","rarity":"Common"},
+{"id":85457,"name":"Fire Energy","set":1543,"kind":"card","num":"10/10","rarity":"Common"},
+{"id":86650,"name":"Latias","set":1543,"kind":"card","num":"4/10","rarity":"Common"},
+{"id":86664,"name":"Latios","set":1543,"kind":"card","num":"2/10","rarity":"Common"},
+{"id":86760,"name":"Lightning Energy","set":1543,"kind":"card","num":"10/10","rarity":"Common"},
+{"id":86805,"name":"Linoone","set":1543,"kind":"card","num":"3/10","rarity":"Common"},
+{"id":87076,"name":"Magnemite","set":1543,"kind":"card","num":"4/10","rarity":"Common"},
+{"id":87103,"name":"Magneton","set":1543,"kind":"card","num":"5/10","rarity":"Common"},
+{"id":87808,"name":"Numel","set":1543,"kind":"card","num":"5/10","rarity":"Common"},
+{"id":88079,"name":"Pikachu","set":1543,"kind":"card","num":"6/10","rarity":"Common"},
+{"id":88335,"name":"Potion (Latias)","set":1543,"kind":"card","num":"8/10","rarity":"Common"},
+{"id":88336,"name":"Potion (Latios)","set":1543,"kind":"card","num":"8/10","rarity":"Common"},
+{"id":89263,"name":"Skitty","set":1543,"kind":"card","num":"6/10","rarity":"Common"},
+{"id":89954,"name":"Torchic","set":1543,"kind":"card","num":"7/10","rarity":"Common"},
+{"id":90746,"name":"Zigzagoon","set":1543,"kind":"card","num":"7/10","rarity":"Common"},
+{"id":98950,"name":"EX Trainer Kit [Latias & Latios]","set":1543,"kind":"sealed","sealed":"other"}
+]
