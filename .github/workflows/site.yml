@@ -73,6 +73,16 @@ jobs:
         # A blocked or broken feed is recorded in data/news.json and shown in the app; it never stops prices from committing.
         continue-on-error: true
         run: node scripts/pull-news.ts
+      - name: X sweep (Grok live search)
+        # Paid per post fetched, so it keeps its own clock (every X_SEARCH_EVERY_HOURS, 8am-11pm ET)
+        # and skips quietly without the XAI_API_KEY secret.
+        if: steps.scope.outputs.mode == 'full'
+        continue-on-error: true
+        env:
+          XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
+          X_SEARCH_EVERY_HOURS: ${{ vars.X_SEARCH_EVERY_HOURS }}
+          XAI_MODEL: ${{ vars.XAI_MODEL }}
+        run: node scripts/pull-x.ts
       - name: Phone alerts (ntfy)
         if: steps.scope.outputs.mode != 'skip'
         continue-on-error: true
