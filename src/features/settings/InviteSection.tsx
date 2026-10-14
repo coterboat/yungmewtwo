@@ -4,6 +4,7 @@ import { useEffect, useMemo, useState } from 'react'
 import { Field, Select, Toggle } from '../../components/ui.tsx'
 import { SITE_URL } from '../../lib/config.ts'
 import { buildJoinLink, cleanToken, maskJoinLink, tokenLooksRight } from '../../lib/invite.ts'
+import { topicForPerson } from '../../lib/ntfySetup.ts'
 import { personName, usePeople } from '../../lib/people.ts'
 import { usePrefs } from '../../lib/prefs.ts'
 import { CheckLine, runCheck, TokenInput } from './KeySection.tsx'
@@ -35,7 +36,8 @@ function InviteBuilder() {
   }, [key])
 
   const scanKey = shareScan && anthropicKey ? anthropicKey : undefined
-  const link = useMemo(() => buildJoinLink(SITE_URL, { personId, token: key, topic: ntfyTopic ?? '', scanKey }), [personId, key, ntfyTopic, scanKey])
+  const theirTopic = ntfyTopic ? topicForPerson(ntfyTopic, me, personId) : ''
+  const link = useMemo(() => buildJoinLink(SITE_URL, { personId, token: key, topic: theirTopic, scanKey }), [personId, key, theirTopic, scanKey])
   const name = personName(people, personId)
   const rejected = check.state === 'bad' && !check.offline
   const ready = !!key && !!personId && !rejected
@@ -66,7 +68,7 @@ function InviteBuilder() {
         <div className="rounded-2xl border border-line bg-surface-2/50 px-4 py-3 text-[13px]">
           {ntfyTopic ? (
             <p className="text-ink-2">
-              Alert topic included: <code className="rounded-md bg-surface-3 px-1.5 py-0.5 font-mono text-[12.5px] text-ink">{ntfyTopic}</code>
+              {name}'s alert topic included: <code className="rounded-md bg-surface-3 px-1.5 py-0.5 font-mono text-[12.5px] text-ink">{theirTopic}</code>
             </p>
           ) : (
             <p className="text-ink-2">

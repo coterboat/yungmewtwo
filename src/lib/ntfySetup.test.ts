@@ -60,3 +60,12 @@ describe('testAlertRequest', () => {
     expect(req.init.body).toContain('Alex')
   })
 })
+
+describe('topicForPerson', () => {
+  it("swaps the person suffix to get someone else's personal topic", async () => {
+    const { topicForPerson } = await import('./ntfySetup.ts')
+    expect(topicForPerson('yungmewtwo-abc123-alex', 'alex', 'paul')).toBe('yungmewtwo-abc123-paul')
+    expect(topicForPerson('yungmewtwo-shared', 'alex', 'paul')).toBe('yungmewtwo-shared')
+    expect(topicForPerson('yungmewtwo-abc123-alex', null, 'paul')).toBe('yungmewtwo-abc123-alex')
+  })
+})

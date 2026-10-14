@@ -1,6 +1,13 @@
 # One workflow for the whole site, because commits pushed with GITHUB_TOKEN don't trigger other workflows.
-#   pulse  (schedule / manual): pull data, commit it to main
+#   pulse  (schedule / manual / push): pull data, send phone alerts, commit to main
 #   deploy (push, or pulse changed something): build the app + site data, publish to GitHub Pages
+#
+# What each trigger does inside pulse:
+#   25 20 and 25 22 daily   prices (TCGCSV), then news, then alerts
+#   7,37 every hour         news, then alerts
+#   manual run              all three
+#   push to main            only when data/user/** changed (a new post, a watch, an edit): alerts
+#                           only, no pulls, so the other person's phone buzzes within a minute or two
 name: site
 
 on:
@@ -28,21 +35,50 @@ concurrency:
 
 jobs:
   pulse:
-    if: github.event_name != 'push'
     runs-on: ubuntu-latest
     timeout-minutes: 20
     outputs:
       changed: ${{ steps.commit.outputs.changed }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          # A push can carry several commits; the diff below needs the one before them.
+          fetch-depth: ${{ github.event_name == 'push' && 50 || 1 }}
+      - name: What to do on this trigger
+        id: scope
+        run: |
+          mode=full
+          if [ "${{ github.event_name }}" = "push" ]; then
+            mode=skip
+            if git diff --name-only "${{ github.event.before }}" "${{ github.sha }}" -- data/user 2>/dev/null | grep -q . \
+              || ! git cat-file -e "${{ github.event.before }}^{commit}" 2>/dev/null; then
+              mode=alerts
+            fi
+          fi
+          echo "mode=$mode" >> "$GITHUB_OUTPUT"
+          echo "mode: $mode"
       - uses: actions/setup-node@v4
+        if: steps.scope.outputs.mode != 'skip'
         with:
           node-version: 24
           cache: npm
       - run: npm ci
+        # The alerts-only path (a new post) skips this: the scripts need no packages, and a minute matters.
+        if: steps.scope.outputs.mode == 'full'
       - name: Prices (TCGCSV)
-        if: github.event.schedule != '7,37 * * * *'
+        if: steps.scope.outputs.mode == 'full' && github.event.schedule != '7,37 * * * *'
         run: node scripts/pull-tcgcsv.ts ${{ inputs.force && '--force' || '' }}
+      - name: News (PokéBeach, Reddit)
+        if: steps.scope.outputs.mode == 'full'
+        # A blocked or broken feed is recorded in data/news.json and shown in the app; it never stops prices from committing.
+        continue-on-error: true
+        run: node scripts/pull-news.ts
+      - name: Phone alerts (ntfy)
+        if: steps.scope.outputs.mode != 'skip'
+        continue-on-error: true
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: node scripts/alerts.ts
       - name: Commit data
         id: commit
         run: |

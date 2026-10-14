@@ -28,6 +28,14 @@ export function generateTopic(randomBytes: (n: number) => Uint8Array = (n) => cr
 
 export const topicWebUrl = (topic: string) => `${NTFY_SERVER}/${topic}`
 
+/** Personal topics share a base and end in the person's id ("yungmewtwo-k3j9-alex"); the alert job
+ *  sends each person only their own alerts. Given my topic, this is the one for someone else. With
+ *  a single shared topic (no id suffix) everyone uses the same one. */
+export function topicForPerson(myTopic: string, myId: string | null | undefined, theirId: string): string {
+  if (myId && myTopic.endsWith(`-${myId}`)) return `${myTopic.slice(0, -myId.length - 1)}-${theirId}`
+  return myTopic
+}
+
 export const NTFY_IOS = 'https://apps.apple.com/us/app/ntfy/id1625396347'
 export const NTFY_ANDROID = 'https://play.google.com/store/apps/details?id=io.heckel.ntfy'
 
