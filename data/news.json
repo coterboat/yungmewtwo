@@ -1,12 +1,13 @@
 {
-"updatedAt":"2026-10-15T05:22:16.919Z",
+"updatedAt":"2026-10-15T05:44:58.895Z",
 "sources":{
 "pokebeach":{"name":"PokéBeach news","url":"https://www.pokebeach.com/forums/forum/front-page-news.18/index.rss","status":"ok","at":"2026-10-15T05:22:16.919Z","lastOk":"2026-10-15T05:22:16.919Z","count":30},
 "pokebeach-forum":{"name":"PokéBeach forum","url":"https://www.pokebeach.com/forums/forums/-/index.rss","status":"ok","at":"2026-10-15T05:22:16.919Z","lastOk":"2026-10-15T05:22:16.919Z","count":30},
 "reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-15T05:22:16.919Z","lastOk":"2026-10-15T05:22:16.919Z","count":25},
-"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-15T04:46:32.604Z","lastOk":"2026-10-15T04:46:32.604Z","count":25}
+"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-15T05:44:58.895Z","lastOk":"2026-10-15T05:44:58.895Z","count":25}
 },
 "items":[
+{"id":"2497d339","source":"reddit-pokemontcg","title":"Are recent, individual packs worth holding on to?","link":"https://www.reddit.com/r/PokemonTCG/comments/1x6dhpx/are_recent_individual_packs_worth_holding_on_to","date":"2026-10-15T05:38:15.000Z","seen":"2026-10-15T05:44:58.895Z","summary":"Hi, newbie to the Pokemon TCG here, coming from MTG. I am going to start playing in locals, where there is usually a pack included with your entry fee and some prize packs. I'm trying to get into the game relatively c...","author":"EdjeMonkeys","tags":["restock"]},
 {"id":"c34b9e5c","source":"reddit-pokemontcg","title":"30th Anniversary x3 ETB Results","link":"https://www.reddit.com/r/PokemonTCG/comments/1x6citl/30th_anniversary_x3_etb_results","date":"2026-10-15T04:41:35.000Z","seen":"2026-10-15T04:46:32.604Z","summary":"Won these off the last lottery, ripped them all just now.","author":"ChiTownKid99","tags":["drawing"]},
 {"id":"70ccf876","source":"reddit-deals","title":"Walmart lottery live for the next hour!","link":"https://www.reddit.com/r/PKMNTCGDeals/comments/1x62u0z/walmart_lottery_live_for_the_next_hour","date":"2026-10-14T20:55:09.000Z","seen":"2026-10-14T22:34:23.141Z","summary":"Link to the lottery here #ad Join our discord with over 100k people for notifications and monthly giveaways to help you hit stock!","author":"Chippyrs","tags":["drawing","walmart"]},
 {"id":"627eb0d3","source":"pokebeach","title":"“Delta Reign” Prerelease Promos and More English Cards Revealed!","link":"https://www.pokebeach.com/forums/threads/%E2%80%9Cdelta-reign%E2%80%9D-prerelease-promos-and-more-english-cards-revealed.157067","date":"2026-10-14T16:04:24.000Z","seen":"2026-10-14T22:34:23.141Z","summary":"The prerelease promos from Delta Reign have been revealed: Masquerain, Magmortar, Enamorus, and Kommo-o! They are all new, alternate art versions of cards in the set. Prereleases will take place from October 24th to N...","author":"Water Pokémon Master","tags":["reveal"]},
