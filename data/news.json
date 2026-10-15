@@ -1,12 +1,13 @@
 {
-"updatedAt":"2026-10-15T05:44:58.895Z",
+"updatedAt":"2026-10-15T07:27:16.215Z",
 "sources":{
 "pokebeach":{"name":"PokéBeach news","url":"https://www.pokebeach.com/forums/forum/front-page-news.18/index.rss","status":"ok","at":"2026-10-15T05:22:16.919Z","lastOk":"2026-10-15T05:22:16.919Z","count":30},
 "pokebeach-forum":{"name":"PokéBeach forum","url":"https://www.pokebeach.com/forums/forums/-/index.rss","status":"ok","at":"2026-10-15T05:22:16.919Z","lastOk":"2026-10-15T05:22:16.919Z","count":30},
 "reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-15T05:22:16.919Z","lastOk":"2026-10-15T05:22:16.919Z","count":25},
-"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-15T05:44:58.895Z","lastOk":"2026-10-15T05:44:58.895Z","count":25}
+"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-15T07:27:16.215Z","lastOk":"2026-10-15T07:27:16.215Z","count":25}
 },
 "items":[
+{"id":"69c4c637","source":"reddit-pokemontcg","title":"Gardevoir ex is gorgeous","link":"https://www.reddit.com/r/PokemonTCG/comments/1x6ez1n/gardevoir_ex_is_gorgeous","date":"2026-10-15T07:10:44.000Z","seen":"2026-10-15T07:27:16.215Z","summary":"Got this in the mail yesterday, I bought it since the price dropped and I liked the art but it's the first time in a while when I keep picking it up to admire the art. It's such a nice card. I definitely have to pick...","author":"Sumiba","tags":["restock","deal"]},
 {"id":"2497d339","source":"reddit-pokemontcg","title":"Are recent, individual packs worth holding on to?","link":"https://www.reddit.com/r/PokemonTCG/comments/1x6dhpx/are_recent_individual_packs_worth_holding_on_to","date":"2026-10-15T05:38:15.000Z","seen":"2026-10-15T05:44:58.895Z","summary":"Hi, newbie to the Pokemon TCG here, coming from MTG. I am going to start playing in locals, where there is usually a pack included with your entry fee and some prize packs. I'm trying to get into the game relatively c...","author":"EdjeMonkeys","tags":["restock"]},
 {"id":"c34b9e5c","source":"reddit-pokemontcg","title":"30th Anniversary x3 ETB Results","link":"https://www.reddit.com/r/PokemonTCG/comments/1x6citl/30th_anniversary_x3_etb_results","date":"2026-10-15T04:41:35.000Z","seen":"2026-10-15T04:46:32.604Z","summary":"Won these off the last lottery, ripped them all just now.","author":"ChiTownKid99","tags":["drawing"]},
 {"id":"70ccf876","source":"reddit-deals","title":"Walmart lottery live for the next hour!","link":"https://www.reddit.com/r/PKMNTCGDeals/comments/1x62u0z/walmart_lottery_live_for_the_next_hour","date":"2026-10-14T20:55:09.000Z","seen":"2026-10-14T22:34:23.141Z","summary":"Link to the lottery here #ad Join our discord with over 100k people for notifications and monthly giveaways to help you hit stock!","author":"Chippyrs","tags":["drawing","walmart"]},
