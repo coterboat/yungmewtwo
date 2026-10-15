@@ -1,10 +1,10 @@
 {
-"updatedAt":"2026-10-14T22:38:52.732Z",
+"updatedAt":"2026-10-15T01:52:05.900Z",
 "sources":{
-"pokebeach":{"name":"PokéBeach news","url":"https://www.pokebeach.com/forums/forum/front-page-news.18/index.rss","status":"ok","at":"2026-10-14T22:34:23.141Z","lastOk":"2026-10-14T22:34:23.141Z","count":30},
-"pokebeach-forum":{"name":"PokéBeach forum","url":"https://www.pokebeach.com/forums/forums/-/index.rss","status":"ok","at":"2026-10-14T22:34:23.141Z","lastOk":"2026-10-14T22:34:23.141Z","count":30},
-"reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-14T22:38:52.732Z","lastOk":"2026-10-14T22:38:52.732Z","count":25},
-"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-14T22:38:52.732Z","lastOk":"2026-10-14T22:38:52.732Z","count":25}
+"pokebeach":{"name":"PokéBeach news","url":"https://www.pokebeach.com/forums/forum/front-page-news.18/index.rss","status":"ok","at":"2026-10-15T01:52:05.900Z","lastOk":"2026-10-15T01:52:05.900Z","count":30},
+"pokebeach-forum":{"name":"PokéBeach forum","url":"https://www.pokebeach.com/forums/forums/-/index.rss","status":"ok","at":"2026-10-15T01:52:05.900Z","lastOk":"2026-10-15T01:52:05.900Z","count":30},
+"reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-15T01:52:05.900Z","lastOk":"2026-10-15T01:52:05.900Z","count":25},
+"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-15T01:52:05.900Z","lastOk":"2026-10-15T01:52:05.900Z","count":25}
 },
 "items":[
 {"id":"70ccf876","source":"reddit-deals","title":"Walmart lottery live for the next hour!","link":"https://www.reddit.com/r/PKMNTCGDeals/comments/1x62u0z/walmart_lottery_live_for_the_next_hour","date":"2026-10-14T20:55:09.000Z","seen":"2026-10-14T22:34:23.141Z","summary":"Link to the lottery here #ad Join our discord with over 100k people for notifications and monthly giveaways to help you hit stock!","author":"Chippyrs","tags":["drawing","walmart"]},
