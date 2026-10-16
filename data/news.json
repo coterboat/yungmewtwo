@@ -1,12 +1,13 @@
 {
-"updatedAt":"2026-10-16T08:29:35.947Z",
+"updatedAt":"2026-10-16T10:44:32.638Z",
 "sources":{
 "pokebeach":{"name":"PokéBeach news","url":"https://www.pokebeach.com/forums/forum/front-page-news.18/index.rss","status":"ok","at":"2026-10-16T08:29:35.947Z","lastOk":"2026-10-16T08:29:35.947Z","count":30},
 "pokebeach-forum":{"name":"PokéBeach forum","url":"https://www.pokebeach.com/forums/forums/-/index.rss","status":"ok","at":"2026-10-16T07:46:42.607Z","lastOk":"2026-10-16T07:46:42.607Z","count":30},
 "reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-16T08:29:35.947Z","lastOk":"2026-10-16T08:29:35.947Z","count":25},
-"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-16T07:46:42.607Z","lastOk":"2026-10-16T07:46:42.607Z","count":25}
+"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-16T10:44:32.638Z","lastOk":"2026-10-16T10:44:32.638Z","count":25}
 },
 "items":[
+{"id":"7dc4e022","source":"reddit-pokemontcg","title":"Just got my Japanese 9 x 3 starter Set","link":"https://www.reddit.com/r/PokemonTCG/comments/1x7cpa8/just_got_my_japanese_9_x_3_starter_set","date":"2026-10-16T10:32:32.000Z","seen":"2026-10-16T10:44:32.638Z","summary":"Just got my 9x3 starter set from Pokémon center Japan through the lottery. A bit surprised by the boxes and tape used to seal them. Still opening them anyway but thought they'd be more sealed. These are so cool. Reall...","author":"hinogammykagura","tags":["drawing","pokemon-center"]},
 {"id":"ed4b137c","source":"reddit-pokemontcg","title":"Is it just me or are Pokémon packs basically slot machines now?","link":"https://www.reddit.com/r/PokemonTCG/comments/1x79zgo/is_it_just_me_or_are_pok%C3%A9mon_packs_basically_slot","date":"2026-10-16T07:42:19.000Z","seen":"2026-10-16T07:46:42.607Z","summary":"Been thinking about this for a while. When I was a kid in '99, about one in three packs had a holo and that was the best you could get. Pulling one felt great but it wasn't some crazy lottery. Looked up the current pu...","author":"Rivered1","tags":["drawing"]},
 {"id":"a2d03be9","source":"reddit-pokemontcg","title":"How I’m gonna be hitting restocks in 2030","link":"https://www.reddit.com/r/PokemonTCG/comments/1x77q2y/how_im_gonna_be_hitting_restocks_in_2030","date":"2026-10-16T05:22:17.000Z","seen":"2026-10-16T05:22:13.748Z","author":"wearespartacus","tags":["restock"]},
 {"id":"f96adc87","source":"pokebeach","title":"Mega Heatran ex, Lebanne, Gastly, and Other Gym Promos Revealed for November!","link":"https://www.pokebeach.com/forums/threads/mega-heatran-ex-lebanne-gastly-and-other-gym-promos-revealed-for-november.157094","date":"2026-10-16T05:21:09.000Z","seen":"2026-10-16T05:22:13.748Z","summary":"Starting November 1st, Japan's Gym tournaments will be releasing a new booster pack containing one of seven promo cards. Participants will receive two packs while the winner will receive an additional pack. ... Click...","author":"Water Pokémon Master","tags":["reveal"]},
