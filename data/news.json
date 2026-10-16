@@ -1,10 +1,10 @@
 {
-"updatedAt":"2026-10-16T04:24:59.796Z",
+"updatedAt":"2026-10-16T04:47:19.814Z",
 "sources":{
 "pokebeach":{"name":"PokéBeach news","url":"https://www.pokebeach.com/forums/forum/front-page-news.18/index.rss","status":"ok","at":"2026-10-16T04:24:59.796Z","lastOk":"2026-10-16T04:24:59.796Z","count":30},
 "pokebeach-forum":{"name":"PokéBeach forum","url":"https://www.pokebeach.com/forums/forums/-/index.rss","status":"ok","at":"2026-10-16T04:24:59.796Z","lastOk":"2026-10-16T04:24:59.796Z","count":30},
 "reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-16T01:51:44.044Z","lastOk":"2026-10-16T01:51:44.044Z","count":25},
-"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-16T01:28:04.019Z","lastOk":"2026-10-16T01:28:04.019Z","count":25}
+"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-16T04:47:19.814Z","lastOk":"2026-10-16T04:47:19.814Z","count":25}
 },
 "items":[
 {"id":"64a8f028","source":"reddit-pokemontcg","title":"I WILL Never ever patronize GameStop for ANYTHING and it wasn’t the scalper prices!","link":"https://www.reddit.com/r/PokemonTCG/comments/1x72nez/i_will_never_ever_patronize_gamestop_for_anything","date":"2026-10-16T00:52:30.000Z","seen":"2026-10-16T01:28:04.019Z","summary":"TLDR: Preordered lots of 30th Pokemon at GameStop, put 50% of scalper prices down, product arrived early at GameStop, they called my old out of service phone number because their system can’t be updated with new ones....","author":"Due-Respond-8932","tags":["preorder","gamestop"]},
