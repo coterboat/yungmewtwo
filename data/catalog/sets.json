@@ -1,4 +1,5 @@
 [
+{"id":24451,"name":"ME: Mega Evolution Promo","abbr":"MEP","lang":"EN","released":"2026-11-06","supplemental":false,"firstSeen":null},
 {"id":24831,"name":"ME06: Delta Reign","abbr":"DLR","lang":"EN","released":"2026-11-06","supplemental":false,"firstSeen":null},
 {"id":1414,"name":"POP Series 7","abbr":"POP","lang":"EN","released":"2026-10-14","supplemental":false,"firstSeen":null},
 {"id":1422,"name":"POP Series 1","abbr":"POP","lang":"EN","released":"2026-10-14","supplemental":false,"firstSeen":null},
@@ -18,7 +19,6 @@
 {"id":2289,"name":"Blister Exclusives","abbr":"BLE","lang":"EN","released":"2026-10-14","supplemental":true,"firstSeen":null},
 {"id":2332,"name":"Professor Program Promos","abbr":"PPP","lang":"EN","released":"2026-10-14","supplemental":true,"firstSeen":null},
 {"id":1528,"name":"Jumbo Cards","abbr":"PR","lang":"EN","released":"2026-09-16","supplemental":false,"firstSeen":null},
-{"id":24451,"name":"ME: Mega Evolution Promo","abbr":"MEP","lang":"EN","released":"2026-09-16","supplemental":false,"firstSeen":null},
 {"id":24722,"name":"ME: 30th Celebration","abbr":"30C","lang":"EN","released":"2026-09-16","supplemental":false,"firstSeen":null},
 {"id":24837,"name":"ME: 30th Celebration Classic Collection","abbr":"30C","lang":"EN","released":"2026-09-16","supplemental":true,"firstSeen":null},
 {"id":24584,"name":"First Partner Collection 2026","abbr":"","lang":"EN","released":"2026-08-07","supplemental":false,"firstSeen":null},
