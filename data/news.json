@@ -1,10 +1,10 @@
 {
-"updatedAt":"2026-10-17T14:18:36.885Z",
+"updatedAt":"2026-10-17T15:41:27.675Z",
 "sources":{
 "pokebeach":{"name":"PokéBeach news","url":"https://www.pokebeach.com/forums/forum/front-page-news.18/index.rss","status":"ok","at":"2026-10-17T14:18:36.885Z","lastOk":"2026-10-17T14:18:36.885Z","count":30},
 "pokebeach-forum":{"name":"PokéBeach forum","url":"https://www.pokebeach.com/forums/forums/-/index.rss","status":"ok","at":"2026-10-17T14:18:36.885Z","lastOk":"2026-10-17T14:18:36.885Z","count":30},
-"reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-17T12:27:14.075Z","lastOk":"2026-10-17T12:27:14.075Z","count":25},
-"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-17T12:27:14.075Z","lastOk":"2026-10-17T12:27:14.075Z","count":25}
+"reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-17T15:41:27.675Z","lastOk":"2026-10-17T15:41:27.675Z","count":25},
+"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-17T15:41:27.675Z","lastOk":"2026-10-17T15:41:27.675Z","count":25}
 },
 "items":[
 {"id":"ca4301be","source":"reddit-pokemontcg","title":"storing pokemon cards","link":"https://www.reddit.com/r/PokemonTCG/comments/1x84nin/storing_pokemon_cards","date":"2026-10-17T08:05:47.000Z","seen":"2026-10-17T08:25:10.674Z","summary":"hey guys, i have a quick question on how should i store my pokemon cards. first of all, i'm an occassional booster pack buyer, nothing crazy, i probably buy one or two a month, my cards have started to pile up and i f...","author":"AkemiAkio","tags":["restock"]},
