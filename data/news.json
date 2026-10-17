@@ -1,12 +1,13 @@
 {
-"updatedAt":"2026-10-17T00:51:37.754Z",
+"updatedAt":"2026-10-17T01:50:46.164Z",
 "sources":{
 "pokebeach":{"name":"PokéBeach news","url":"https://www.pokebeach.com/forums/forum/front-page-news.18/index.rss","status":"ok","at":"2026-10-17T00:51:37.754Z","lastOk":"2026-10-17T00:51:37.754Z","count":30},
 "pokebeach-forum":{"name":"PokéBeach forum","url":"https://www.pokebeach.com/forums/forums/-/index.rss","status":"ok","at":"2026-10-17T00:51:37.754Z","lastOk":"2026-10-17T00:51:37.754Z","count":30},
 "reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-17T00:51:37.754Z","lastOk":"2026-10-17T00:51:37.754Z","count":25},
-"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-16T23:40:54.078Z","lastOk":"2026-10-16T23:40:54.078Z","count":25}
+"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-17T01:50:46.164Z","lastOk":"2026-10-17T01:50:46.164Z","count":25}
 },
 "items":[
+{"id":"6875c07e","source":"reddit-pokemontcg","title":"Ran into a Target restock today","link":"https://www.reddit.com/r/PokemonTCG/comments/1x7xy49/ran_into_a_target_restock_today","date":"2026-10-17T01:40:47.000Z","seen":"2026-10-17T01:50:46.164Z","summary":"Got the LAST ETB and pulled this guy 😳 I just wanted to get towels 🤣","author":"Icy-Obligation2985","tags":["restock","target"]},
 {"id":"b17deae1","source":"reddit-pokemontcg","title":"Maushold Glitch","link":"https://www.reddit.com/r/PokemonTCG/comments/1x7v8jn/maushold_glitch","date":"2026-10-16T23:26:04.000Z","seen":"2026-10-16T23:40:54.078Z","summary":"I bought a 30th Anniversary Poster that comes with Articuno, Zapdos, Moltres, 3 packs and a poster. I opened 3 packs and got 3 hits. I got 3 Maushold IR's. Wtf is going on? In what universe is this normal? 🤣 I'm not...","author":"North_Implement2144","tags":["price-error"]},
 {"id":"00667e26","source":"reddit-pokemontcg","title":"I built a free TCG restock tracker covering 50+ stores (CAD and US) — looking for feedback from collectors","link":"https://www.reddit.com/r/PokemonTCG/comments/1x7nz83/i_built_a_free_tcg_restock_tracker_covering_50","date":"2026-10-16T18:27:00.000Z","seen":"2026-10-16T18:47:54.750Z","summary":"Hey everyone! A little while ago, I shared a TCG restock alert bot I've been building called PackPing, and I got some useful feedback from the community. For anyone who missed it, PackPing is a Discord-based restock t...","author":"omealoapp","tags":["restock"]},
 {"id":"ef9b310f","source":"reddit-pokemontcg","title":"Is it normal for this many to be in stock?","link":"https://www.reddit.com/r/PokemonTCG/comments/1x7mm0g/is_it_normal_for_this_many_to_be_in_stock","date":"2026-10-16T17:35:18.000Z","seen":"2026-10-16T17:43:48.831Z","summary":"Before you guys flame me, I don’t know much about Pokémon","author":"Wowthatsfkdup","tags":["restock"]},
