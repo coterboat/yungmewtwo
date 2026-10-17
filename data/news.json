@@ -1,12 +1,13 @@
 {
-"updatedAt":"2026-10-17T18:43:28.571Z",
+"updatedAt":"2026-10-17T19:15:32.885Z",
 "sources":{
 "pokebeach":{"name":"PokéBeach news","url":"https://www.pokebeach.com/forums/forum/front-page-news.18/index.rss","status":"ok","at":"2026-10-17T17:41:04.127Z","lastOk":"2026-10-17T17:41:04.127Z","count":30},
 "pokebeach-forum":{"name":"PokéBeach forum","url":"https://www.pokebeach.com/forums/forums/-/index.rss","status":"ok","at":"2026-10-17T17:41:04.127Z","lastOk":"2026-10-17T17:41:04.127Z","count":30},
 "reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-17T18:43:28.571Z","lastOk":"2026-10-17T18:43:28.571Z","count":25},
-"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-17T18:43:28.571Z","lastOk":"2026-10-17T18:43:28.571Z","count":25}
+"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-17T19:15:32.885Z","lastOk":"2026-10-17T19:15:32.885Z","count":25}
 },
 "items":[
+{"id":"5cbfe9db","source":"reddit-pokemontcg","title":"BOYCOTT SCALPERS","link":"https://www.reddit.com/r/PokemonTCG/comments/1x8iama/boycott_scalpers","date":"2026-10-17T19:02:12.000Z","seen":"2026-10-17T19:15:32.885Z","summary":"We all boycotted McDonalds and big companies that supported Israel, why don’t we boycott the people who scalp Pokemon packs for profit? If we start a movement and spread it around , the value of Pokemon packs drop ins...","author":"Mamoonshaif","tags":["restock"]},
 {"id":"ca4301be","source":"reddit-pokemontcg","title":"storing pokemon cards","link":"https://www.reddit.com/r/PokemonTCG/comments/1x84nin/storing_pokemon_cards","date":"2026-10-17T08:05:47.000Z","seen":"2026-10-17T08:25:10.674Z","summary":"hey guys, i have a quick question on how should i store my pokemon cards. first of all, i'm an occassional booster pack buyer, nothing crazy, i probably buy one or two a month, my cards have started to pile up and i f...","author":"AkemiAkio","tags":["restock"]},
 {"id":"1beb288e","source":"reddit-pokemontcg","title":"Ripped my Prismatic ETB","link":"https://www.reddit.com/r/PokemonTCG/comments/1x7zwtw/ripped_my_prismatic_etb","date":"2026-10-17T03:26:18.000Z","seen":"2026-10-17T03:45:11.057Z","summary":"Won the walmart raffle recently and decided to open my ETB today. I think I might have used up all of my luck for life?","author":"Outrageous_Rate_2885","tags":["drawing","walmart"]},
 {"id":"6875c07e","source":"reddit-pokemontcg","title":"Ran into a Target restock today","link":"https://www.reddit.com/r/PokemonTCG/comments/1x7xy49/ran_into_a_target_restock_today","date":"2026-10-17T01:40:47.000Z","seen":"2026-10-17T01:50:46.164Z","summary":"Got the LAST ETB and pulled this guy 😳 I just wanted to get towels 🤣","author":"Icy-Obligation2985","tags":["restock","target"]},
