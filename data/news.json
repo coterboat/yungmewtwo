@@ -1,12 +1,13 @@
 {
-"updatedAt":"2026-10-18T02:29:16.276Z",
+"updatedAt":"2026-10-18T03:25:14.815Z",
 "sources":{
 "pokebeach":{"name":"PokéBeach news","url":"https://www.pokebeach.com/forums/forum/front-page-news.18/index.rss","status":"ok","at":"2026-10-18T00:57:15.333Z","lastOk":"2026-10-18T00:57:15.333Z","count":30},
 "pokebeach-forum":{"name":"PokéBeach forum","url":"https://www.pokebeach.com/forums/forums/-/index.rss","status":"ok","at":"2026-10-18T00:57:15.333Z","lastOk":"2026-10-18T00:57:15.333Z","count":30},
 "reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-18T01:31:33.205Z","lastOk":"2026-10-18T01:31:33.205Z","count":25},
-"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-18T02:29:16.276Z","lastOk":"2026-10-18T02:29:16.276Z","count":25}
+"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-18T03:25:14.815Z","lastOk":"2026-10-18T03:25:14.815Z","count":25}
 },
 "items":[
+{"id":"d6a133b7","source":"reddit-pokemontcg","title":"Lugia","link":"https://www.reddit.com/r/PokemonTCG/comments/1x8ski7/lugia","date":"2026-10-18T03:06:50.000Z","seen":"2026-10-18T03:25:14.815Z","summary":"Pulled it yesterday and dropped it off at my local card shop to be graded. Sorry about the glare.","author":"Desperate_Candle_493","tags":["restock"]},
 {"id":"4f016fff","source":"reddit-pokemontcg","title":"Genuinely asking! Keep sealed for 5 years or rip it? (Read body)","link":"https://www.reddit.com/r/PokemonTCG/comments/1x8rvas/genuinely_asking_keep_sealed_for_5_years_or_rip","date":"2026-10-18T02:28:46.000Z","seen":"2026-10-18T02:29:16.276Z","summary":"I am going to start off by saying I’ve never scalped a box of any pokemon or sports cards. Sometimes when my Walmart has boxes in stock I’ll buy one and just rip it for fun. I opened the greninja ex and venusaur ex on...","author":"Internalcontroller","tags":["restock","walmart"]},
 {"id":"5cbfe9db","source":"reddit-pokemontcg","title":"BOYCOTT SCALPERS","link":"https://www.reddit.com/r/PokemonTCG/comments/1x8iama/boycott_scalpers","date":"2026-10-17T19:02:12.000Z","seen":"2026-10-17T19:15:32.885Z","summary":"We all boycotted McDonalds and big companies that supported Israel, why don’t we boycott the people who scalp Pokemon packs for profit? If we start a movement and spread it around , the value of Pokemon packs drop ins...","author":"Mamoonshaif","tags":["restock"]},
 {"id":"ca4301be","source":"reddit-pokemontcg","title":"storing pokemon cards","link":"https://www.reddit.com/r/PokemonTCG/comments/1x84nin/storing_pokemon_cards","date":"2026-10-17T08:05:47.000Z","seen":"2026-10-17T08:25:10.674Z","summary":"hey guys, i have a quick question on how should i store my pokemon cards. first of all, i'm an occassional booster pack buyer, nothing crazy, i probably buy one or two a month, my cards have started to pile up and i f...","author":"AkemiAkio","tags":["restock"]},
