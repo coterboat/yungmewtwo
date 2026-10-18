@@ -1,10 +1,10 @@
 {
-"updatedAt":"2026-10-18T00:57:15.333Z",
+"updatedAt":"2026-10-18T01:31:33.205Z",
 "sources":{
 "pokebeach":{"name":"PokéBeach news","url":"https://www.pokebeach.com/forums/forum/front-page-news.18/index.rss","status":"ok","at":"2026-10-18T00:57:15.333Z","lastOk":"2026-10-18T00:57:15.333Z","count":30},
 "pokebeach-forum":{"name":"PokéBeach forum","url":"https://www.pokebeach.com/forums/forums/-/index.rss","status":"ok","at":"2026-10-18T00:57:15.333Z","lastOk":"2026-10-18T00:57:15.333Z","count":30},
-"reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-17T22:18:04.230Z","lastOk":"2026-10-17T22:18:04.230Z","count":25},
-"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-17T22:18:04.230Z","lastOk":"2026-10-17T22:18:04.230Z","count":25}
+"reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-18T01:31:33.205Z","lastOk":"2026-10-18T01:31:33.205Z","count":25},
+"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-18T01:31:33.205Z","lastOk":"2026-10-18T01:31:33.205Z","count":25}
 },
 "items":[
 {"id":"5cbfe9db","source":"reddit-pokemontcg","title":"BOYCOTT SCALPERS","link":"https://www.reddit.com/r/PokemonTCG/comments/1x8iama/boycott_scalpers","date":"2026-10-17T19:02:12.000Z","seen":"2026-10-17T19:15:32.885Z","summary":"We all boycotted McDonalds and big companies that supported Israel, why don’t we boycott the people who scalp Pokemon packs for profit? If we start a movement and spread it around , the value of Pokemon packs drop ins...","author":"Mamoonshaif","tags":["restock"]},
