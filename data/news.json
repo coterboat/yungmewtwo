@@ -1,12 +1,13 @@
 {
-"updatedAt":"2026-10-18T18:23:27.546Z",
+"updatedAt":"2026-10-18T20:32:57.918Z",
 "sources":{
 "pokebeach":{"name":"PokéBeach news","url":"https://www.pokebeach.com/forums/forum/front-page-news.18/index.rss","status":"ok","at":"2026-10-18T17:40:51.921Z","lastOk":"2026-10-18T17:40:51.921Z","count":30},
 "pokebeach-forum":{"name":"PokéBeach forum","url":"https://www.pokebeach.com/forums/forums/-/index.rss","status":"ok","at":"2026-10-18T17:40:51.921Z","lastOk":"2026-10-18T17:40:51.921Z","count":30},
 "reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-18T18:23:27.546Z","lastOk":"2026-10-18T18:23:27.546Z","count":25},
-"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-18T18:23:27.546Z","lastOk":"2026-10-18T18:23:27.546Z","count":25}
+"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-18T20:32:57.918Z","lastOk":"2026-10-18T20:32:57.918Z","count":25}
 },
 "items":[
+{"id":"bcff7e32","source":"reddit-pokemontcg","title":"Surprise haul!","link":"https://www.reddit.com/r/PokemonTCG/comments/1x9djdr/surprise_haul","date":"2026-10-18T20:29:51.000Z","seen":"2026-10-18T20:32:57.918Z","summary":"Had an out of state wedding this weekend in a rural area. Went to get essentials for the big day at the only store, a Meijer. Found ourselves 8th a restock line of only 10 people! I have never seen Ascended heroes in...","author":"shaggyrobinson26","tags":["restock"]},
 {"id":"47b61fdc","source":"reddit-pokemontcg","title":"Highest quality scans","link":"https://www.reddit.com/r/PokemonTCG/comments/1x94r4c/highest_quality_scans","date":"2026-10-18T14:36:09.000Z","seen":"2026-10-18T14:42:05.454Z","summary":"Where can I find REALLY high quality scans of cards? Some of my favorites I'd really like to use as profile pictures and wallpapers, but I mostly find crunchy garbage when I look them up on google. Even just the artwo...","author":"blue-yoshi-real","tags":["restock"]},
 {"id":"ad090a56","source":"reddit-pokemontcg","title":"Rips Triumph – Free Pokémon Starter Pack for New Users (Code: OGIFWFH)","link":"https://www.reddit.com/r/PokemonTCG/comments/1x9258x/rips_triumph_free_pok%C3%A9mon_starter_pack_for_new","date":"2026-10-18T12:35:14.000Z","seen":"2026-10-18T12:47:57.400Z","summary":"If anyone is getting into Rips Triumph, they’re currently giving away free Pokémon Starter Packs through referrals! You get a free starter pack, and I get one too. Win-win! 😄 They also have daily cash drops and weekl...","author":"Classic-House-3279","tags":["restock"]},
 {"id":"d6a133b7","source":"reddit-pokemontcg","title":"Lugia","link":"https://www.reddit.com/r/PokemonTCG/comments/1x8ski7/lugia","date":"2026-10-18T03:06:50.000Z","seen":"2026-10-18T03:25:14.815Z","summary":"Pulled it yesterday and dropped it off at my local card shop to be graded. Sorry about the glare.","author":"Desperate_Candle_493","tags":["restock"]},
