@@ -1,10 +1,10 @@
 {
-"updatedAt":"2026-10-19T10:45:31.591Z",
+"updatedAt":"2026-10-19T12:34:15.930Z",
 "sources":{
 "pokebeach":{"name":"PokéBeach news","url":"https://www.pokebeach.com/forums/forum/front-page-news.18/index.rss","status":"ok","at":"2026-10-19T10:45:31.591Z","lastOk":"2026-10-19T10:45:31.591Z","count":30},
 "pokebeach-forum":{"name":"PokéBeach forum","url":"https://www.pokebeach.com/forums/forums/-/index.rss","status":"ok","at":"2026-10-19T10:45:31.591Z","lastOk":"2026-10-19T10:45:31.591Z","count":30},
 "reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-19T10:45:31.591Z","lastOk":"2026-10-19T10:45:31.591Z","count":25},
-"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-19T09:33:21.797Z","lastOk":"2026-10-19T09:33:21.797Z","count":25}
+"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-19T12:34:15.930Z","lastOk":"2026-10-19T12:34:15.930Z","count":25}
 },
 "items":[
 {"id":"8278e720","source":"reddit-pokemontcg","title":"30th Celebrations...","link":"https://www.reddit.com/r/PokemonTCG/comments/1x9s6ki/30th_celebrations","date":"2026-10-19T09:22:56.000Z","seen":"2026-10-19T09:33:21.797Z","summary":"Managed to get lucky on a lottery with Amazon for a 30th Anniversary box which me and my 6yo opened at the weekend. I was initially a bit concerned at 5 cards per pack but my god it was the best pack opening experienc...","author":"Wynnalot","tags":["drawing","amazon"]},
