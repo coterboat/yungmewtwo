@@ -1528,5 +1528,7 @@
 {"id":723144,"name":"Code Card - Summer 2024 Collector's Chest Tin","set":2374,"kind":"code","rarity":"Code Card"},
 {"id":723151,"name":"Code Card - 2 Pack Blister [Tornadus, Thundurus & Landorus]","set":2374,"kind":"code","rarity":"Code Card"},
 {"id":723260,"name":"Slowpoke - 32/83 (20th Anniversary)","set":2374,"kind":"card","num":"32/83","rarity":"Promo"},
-{"id":723301,"name":"Ascended Heroes Elite Trainer Box and Pokeball (Sam's Club)","set":2374,"kind":"sealed","sealed":"etb","packs":9,"upc":"0196214158528"}
+{"id":723301,"name":"Ascended Heroes Elite Trainer Box and Pokeball (Sam's Club)","set":2374,"kind":"sealed","sealed":"etb","packs":9,"upc":"0196214158528"},
+{"id":724537,"name":"Pichu (2002 E3 Promo)","set":2374,"kind":"card","num":"58/165","rarity":"Promo"},
+{"id":724538,"name":"Hoppip (2002 E3 Promo)","set":2374,"kind":"card","num":"112/165","rarity":"Promo"}
 ]
