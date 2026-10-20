@@ -1,10 +1,10 @@
 {
-"updatedAt":"2026-10-20T02:50:29.293Z",
+"updatedAt":"2026-10-20T04:25:05.867Z",
 "sources":{
 "pokebeach":{"name":"PokéBeach news","url":"https://www.pokebeach.com/forums/forum/front-page-news.18/index.rss","status":"ok","at":"2026-10-20T02:50:29.293Z","lastOk":"2026-10-20T02:50:29.293Z","count":30},
 "pokebeach-forum":{"name":"PokéBeach forum","url":"https://www.pokebeach.com/forums/forums/-/index.rss","status":"ok","at":"2026-10-20T02:50:29.293Z","lastOk":"2026-10-20T02:50:29.293Z","count":30},
 "reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-20T02:29:40.206Z","lastOk":"2026-10-20T02:29:40.206Z","count":25},
-"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-20T00:52:31.042Z","lastOk":"2026-10-20T00:52:31.042Z","count":25}
+"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-20T04:25:05.867Z","lastOk":"2026-10-20T04:25:05.867Z","count":25}
 },
 "items":[
 {"id":"3e3fea4e","source":"reddit-pokemontcg","title":"Finally got ahold of a 30th ETB…","link":"https://www.reddit.com/r/PokemonTCG/comments/1xa72ki/finally_got_ahold_of_a_30th_etb","date":"2026-10-19T19:50:22.000Z","seen":"2026-10-19T21:42:52.303Z","summary":"Picked one up today for my daughter and I… we got smoked 🤣 she loves anything Mew tho. The smiles were well worth it. Edit: I got ”smoked” because I decided to pay $140 for the only ETB I found in stock at my local s...","author":"bryblk","tags":["restock","target"]},
