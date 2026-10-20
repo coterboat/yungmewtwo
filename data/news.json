@@ -1,10 +1,10 @@
 {
-"updatedAt":"2026-10-20T06:35:46.844Z",
+"updatedAt":"2026-10-20T07:49:07.015Z",
 "sources":{
 "pokebeach":{"name":"PokéBeach news","url":"https://www.pokebeach.com/forums/forum/front-page-news.18/index.rss","status":"ok","at":"2026-10-20T06:35:46.844Z","lastOk":"2026-10-20T06:35:46.844Z","count":30},
 "pokebeach-forum":{"name":"PokéBeach forum","url":"https://www.pokebeach.com/forums/forums/-/index.rss","status":"ok","at":"2026-10-20T06:35:46.844Z","lastOk":"2026-10-20T06:35:46.844Z","count":30},
 "reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-20T05:45:20.216Z","lastOk":"2026-10-20T05:45:20.216Z","count":25},
-"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-20T04:47:11.557Z","lastOk":"2026-10-20T04:47:11.557Z","count":25}
+"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-20T07:49:07.015Z","lastOk":"2026-10-20T07:49:07.015Z","count":25}
 },
 "items":[
 {"id":"a5aef1b2","source":"reddit-pokemontcg","title":"What’s your biggest horror story regarding cards?","link":"https://www.reddit.com/r/PokemonTCG/comments/1xaisph/whats_your_biggest_horror_story_regarding_cards","date":"2026-10-20T04:35:57.000Z","seen":"2026-10-20T04:47:11.557Z","summary":"Here’s mine… My cousin worked at a movie theater, when the first movie dropped…. She got me TONS of packs… well, this is before we all figured out they’d be worth a lot of money in the future…. I threw out 50+ ancient...","author":"NotAFriendlyKitty","tags":["restock"]},
