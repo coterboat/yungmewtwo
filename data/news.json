@@ -1,10 +1,10 @@
 {
-"updatedAt":"2026-10-20T18:49:05.006Z",
+"updatedAt":"2026-10-20T19:44:13.762Z",
 "sources":{
-"pokebeach":{"name":"PokéBeach news","url":"https://www.pokebeach.com/forums/forum/front-page-news.18/index.rss","status":"ok","at":"2026-10-20T16:25:01.961Z","lastOk":"2026-10-20T16:25:01.961Z","count":30},
-"pokebeach-forum":{"name":"PokéBeach forum","url":"https://www.pokebeach.com/forums/forums/-/index.rss","status":"ok","at":"2026-10-20T16:25:01.961Z","lastOk":"2026-10-20T16:25:01.961Z","count":30},
+"pokebeach":{"name":"PokéBeach news","url":"https://www.pokebeach.com/forums/forum/front-page-news.18/index.rss","status":"ok","at":"2026-10-20T19:44:13.762Z","lastOk":"2026-10-20T19:44:13.762Z","count":30},
+"pokebeach-forum":{"name":"PokéBeach forum","url":"https://www.pokebeach.com/forums/forums/-/index.rss","status":"ok","at":"2026-10-20T19:44:13.762Z","lastOk":"2026-10-20T19:44:13.762Z","count":30},
 "reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-20T18:49:05.006Z","lastOk":"2026-10-20T18:49:05.006Z","count":25},
-"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-20T16:25:01.961Z","lastOk":"2026-10-20T16:25:01.961Z","count":25}
+"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-20T19:44:13.762Z","lastOk":"2026-10-20T19:44:13.762Z","count":25}
 },
 "items":[
 {"id":"6342ee69","source":"reddit-pokemontcg","title":"Can someone explain these Decks to me?","link":"https://www.reddit.com/r/PokemonTCG/comments/1xavxvz/can_someone_explain_these_decks_to_me","date":"2026-10-20T15:57:05.000Z","seen":"2026-10-20T16:25:01.961Z","summary":"Somehow, the MSRP was apparently $179.99, but they’re already being sold for over $300 sealed, that is yet EVERYTHING that’s opened is listed on eBay for EVEN more. What’s the point of that, if EVERY single board is m...","author":"Forward-Position798","tags":["restock","deal","ebay"]},
