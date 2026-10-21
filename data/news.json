@@ -1,10 +1,10 @@
 {
-"updatedAt":"2026-10-21T11:45:04.063Z",
+"updatedAt":"2026-10-21T12:32:40.185Z",
 "sources":{
 "pokebeach":{"name":"PokéBeach news","url":"https://www.pokebeach.com/forums/forum/front-page-news.18/index.rss","status":"ok","at":"2026-10-21T10:45:18.934Z","lastOk":"2026-10-21T10:45:18.934Z","count":30},
-"pokebeach-forum":{"name":"PokéBeach forum","url":"https://www.pokebeach.com/forums/forums/-/index.rss","status":"ok","at":"2026-10-21T08:51:31.954Z","lastOk":"2026-10-21T08:51:31.954Z","count":30},
+"pokebeach-forum":{"name":"PokéBeach forum","url":"https://www.pokebeach.com/forums/forums/-/index.rss","status":"ok","at":"2026-10-21T12:32:40.185Z","lastOk":"2026-10-21T12:32:40.185Z","count":30},
 "reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-21T11:45:04.063Z","lastOk":"2026-10-21T11:45:04.063Z","count":25},
-"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-21T08:51:31.954Z","lastOk":"2026-10-21T08:51:31.954Z","count":25}
+"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-21T12:32:40.185Z","lastOk":"2026-10-21T12:32:40.185Z","count":25}
 },
 "items":[
 {"id":"306dced4","source":"reddit-pokemontcg","title":"Drop your predictions for mega lucario Z's \"Aura seeker\" set","link":"https://www.reddit.com/r/PokemonTCG/comments/1xbhtj6/drop_your_predictions_for_mega_lucario_zs_aura","date":"2026-10-21T08:45:27.000Z","seen":"2026-10-21T08:51:31.954Z","summary":"My predictions are that it'll focus on 3 Z megas + mega falinks maybe?? + SIR korrina is very likely too + a SIR ivor card if mega falinks is focused on","author":"detoritous","tags":["restock"]},
