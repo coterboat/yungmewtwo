@@ -1,12 +1,14 @@
 {
-"updatedAt":"2026-10-21T04:25:58.918Z",
+"updatedAt":"2026-10-21T05:22:41.159Z",
 "sources":{
 "pokebeach":{"name":"PokéBeach news","url":"https://www.pokebeach.com/forums/forum/front-page-news.18/index.rss","status":"ok","at":"2026-10-21T04:25:58.918Z","lastOk":"2026-10-21T04:25:58.918Z","count":30},
 "pokebeach-forum":{"name":"PokéBeach forum","url":"https://www.pokebeach.com/forums/forums/-/index.rss","status":"ok","at":"2026-10-21T02:31:47.506Z","lastOk":"2026-10-21T02:31:47.506Z","count":30},
-"reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-21T04:25:58.918Z","lastOk":"2026-10-21T04:25:58.918Z","count":25},
-"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-21T04:25:58.918Z","lastOk":"2026-10-21T04:25:58.918Z","count":25}
+"reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-21T05:22:41.159Z","lastOk":"2026-10-21T05:22:41.159Z","count":25},
+"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-21T05:22:41.159Z","lastOk":"2026-10-21T05:22:41.159Z","count":25}
 },
 "items":[
+{"id":"ae961119","source":"reddit-pokemontcg","title":"Perfect Fit Vault X Exact Fit vs Dragon Shield Perfect Fit vs TitanShield Economical Soft Penny Card Sleeves","link":"https://www.reddit.com/r/PokemonTCG/comments/1xbecct/perfect_fit_vault_x_exact_fit_vs_dragon_shield","date":"2026-10-21T05:10:47.000Z","seen":"2026-10-21T05:22:41.159Z","summary":"Hi I'm picking up on collecting pokemon cards and I've got the ravaver face card binder that has side loading sleeve pockets (dimensions 68 mm x 98 mm). Which penny sleeves would yall go with from those 3 given those...","author":"Gono218","tags":["restock"]},
+{"id":"37e47747","source":"reddit-deals","title":"30th Celebration Elite Trainer Box Lottery amazon!","link":"https://www.reddit.com/r/PKMNTCGDeals/comments/1xbe6es/30th_celebration_elite_trainer_box_lottery_amazon","date":"2026-10-21T05:01:28.000Z","seen":"2026-10-21T05:22:41.159Z","summary":"# ad Join our discord with over 100k people for notifications when everything's live!","author":"Chippyrs","tags":["drawing","amazon"]},
 {"id":"25f285c6","source":"reddit-pokemontcg","title":"Walmart ETB (x2) hits","link":"https://www.reddit.com/r/PokemonTCG/comments/1xbdhv7/walmart_etb_x2_hits","date":"2026-10-21T04:22:39.000Z","seen":"2026-10-21T04:25:58.918Z","summary":"Pumped to have caught a drawing. I was happy with box #1, but then box #2 blew me out of the water.","author":"I_AM_BURTICUS","tags":["drawing","walmart"]},
 {"id":"86a2ed48","source":"reddit-deals","title":"WALMART LOTTERY OCTOBER 21ST","link":"https://www.reddit.com/r/PKMNTCGDeals/comments/1xbcx6z/walmart_lottery_october_21st","date":"2026-10-21T03:51:57.000Z","seen":"2026-10-21T04:25:58.918Z","summary":"LInk to lottery We will post again when its live! This One is October 21st at 2PM PDT #ad Join our discord with over 100k people for notifications when everything's live!","author":"Chippyrs","tags":["drawing","walmart"]},
 {"id":"03fb7b2f","source":"reddit-pokemontcg","title":"Load up on these.","link":"https://www.reddit.com/r/PokemonTCG/comments/1xb9ah2/load_up_on_these","date":"2026-10-21T00:51:23.000Z","seen":"2026-10-21T00:52:35.937Z","summary":"Extremely free…","author":"Naive_Ice5896","tags":["restock"]},
