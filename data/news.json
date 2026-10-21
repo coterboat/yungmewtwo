@@ -1,12 +1,13 @@
 {
-"updatedAt":"2026-10-21T20:45:32.017Z",
+"updatedAt":"2026-10-21T21:20:10.902Z",
 "sources":{
 "pokebeach":{"name":"PokéBeach news","url":"https://www.pokebeach.com/forums/forum/front-page-news.18/index.rss","status":"ok","at":"2026-10-21T20:45:32.017Z","lastOk":"2026-10-21T20:45:32.017Z","count":30},
 "pokebeach-forum":{"name":"PokéBeach forum","url":"https://www.pokebeach.com/forums/forums/-/index.rss","status":"ok","at":"2026-10-21T18:50:02.359Z","lastOk":"2026-10-21T18:50:02.359Z","count":30},
-"reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-21T18:26:57.267Z","lastOk":"2026-10-21T18:26:57.267Z","count":25},
+"reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-21T21:20:10.902Z","lastOk":"2026-10-21T21:20:10.902Z","count":25},
 "reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-21T20:45:32.017Z","lastOk":"2026-10-21T20:45:32.017Z","count":25}
 },
 "items":[
+{"id":"adc80679","source":"reddit-deals","title":"WALMART LOTTERY LIVE FOR 1 HOUR","link":"https://www.reddit.com/r/PKMNTCGDeals/comments/1xbz5g4/walmart_lottery_live_for_1_hour","date":"2026-10-21T20:55:08.000Z","seen":"2026-10-21T21:20:10.902Z","summary":"LInk to lottery October 21st at 2PM PDT live for 1 hour enter now! #ad Join our discord with over 100k people for notifications when everything's live!","author":"Chippyrs","tags":["drawing","walmart"]},
 {"id":"4abc8d26","source":"reddit-pokemontcg","title":"My local card shop got a restock. I'm happy with the hits","link":"https://www.reddit.com/r/PokemonTCG/comments/1xbyoex/my_local_card_shop_got_a_restock_im_happy_with","date":"2026-10-21T20:36:34.000Z","seen":"2026-10-21T20:45:32.017Z","author":"Illustrious_Box585","tags":["restock"]},
 {"id":"ce12f6c6","source":"reddit-pokemontcg","title":"The Lucky Farmer Parable","link":"https://www.reddit.com/r/PokemonTCG/comments/1xbumy6/the_lucky_farmer_parable","date":"2026-10-21T18:06:53.000Z","seen":"2026-10-21T19:43:46.179Z","summary":"Won the Walmart lottery and got two booster boxes allocated. What good luck! We'll see said the farmer. The package was delivered to the wrong address. What bad luck! We'll see said the farmer. The house is actually j...","author":"Sad_collector_84","tags":["drawing","walmart"]},
 {"id":"7021acdf","source":"pokebeach","title":"Permanent Pokemon Store Coming to London by 2029, More Locations Planned Outside Asia!","link":"https://www.pokebeach.com/forums/threads/permanent-pokemon-store-coming-to-london-by-2029-more-locations-planned-outside-asia.157107","date":"2026-10-21T17:26:38.000Z","seen":"2026-10-21T17:44:49.721Z","summary":"TPCi has announced a permanent Pokemon retail store will open in London by 2029! The store will feature exclusive merchandise and \"one-of-a-kind experiences\" for fans of all ages. An exact location hasn't been reveale...","author":"Water Pokémon Master","tags":["reveal"]},
