@@ -1,12 +1,14 @@
 {
-"updatedAt":"2026-10-21T02:31:47.506Z",
+"updatedAt":"2026-10-21T04:25:58.918Z",
 "sources":{
-"pokebeach":{"name":"PokéBeach news","url":"https://www.pokebeach.com/forums/forum/front-page-news.18/index.rss","status":"ok","at":"2026-10-21T00:52:35.937Z","lastOk":"2026-10-21T00:52:35.937Z","count":30},
+"pokebeach":{"name":"PokéBeach news","url":"https://www.pokebeach.com/forums/forum/front-page-news.18/index.rss","status":"ok","at":"2026-10-21T04:25:58.918Z","lastOk":"2026-10-21T04:25:58.918Z","count":30},
 "pokebeach-forum":{"name":"PokéBeach forum","url":"https://www.pokebeach.com/forums/forums/-/index.rss","status":"ok","at":"2026-10-21T02:31:47.506Z","lastOk":"2026-10-21T02:31:47.506Z","count":30},
-"reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-21T01:31:16.268Z","lastOk":"2026-10-21T01:31:16.268Z","count":25},
-"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-21T00:52:35.937Z","lastOk":"2026-10-21T00:52:35.937Z","count":25}
+"reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-21T04:25:58.918Z","lastOk":"2026-10-21T04:25:58.918Z","count":25},
+"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-21T04:25:58.918Z","lastOk":"2026-10-21T04:25:58.918Z","count":25}
 },
 "items":[
+{"id":"25f285c6","source":"reddit-pokemontcg","title":"Walmart ETB (x2) hits","link":"https://www.reddit.com/r/PokemonTCG/comments/1xbdhv7/walmart_etb_x2_hits","date":"2026-10-21T04:22:39.000Z","seen":"2026-10-21T04:25:58.918Z","summary":"Pumped to have caught a drawing. I was happy with box #1, but then box #2 blew me out of the water.","author":"I_AM_BURTICUS","tags":["drawing","walmart"]},
+{"id":"86a2ed48","source":"reddit-deals","title":"WALMART LOTTERY OCTOBER 21ST","link":"https://www.reddit.com/r/PKMNTCGDeals/comments/1xbcx6z/walmart_lottery_october_21st","date":"2026-10-21T03:51:57.000Z","seen":"2026-10-21T04:25:58.918Z","summary":"LInk to lottery We will post again when its live! This One is October 21st at 2PM PDT #ad Join our discord with over 100k people for notifications when everything's live!","author":"Chippyrs","tags":["drawing","walmart"]},
 {"id":"03fb7b2f","source":"reddit-pokemontcg","title":"Load up on these.","link":"https://www.reddit.com/r/PokemonTCG/comments/1xb9ah2/load_up_on_these","date":"2026-10-21T00:51:23.000Z","seen":"2026-10-21T00:52:35.937Z","summary":"Extremely free…","author":"Naive_Ice5896","tags":["restock"]},
 {"id":"7dd4dfec","source":"reddit-pokemontcg","title":"Got these from a 30th anniversary etb I won from Walmarts drawings","link":"https://www.reddit.com/r/PokemonTCG/comments/1xb93sn/got_these_from_a_30th_anniversary_etb_i_won_from","date":"2026-10-21T00:42:26.000Z","seen":"2026-10-21T00:52:35.937Z","summary":"I literally said when opening \"I hope I atleast get my mew\" 😌","author":"TheMiningKing1221","tags":["drawing"]},
 {"id":"4e9cf762","source":"pokebeach","title":"“Flowing Fists” Pokemon TCG Set to Release in February Starring Mega Lucario Z ex!","link":"https://www.pokebeach.com/forums/threads/%E2%80%9Cflowing-fists%E2%80%9D-pokemon-tcg-set-to-release-in-february-starring-mega-lucario-z-ex.157103","date":"2026-10-20T21:18:16.000Z","seen":"2026-10-20T21:21:13.882Z","summary":"We can reveal Flowing Fists will be the name of the sixth main English Mega Evolution set! It will release on Friday, February 5th. Prereleases will take place from January 23rd to January 31st. The set will feature M...","author":"Water Pokémon Master","tags":["reveal"]},
