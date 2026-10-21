@@ -1,5 +1,13 @@
 [
 {"id":662068,"name":"Number 2 Trainer (2002 Battle Road - Spring)","set":24521,"kind":"card","rarity":"Promo"},
 {"id":662083,"name":"Tropical Wind (1999 Tropical Mega Battle)","set":24521,"kind":"card","rarity":"Promo"},
-{"id":662099,"name":"Lucky Stadium (2000 Tropical Mega Battle)","set":24521,"kind":"card","rarity":"Promo"}
+{"id":662099,"name":"Lucky Stadium (2000 Tropical Mega Battle)","set":24521,"kind":"card","rarity":"Promo"},
+{"id":725264,"name":"Lucky Stadium (2000 World Challenge Summer - Kanto)","set":24521,"kind":"card","rarity":"Promo"},
+{"id":725266,"name":"Lucky Stadium (2000 World Challenge Summer - Kansai)","set":24521,"kind":"card","rarity":"Promo"},
+{"id":725302,"name":"Lucky Stadium (2000 World Challenge Summer - Hokkaido)","set":24521,"kind":"card","rarity":"Promo"},
+{"id":725303,"name":"Lucky Stadium (2000 World Challenge Summer - Chubu)","set":24521,"kind":"card","rarity":"Promo"},
+{"id":725305,"name":"Lucky Stadium (2000 World Challenge Summer - Hokushinetsu)","set":24521,"kind":"card","rarity":"Promo"},
+{"id":725306,"name":"Lucky Stadium (2000 World Challenge Summer - Kyushu)","set":24521,"kind":"card","rarity":"Promo"},
+{"id":725307,"name":"Lucky Stadium (2000 World Challenge Summer - Chugoku Shikoku)","set":24521,"kind":"card","rarity":"Promo"},
+{"id":725309,"name":"Lucky Stadium (2000 World Challenge Summer - Tohoku)","set":24521,"kind":"card","rarity":"Promo"}
 ]
