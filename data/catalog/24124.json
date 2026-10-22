@@ -78,5 +78,6 @@
 {"id":612897,"name":"Team Aqua's Corphish","set":24124,"kind":"card","num":"034/080","rarity":"Uncommon"},
 {"id":612898,"name":"Team Aqua's Electrike","set":24124,"kind":"card","num":"038/080","rarity":"Uncommon"},
 {"id":612899,"name":"Linoone","set":24124,"kind":"card","num":"057/080","rarity":"Uncommon"},
-{"id":612900,"name":"Wailmer","set":24124,"kind":"card","num":"032/080","rarity":"Uncommon"}
+{"id":612900,"name":"Wailmer","set":24124,"kind":"card","num":"032/080","rarity":"Uncommon"},
+{"id":725383,"name":"Darkness Energy","set":24124,"kind":"card","rarity":"None"}
 ]

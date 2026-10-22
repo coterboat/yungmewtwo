@@ -102,5 +102,7 @@
 {"id":723657,"name":"30th Celebration Card Set: Chespin, Fennekin, & Froakie","set":24423,"kind":"sealed","sealed":"accessory"},
 {"id":723658,"name":"30th Celebration Card Set: Rowlet, Litten, & Popplio","set":24423,"kind":"sealed","sealed":"other"},
 {"id":723659,"name":"30th Celebration Card Set: Grookey, Scorbunny, & Sobble","set":24423,"kind":"sealed","sealed":"other"},
-{"id":723660,"name":"30th Celebration Card Set: Sprigatito, Fuecoco, & Quaxly","set":24423,"kind":"sealed","sealed":"other"}
+{"id":723660,"name":"30th Celebration Card Set: Sprigatito, Fuecoco, & Quaxly","set":24423,"kind":"sealed","sealed":"other"},
+{"id":725389,"name":"Pikachu ex - 131/M-P","set":24423,"kind":"card","num":"131/M-P","rarity":"Futuristic Rare"},
+{"id":725390,"name":"Pikachu ex - 132/M-P","set":24423,"kind":"card","num":"132/M-P","rarity":"Futuristic Rare"}
 ]

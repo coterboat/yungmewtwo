@@ -504,5 +504,15 @@
 {"id":707028,"name":"Spiritomb - 035/084 (Non-Holo)","set":1840,"kind":"card","num":"035/084","rarity":"Rare"},
 {"id":707029,"name":"Voltaic Lightning Energy - 084/084 (Non-Holo)","set":1840,"kind":"card","num":"084/084","rarity":"Rare"},
 {"id":707308,"name":"Magnetic Metal Energy - 085/086 (Non-Holo)","set":1840,"kind":"card","num":"085/086","rarity":"Rare"},
-{"id":709052,"name":"Energy Search","set":1840,"kind":"card","num":"90","rarity":"Uncommon"}
+{"id":709052,"name":"Energy Search","set":1840,"kind":"card","num":"90","rarity":"Uncommon"},
+{"id":725079,"name":"Alakazam","set":1840,"kind":"card","num":"056/132","rarity":"Rare"},
+{"id":725080,"name":"Emboar","set":1840,"kind":"card","num":"013/086","rarity":"Rare"},
+{"id":725081,"name":"Hop's Dubwool","set":1840,"kind":"card","num":"136/159","rarity":"Rare"},
+{"id":725082,"name":"Magearna","set":1840,"kind":"card","num":"107/159","rarity":"Rare"},
+{"id":725083,"name":"Samurott","set":1840,"kind":"card","num":"023/086","rarity":"Rare"},
+{"id":725084,"name":"Team Rocket's Wobbuffet","set":1840,"kind":"card","num":"082/182","rarity":"Rare"},
+{"id":725085,"name":"Team Rocket's Zapdos","set":1840,"kind":"card","num":"070/182","rarity":"Rare"},
+{"id":725086,"name":"Terrakion","set":1840,"kind":"card","num":"054/086","rarity":"Rare"},
+{"id":725353,"name":"Water Energy - 106/109 (2005 No E Reader)","set":1840,"kind":"card","rarity":"Common"},
+{"id":725355,"name":"Water Energy (Unnumbered) (No E Reader)","set":1840,"kind":"card","rarity":"Common"}
 ]
