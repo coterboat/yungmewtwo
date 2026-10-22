@@ -1,12 +1,13 @@
 {
-"updatedAt":"2026-10-22T00:51:49.454Z",
+"updatedAt":"2026-10-22T01:29:55.541Z",
 "sources":{
 "pokebeach":{"name":"PokéBeach news","url":"https://www.pokebeach.com/forums/forum/front-page-news.18/index.rss","status":"ok","at":"2026-10-22T00:51:49.454Z","lastOk":"2026-10-22T00:51:49.454Z","count":30},
-"pokebeach-forum":{"name":"PokéBeach forum","url":"https://www.pokebeach.com/forums/forums/-/index.rss","status":"ok","at":"2026-10-21T22:20:38.731Z","lastOk":"2026-10-21T22:20:38.731Z","count":30},
-"reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-22T00:51:49.454Z","lastOk":"2026-10-22T00:51:49.454Z","count":25},
+"pokebeach-forum":{"name":"PokéBeach forum","url":"https://www.pokebeach.com/forums/forums/-/index.rss","status":"ok","at":"2026-10-22T01:29:55.541Z","lastOk":"2026-10-22T01:29:55.541Z","count":30},
+"reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-22T01:29:55.541Z","lastOk":"2026-10-22T01:29:55.541Z","count":25},
 "reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-21T23:19:24.062Z","lastOk":"2026-10-21T23:19:24.062Z","count":25}
 },
 "items":[
+{"id":"9fe6f44b","source":"reddit-deals","title":"WALMART QUEUE IS LIVE","link":"https://www.reddit.com/r/PKMNTCGDeals/comments/1xc4vix/walmart_queue_is_live","date":"2026-10-22T01:04:19.000Z","seen":"2026-10-22T01:29:55.541Z","summary":"Pokemon TCG Scarlet Violet 10.5 Unova Poster Collection Box - 4 Packs Pokemon Trading Card Games Mega Evolution 5 Pitch Black Elite Trainer Box Pokemon Trading Card Games SV 8.5 Prismatic Evolutions Premium Figure Col...","author":"Chippyrs","tags":["restock","walmart"]},
 {"id":"309d6b30","source":"reddit-pokemontcg","title":"Fedex Just Delivered","link":"https://www.reddit.com/r/PokemonTCG/comments/1xc2gl1/fedex_just_delivered","date":"2026-10-21T23:11:57.000Z","seen":"2026-10-21T23:19:24.062Z","summary":"Won the walmart raffle and it came like this. smh","author":"Cvez818v","tags":["drawing","walmart"]},
 {"id":"adc80679","source":"reddit-deals","title":"WALMART LOTTERY LIVE FOR 1 HOUR","link":"https://www.reddit.com/r/PKMNTCGDeals/comments/1xbz5g4/walmart_lottery_live_for_1_hour","date":"2026-10-21T20:55:08.000Z","seen":"2026-10-21T21:20:10.902Z","summary":"LInk to lottery October 21st at 2PM PDT live for 1 hour enter now! #ad Join our discord with over 100k people for notifications when everything's live!","author":"Chippyrs","tags":["drawing","walmart"]},
 {"id":"4abc8d26","source":"reddit-pokemontcg","title":"My local card shop got a restock. I'm happy with the hits","link":"https://www.reddit.com/r/PokemonTCG/comments/1xbyoex/my_local_card_shop_got_a_restock_im_happy_with","date":"2026-10-21T20:36:34.000Z","seen":"2026-10-21T20:45:32.017Z","author":"Illustrious_Box585","tags":["restock"]},
