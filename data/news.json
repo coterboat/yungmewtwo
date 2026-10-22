@@ -1,10 +1,10 @@
 {
-"updatedAt":"2026-10-22T17:43:29.127Z",
+"updatedAt":"2026-10-22T20:21:51.979Z",
 "sources":{
-"pokebeach":{"name":"PokéBeach news","url":"https://www.pokebeach.com/forums/forum/front-page-news.18/index.rss","status":"ok","at":"2026-10-22T16:46:50.054Z","lastOk":"2026-10-22T16:46:50.054Z","count":30},
+"pokebeach":{"name":"PokéBeach news","url":"https://www.pokebeach.com/forums/forum/front-page-news.18/index.rss","status":"ok","at":"2026-10-22T20:21:51.979Z","lastOk":"2026-10-22T20:21:51.979Z","count":30},
 "pokebeach-forum":{"name":"PokéBeach forum","url":"https://www.pokebeach.com/forums/forums/-/index.rss","status":"ok","at":"2026-10-22T17:43:29.127Z","lastOk":"2026-10-22T17:43:29.127Z","count":30},
 "reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-22T17:43:29.127Z","lastOk":"2026-10-22T17:43:29.127Z","count":25},
-"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-22T16:46:50.054Z","lastOk":"2026-10-22T16:46:50.054Z","count":25}
+"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-22T20:21:51.979Z","lastOk":"2026-10-22T20:21:51.979Z","count":25}
 },
 "items":[
 {"id":"c7a53f05","source":"reddit-pokemontcg","title":"Build and Battle event Registration","link":"https://www.reddit.com/r/PokemonTCG/comments/1xcnqnn/build_and_battle_event_registration","date":"2026-10-22T16:43:18.000Z","seen":"2026-10-22T16:46:50.054Z","summary":"I registered in a build and battle deck pre release event. After the registration period ends, there will be a lottery for slots. Why is it that the status of my registration in the event is \"joined\" and not elected o...","author":"Ecstatic_Wind626","tags":["drawing"]},
