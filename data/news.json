@@ -1,10 +1,10 @@
 {
-"updatedAt":"2026-10-22T07:49:41.114Z",
+"updatedAt":"2026-10-22T08:31:27.190Z",
 "sources":{
 "pokebeach":{"name":"PokéBeach news","url":"https://www.pokebeach.com/forums/forum/front-page-news.18/index.rss","status":"ok","at":"2026-10-22T07:28:36.305Z","lastOk":"2026-10-22T07:28:36.305Z","count":30},
 "pokebeach-forum":{"name":"PokéBeach forum","url":"https://www.pokebeach.com/forums/forums/-/index.rss","status":"ok","at":"2026-10-22T07:49:41.114Z","lastOk":"2026-10-22T07:49:41.114Z","count":30},
 "reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-22T07:49:41.114Z","lastOk":"2026-10-22T07:49:41.114Z","count":25},
-"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-22T05:22:50.248Z","lastOk":"2026-10-22T05:22:50.248Z","count":25}
+"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-22T08:31:27.190Z","lastOk":"2026-10-22T08:31:27.190Z","count":25}
 },
 "items":[
 {"id":"b8fd5e49","source":"reddit-pokemontcg","title":"Finally got my Mini Tin Display Case","link":"https://www.reddit.com/r/PokemonTCG/comments/1xc9prs/finally_got_my_mini_tin_display_case","date":"2026-10-22T05:10:44.000Z","seen":"2026-10-22T05:22:50.248Z","summary":"I have been trying to find 30th everywhere in store (with no luck) but finally got drawn for a Walmart Raffle, quite happy with the end result.","author":"MythVx","tags":["drawing","walmart"]},
