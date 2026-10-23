@@ -1,10 +1,10 @@
 {
-"updatedAt":"2026-10-23T04:25:36.503Z",
+"updatedAt":"2026-10-23T04:48:34.551Z",
 "sources":{
 "pokebeach":{"name":"PokéBeach news","url":"https://www.pokebeach.com/forums/forum/front-page-news.18/index.rss","status":"ok","at":"2026-10-23T02:51:55.927Z","lastOk":"2026-10-23T02:51:55.927Z","count":30},
 "pokebeach-forum":{"name":"PokéBeach forum","url":"https://www.pokebeach.com/forums/forums/-/index.rss","status":"ok","at":"2026-10-23T04:25:36.503Z","lastOk":"2026-10-23T04:25:36.503Z","count":30},
 "reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-23T04:25:36.503Z","lastOk":"2026-10-23T04:25:36.503Z","count":25},
-"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-23T01:33:07.647Z","lastOk":"2026-10-23T01:33:07.647Z","count":25}
+"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-23T04:48:34.551Z","lastOk":"2026-10-23T04:48:34.551Z","count":25}
 },
 "items":[
 {"id":"5b8731d2","source":"reddit-pokemontcg","title":"Hey everyone I was curious what time pokemon center usually sells. I feel like it’s always sold out.","link":"https://www.reddit.com/r/PokemonTCG/comments/1xd09g9/hey_everyone_i_was_curious_what_time_pokemon","date":"2026-10-23T01:04:48.000Z","seen":"2026-10-23T01:33:07.647Z","summary":"Really trying to get that November 6th drop. Hehe","author":"Interesting_Taro_358","tags":["restock","pokemon-center"]},
