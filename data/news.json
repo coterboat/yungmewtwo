@@ -1,10 +1,10 @@
 {
-"updatedAt":"2026-10-23T16:47:35.339Z",
+"updatedAt":"2026-10-23T18:27:08.210Z",
 "sources":{
 "pokebeach":{"name":"PokéBeach news","url":"https://www.pokebeach.com/forums/forum/front-page-news.18/index.rss","status":"ok","at":"2026-10-23T16:26:12.386Z","lastOk":"2026-10-23T16:26:12.386Z","count":30},
 "pokebeach-forum":{"name":"PokéBeach forum","url":"https://www.pokebeach.com/forums/forums/-/index.rss","status":"ok","at":"2026-10-23T16:47:35.339Z","lastOk":"2026-10-23T16:47:35.339Z","count":30},
 "reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-23T16:47:35.339Z","lastOk":"2026-10-23T16:47:35.339Z","count":25},
-"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-23T14:48:49.748Z","lastOk":"2026-10-23T14:48:49.748Z","count":25}
+"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-23T18:27:08.210Z","lastOk":"2026-10-23T18:27:08.210Z","count":25}
 },
 "items":[
 {"id":"76a21001","source":"pokebeach","title":"“Delta Reign” Store Promos Revealed, Macy’s Joins the Promotion!","link":"https://www.pokebeach.com/forums/threads/%E2%80%9Cdelta-reign%E2%80%9D-store-promos-revealed-macy%E2%80%99s-joins-the-promotion.157113","date":"2026-10-23T16:18:36.000Z","seen":"2026-10-23T16:26:12.386Z","summary":"The store promos for Delta Reign have now been revealed! As usual, you'll need to spend $15 or more on Pokemon TCG products to receive them at select retailers, including their websites. The set releases on November 6...","author":"Water Pokémon Master","tags":["reveal"]},
