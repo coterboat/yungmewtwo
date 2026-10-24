@@ -1,10 +1,10 @@
 {
-"updatedAt":"2026-10-24T21:42:31.733Z",
+"updatedAt":"2026-10-24T22:18:40.700Z",
 "sources":{
 "pokebeach":{"name":"PokéBeach news","url":"https://www.pokebeach.com/forums/forum/front-page-news.18/index.rss","status":"ok","at":"2026-10-24T21:42:31.733Z","lastOk":"2026-10-24T21:42:31.733Z","count":30},
 "pokebeach-forum":{"name":"PokéBeach forum","url":"https://www.pokebeach.com/forums/forums/-/index.rss","status":"ok","at":"2026-10-24T19:40:20.421Z","lastOk":"2026-10-24T19:40:20.421Z","count":30},
 "reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-24T21:42:31.733Z","lastOk":"2026-10-24T21:42:31.733Z","count":25},
-"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-24T18:44:51.773Z","lastOk":"2026-10-24T18:44:51.773Z","count":25}
+"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-24T22:18:40.700Z","lastOk":"2026-10-24T22:18:40.700Z","count":25}
 },
 "items":[
 {"id":"d0e5c4b6","source":"reddit-pokemontcg","title":"“I Should Trade These Booster Bundles”","link":"https://www.reddit.com/r/PokemonTCG/comments/1xe0cey/i_should_trade_these_booster_bundles","date":"2026-10-24T05:31:11.000Z","seen":"2026-10-24T05:44:23.800Z","summary":"Almost traded these Walmart raffle boosters. Never trade always rip.","author":"Sbarty","tags":["drawing","walmart"]},
