@@ -1,10 +1,10 @@
 {
-"updatedAt":"2026-10-25T01:54:32.131Z",
+"updatedAt":"2026-10-25T04:24:45.313Z",
 "sources":{
-"pokebeach":{"name":"PokéBeach news","url":"https://www.pokebeach.com/forums/forum/front-page-news.18/index.rss","status":"ok","at":"2026-10-25T00:57:09.918Z","lastOk":"2026-10-25T00:57:09.918Z","count":30},
+"pokebeach":{"name":"PokéBeach news","url":"https://www.pokebeach.com/forums/forum/front-page-news.18/index.rss","status":"ok","at":"2026-10-25T04:24:45.313Z","lastOk":"2026-10-25T04:24:45.313Z","count":30},
 "pokebeach-forum":{"name":"PokéBeach forum","url":"https://www.pokebeach.com/forums/forums/-/index.rss","status":"ok","at":"2026-10-25T01:54:32.131Z","lastOk":"2026-10-25T01:54:32.131Z","count":30},
-"reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-25T00:57:09.918Z","lastOk":"2026-10-25T00:57:09.918Z","count":25},
-"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-25T00:57:09.918Z","lastOk":"2026-10-25T00:57:09.918Z","count":25}
+"reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-25T04:24:45.313Z","lastOk":"2026-10-25T04:24:45.313Z","count":25},
+"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-25T04:24:45.313Z","lastOk":"2026-10-25T04:24:45.313Z","count":25}
 },
 "items":[
 {"id":"4fa18909","source":"reddit-pokemontcg","title":"30th anniversary hits so far","link":"https://www.reddit.com/r/PokemonTCG/comments/1xenaw5/30th_anniversary_hits_so_far","date":"2026-10-24T23:42:46.000Z","seen":"2026-10-25T00:57:09.918Z","summary":"Just missing the Articuno 😭 All these from Walmart raffle With one more booster box to open","author":"thecisco99","tags":["drawing","walmart"]},
