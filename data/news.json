@@ -1,10 +1,10 @@
 {
-"updatedAt":"2026-10-25T14:19:42.527Z",
+"updatedAt":"2026-10-25T14:42:59.635Z",
 "sources":{
 "pokebeach":{"name":"PokéBeach news","url":"https://www.pokebeach.com/forums/forum/front-page-news.18/index.rss","status":"ok","at":"2026-10-25T14:19:42.527Z","lastOk":"2026-10-25T14:19:42.527Z","count":30},
-"pokebeach-forum":{"name":"PokéBeach forum","url":"https://www.pokebeach.com/forums/forums/-/index.rss","status":"ok","at":"2026-10-25T11:42:16.225Z","lastOk":"2026-10-25T11:42:16.225Z","count":30},
+"pokebeach-forum":{"name":"PokéBeach forum","url":"https://www.pokebeach.com/forums/forums/-/index.rss","status":"ok","at":"2026-10-25T14:42:59.635Z","lastOk":"2026-10-25T14:42:59.635Z","count":30},
 "reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-25T14:19:42.527Z","lastOk":"2026-10-25T14:19:42.527Z","count":25},
-"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-25T11:42:16.225Z","lastOk":"2026-10-25T11:42:16.225Z","count":25}
+"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-25T14:42:59.635Z","lastOk":"2026-10-25T14:42:59.635Z","count":25}
 },
 "items":[
 {"id":"94ef6283","source":"reddit-pokemontcg","title":"ISO More Scenic Cards","link":"https://www.reddit.com/r/PokemonTCG/comments/1xetnka/iso_more_scenic_cards","date":"2026-10-25T05:10:23.000Z","seen":"2026-10-25T05:20:45.666Z","summary":"Recently started helping my nephew collect cards and I’ve started to really enjoy it too. We won this binder in a raffle at a card show today! I really like the cheaper, full art scenic cards. I like the softer colors...","author":"Chickadee-33","tags":["drawing"]},
