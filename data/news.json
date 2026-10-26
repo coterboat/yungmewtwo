@@ -1,10 +1,10 @@
 {
-"updatedAt":"2026-10-26T04:28:42.677Z",
+"updatedAt":"2026-10-26T05:49:18.479Z",
 "sources":{
 "pokebeach":{"name":"PokéBeach news","url":"https://www.pokebeach.com/forums/forum/front-page-news.18/index.rss","status":"ok","at":"2026-10-26T04:28:42.677Z","lastOk":"2026-10-26T04:28:42.677Z","count":30},
 "pokebeach-forum":{"name":"PokéBeach forum","url":"https://www.pokebeach.com/forums/forums/-/index.rss","status":"ok","at":"2026-10-26T04:28:42.677Z","lastOk":"2026-10-26T04:28:42.677Z","count":30},
 "reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-26T04:28:42.677Z","lastOk":"2026-10-26T04:28:42.677Z","count":25},
-"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-26T02:34:37.206Z","lastOk":"2026-10-26T02:34:37.206Z","count":25}
+"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-26T05:49:18.479Z","lastOk":"2026-10-26T05:49:18.479Z","count":25}
 },
 "items":[
 {"id":"f53c9374","source":"reddit-pokemontcg","title":"From only 8 packs(4 Box Knockout Collection)","link":"https://www.reddit.com/r/PokemonTCG/comments/1xfkov8/from_only_8_packs4_box_knockout_collection","date":"2026-10-26T02:14:56.000Z","seen":"2026-10-26T02:34:37.206Z","summary":"Got them from the Walmart Raffle","author":"KingZo914","tags":["drawing","walmart"]},
