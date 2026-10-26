@@ -1,12 +1,13 @@
 {
-"updatedAt":"2026-10-26T20:23:22.697Z",
+"updatedAt":"2026-10-26T21:20:57.868Z",
 "sources":{
 "pokebeach":{"name":"PokéBeach news","url":"https://www.pokebeach.com/forums/forum/front-page-news.18/index.rss","status":"ok","at":"2026-10-26T20:23:22.697Z","lastOk":"2026-10-26T20:23:22.697Z","count":30},
 "pokebeach-forum":{"name":"PokéBeach forum","url":"https://www.pokebeach.com/forums/forums/-/index.rss","status":"ok","at":"2026-10-26T20:23:22.697Z","lastOk":"2026-10-26T20:23:22.697Z","count":30},
-"reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-26T20:23:22.697Z","lastOk":"2026-10-26T20:23:22.697Z","count":25},
+"reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-26T21:20:57.868Z","lastOk":"2026-10-26T21:20:57.868Z","count":25},
 "reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-26T19:21:00.756Z","lastOk":"2026-10-26T19:21:00.756Z","count":25}
 },
 "items":[
+{"id":"898691f3","source":"reddit-deals","title":"Prismatic Bundle Lottery live for 1 hour!","link":"https://www.reddit.com/r/PKMNTCGDeals/comments/1xg8x8j/prismatic_bundle_lottery_live_for_1_hour","date":"2026-10-26T20:55:13.000Z","seen":"2026-10-26T21:20:57.868Z","summary":"Link to Lottery Lotterys are livefor 1 hour! #ad Join our discord with over 100k people for notifications when everything's live!","author":"Chippyrs","tags":["drawing"]},
 {"id":"71d6233e","source":"reddit-pokemontcg","title":"My local lgs has started getting shady and lying","link":"https://www.reddit.com/r/PokemonTCG/comments/1xg603l/my_local_lgs_has_started_getting_shady_and_lying","date":"2026-10-26T19:05:39.000Z","seen":"2026-10-26T19:21:00.756Z","summary":"So I've been frequently going to a lgs in a really small town for a long time now. I've been buying etbs, booster boxes, comic books, and video games. I've been a good customer. Lately, they've been doing some really...","author":"RandallCabbage","tags":["restock"]},
 {"id":"2b51613a","source":"reddit-pokemontcg","title":"Drama in the hobby Weekly Megathread! Restocks, Pre-orders, Scalpers, etc. goes here!","link":"https://www.reddit.com/r/PokemonTCG/comments/1xfprbq/drama_in_the_hobby_weekly_megathread_restocks","date":"2026-10-26T07:01:18.000Z","seen":"2026-10-26T07:39:09.209Z","summary":"We get it. You hate scalpers, Pokemon center's website sucks, your local store is a rip-off, and other stuff. But if you want to also post about it, make a comment, leave a screenshot, whatever else. Rules of the sub...","author":"AutoModerator","tags":["preorder","restock","pokemon-center"]},
 {"id":"f53c9374","source":"reddit-pokemontcg","title":"From only 8 packs(4 Box Knockout Collection)","link":"https://www.reddit.com/r/PokemonTCG/comments/1xfkov8/from_only_8_packs4_box_knockout_collection","date":"2026-10-26T02:14:56.000Z","seen":"2026-10-26T02:34:37.206Z","summary":"Got them from the Walmart Raffle","author":"KingZo914","tags":["drawing","walmart"]},
