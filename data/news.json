@@ -1,10 +1,10 @@
 {
-"updatedAt":"2026-10-25T21:41:53.049Z",
+"updatedAt":"2026-10-26T00:55:50.403Z",
 "sources":{
-"pokebeach":{"name":"PokéBeach news","url":"https://www.pokebeach.com/forums/forum/front-page-news.18/index.rss","status":"ok","at":"2026-10-25T20:43:13.406Z","lastOk":"2026-10-25T20:43:13.406Z","count":30},
-"pokebeach-forum":{"name":"PokéBeach forum","url":"https://www.pokebeach.com/forums/forums/-/index.rss","status":"ok","at":"2026-10-25T21:41:53.049Z","lastOk":"2026-10-25T21:41:53.049Z","count":30},
-"reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-25T20:43:13.406Z","lastOk":"2026-10-25T20:43:13.406Z","count":25},
-"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-25T21:18:00.617Z","lastOk":"2026-10-25T21:18:00.617Z","count":25}
+"pokebeach":{"name":"PokéBeach news","url":"https://www.pokebeach.com/forums/forum/front-page-news.18/index.rss","status":"ok","at":"2026-10-26T00:55:50.403Z","lastOk":"2026-10-26T00:55:50.403Z","count":30},
+"pokebeach-forum":{"name":"PokéBeach forum","url":"https://www.pokebeach.com/forums/forums/-/index.rss","status":"ok","at":"2026-10-26T00:55:50.403Z","lastOk":"2026-10-26T00:55:50.403Z","count":30},
+"reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-26T00:55:50.403Z","lastOk":"2026-10-26T00:55:50.403Z","count":25},
+"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-26T00:55:50.403Z","lastOk":"2026-10-26T00:55:50.403Z","count":25}
 },
 "items":[
 {"id":"abe2f64c","source":"reddit-pokemontcg","title":"Walmart Raffle Theory","link":"https://www.reddit.com/r/PokemonTCG/comments/1xfdq8u/walmart_raffle_theory","date":"2026-10-25T21:01:43.000Z","seen":"2026-10-25T21:18:00.617Z","summary":"So I finally got my order from Walmart and everything looked normal, my box was in excellent condition, as soon as I cut it open this is what I find. Now my theory is a worker grabbed two destined rival packs and deci...","author":"jparra661","tags":["drawing","walmart"]},
