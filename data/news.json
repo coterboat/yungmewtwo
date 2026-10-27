@@ -1,10 +1,10 @@
 {
-"updatedAt":"2026-10-27T12:58:27.075Z",
+"updatedAt":"2026-10-27T15:47:47.836Z",
 "sources":{
 "pokebeach":{"name":"PokéBeach news","url":"https://www.pokebeach.com/forums/forum/front-page-news.18/index.rss","status":"ok","at":"2026-10-27T12:58:27.075Z","lastOk":"2026-10-27T12:58:27.075Z","count":30},
 "pokebeach-forum":{"name":"PokéBeach forum","url":"https://www.pokebeach.com/forums/forums/-/index.rss","status":"ok","at":"2026-10-27T12:58:27.075Z","lastOk":"2026-10-27T12:58:27.075Z","count":30},
 "reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-27T12:58:27.075Z","lastOk":"2026-10-27T12:58:27.075Z","count":25},
-"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-27T12:33:59.106Z","lastOk":"2026-10-27T12:33:59.106Z","count":25}
+"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-27T15:47:47.836Z","lastOk":"2026-10-27T15:47:47.836Z","count":25}
 },
 "items":[
 {"id":"e26f345f","source":"reddit-deals","title":"WALMART LOTTERY ANNOUNCED FOR OCTOBER 28TH AT 2PM PDY","link":"https://www.reddit.com/r/PKMNTCGDeals/comments/1xgl7mu/walmart_lottery_announced_for_october_28th_at_2pm","date":"2026-10-27T06:35:36.000Z","seen":"2026-10-27T06:37:36.841Z","summary":"Link to lottery page Lottery goes live October 28th 2:00 pm PDT #ad Join our discord with over 100k people for notifications when everything's live!","author":"Chippyrs","tags":["drawing","reveal","walmart"]},
