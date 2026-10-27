@@ -1,12 +1,13 @@
 {
-"updatedAt":"2026-10-27T19:40:02.945Z",
+"updatedAt":"2026-10-27T20:29:00.766Z",
 "sources":{
 "pokebeach":{"name":"PokéBeach news","url":"https://www.pokebeach.com/forums/forum/front-page-news.18/index.rss","status":"ok","at":"2026-10-27T19:40:02.945Z","lastOk":"2026-10-27T19:40:02.945Z","count":30},
 "pokebeach-forum":{"name":"PokéBeach forum","url":"https://www.pokebeach.com/forums/forums/-/index.rss","status":"ok","at":"2026-10-27T19:40:02.945Z","lastOk":"2026-10-27T19:40:02.945Z","count":30},
 "reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-27T19:40:02.945Z","lastOk":"2026-10-27T19:40:02.945Z","count":25},
-"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-27T19:14:38.670Z","lastOk":"2026-10-27T19:14:38.670Z","count":25}
+"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-27T20:29:00.766Z","lastOk":"2026-10-27T20:29:00.766Z","count":25}
 },
 "items":[
+{"id":"e5d6f082","source":"reddit-pokemontcg","title":"Etb missing a pack","link":"https://www.reddit.com/r/PokemonTCG/comments/1xh33xs/etb_missing_a_pack","date":"2026-10-27T20:02:25.000Z","seen":"2026-10-27T20:29:00.766Z","summary":"Finally got a prismatic etb. I inspected the package and it looked good. But there was only 8 packs. What the hell do i do? Edit-it was a best buy lottery","author":"THOTYOTA","tags":["drawing","best-buy"]},
 {"id":"ea60b141","source":"reddit-pokemontcg","title":"My walmart lottery pulls","link":"https://www.reddit.com/r/PokemonTCG/comments/1xh0zb0/my_walmart_lottery_pulls","date":"2026-10-27T18:43:48.000Z","seen":"2026-10-27T19:14:38.670Z","summary":"I was lucky and got selected for the 2 booster bundles. I'm really appreciative Walmart has kept the prices fair, I think many of us are on a tight budget. I'm still in awe of pulling the mew. Seems like this set has...","author":"SmartyG","tags":["drawing","walmart"]},
 {"id":"92934752","source":"reddit-pokemontcg","title":"Pokemon Center Site Error on drops fix?","link":"https://www.reddit.com/r/PokemonTCG/comments/1xgyeir/pokemon_center_site_error_on_drops_fix","date":"2026-10-27T17:09:57.000Z","seen":"2026-10-27T17:16:07.158Z","summary":"Been getting this error everytime i get thru queue on the site. any fixes? never had this happen until 3 drops ago.","author":"saej7","tags":["restock","pokemon-center"]},
 {"id":"0fef6b08","source":"pokebeach","title":"McDonald’s Pokemon TCG Promotion Starts November 10th, Features Mini Happy Meal Box Toys and 15 Cards!","link":"https://www.pokebeach.com/forums/threads/mcdonald%E2%80%99s-pokemon-tcg-promotion-starts-november-10th-features-mini-happy-meal-box-toys-and-15-cards.157123","date":"2026-10-27T16:18:03.000Z","seen":"2026-10-27T16:20:04.131Z","summary":"We can now reveal this year's McDonald's x Pokemon TCG promotion will feature plastic toys of 15 different Pokemon as mini Happy Meal boxes! Each toy will come with two random Pokemon cards out of a set of 15. As prev...","author":"Water Pokémon Master","tags":[]},
