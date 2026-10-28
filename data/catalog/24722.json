@@ -220,5 +220,6 @@
 {"id":718673,"name":"30th Celebration ex Tin [Greninja ex] (Retail Version)","set":24722,"kind":"sealed","sealed":"tin","upc":"0196214146266"},
 {"id":718674,"name":"30th Celebration ex Tin [Sylveon ex] (Retail Version)","set":24722,"kind":"sealed","sealed":"tin","upc":"0196214146266"},
 {"id":718675,"name":"30th Celebration ex Tin [Set of 2] (Retail Version)","set":24722,"kind":"sealed","sealed":"tin","upc":"0196214146266"},
-{"id":722832,"name":"30th Celebration ex Box [Set of 2]","set":24722,"kind":"sealed","sealed":"collection","upc":"10196214158723"}
+{"id":722832,"name":"30th Celebration ex Box [Set of 2]","set":24722,"kind":"sealed","sealed":"collection","upc":"10196214158723"},
+{"id":726826,"name":"30th Celebration Battle Deck: Umbreon ex/Espeon ex [Set of two]","set":24722,"kind":"sealed","sealed":"deck","released":"2026-10-30","presale":true}
 ]
