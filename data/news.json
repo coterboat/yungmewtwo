@@ -1,10 +1,10 @@
 {
-"updatedAt":"2026-10-28T08:22:20.937Z",
+"updatedAt":"2026-10-28T09:40:12.819Z",
 "sources":{
 "pokebeach":{"name":"PokéBeach news","url":"https://www.pokebeach.com/forums/forum/front-page-news.18/index.rss","status":"ok","at":"2026-10-28T07:40:40.386Z","lastOk":"2026-10-28T07:40:40.386Z","count":30},
 "pokebeach-forum":{"name":"PokéBeach forum","url":"https://www.pokebeach.com/forums/forums/-/index.rss","status":"ok","at":"2026-10-28T08:22:20.937Z","lastOk":"2026-10-28T08:22:20.937Z","count":30},
 "reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-28T08:22:20.937Z","lastOk":"2026-10-28T08:22:20.937Z","count":25},
-"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-28T06:27:04.879Z","lastOk":"2026-10-28T06:27:04.879Z","count":25}
+"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-28T09:40:12.819Z","lastOk":"2026-10-28T09:40:12.819Z","count":25}
 },
 "items":[
 {"id":"c37da7dc","source":"pokebeach","title":"Infamous RGB Mew Cards to Release in “Pocket!”","link":"https://www.pokebeach.com/forums/threads/infamous-rgb-mew-cards-to-release-in-%E2%80%9Cpocket-%E2%80%9D.157125","date":"2026-10-28T04:15:16.000Z","seen":"2026-10-28T04:19:46.343Z","summary":"The three RGB Mew cards from 30th Celebration will release in Pokemon TCG Pocket! This marks the first time cards from a freshly-released physical set will be imported into the game. Compared to their real counterpart...","author":"Water Pokémon Master","tags":["reveal"]},
