@@ -1,10 +1,10 @@
 {
-"updatedAt":"2026-10-30T22:12:52.721Z",
+"updatedAt":"2026-10-30T23:12:18.993Z",
 "sources":{
-"pokebeach":{"name":"PokéBeach news","url":"https://www.pokebeach.com/forums/forum/front-page-news.18/index.rss","status":"ok","at":"2026-10-30T19:40:26.702Z","lastOk":"2026-10-30T19:40:26.702Z","count":30},
+"pokebeach":{"name":"PokéBeach news","url":"https://www.pokebeach.com/forums/forum/front-page-news.18/index.rss","status":"ok","at":"2026-10-30T23:12:18.993Z","lastOk":"2026-10-30T23:12:18.993Z","count":30},
 "pokebeach-forum":{"name":"PokéBeach forum","url":"https://www.pokebeach.com/forums/forums/-/index.rss","status":"ok","at":"2026-10-30T22:12:52.721Z","lastOk":"2026-10-30T22:12:52.721Z","count":30},
 "reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-30T22:12:52.721Z","lastOk":"2026-10-30T22:12:52.721Z","count":25},
-"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-30T19:40:26.702Z","lastOk":"2026-10-30T19:40:26.702Z","count":25}
+"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-30T23:12:18.993Z","lastOk":"2026-10-30T23:12:18.993Z","count":25}
 },
 "items":[
 {"id":"f3b7f5b7","source":"pokebeach","title":"Blastoise and Other Cards from “Aura Seeker” Revealed, New Alternate Art Mega Lucario Z ex!","link":"https://www.pokebeach.com/forums/threads/blastoise-and-other-cards-from-%E2%80%9Caura-seeker%E2%80%9D-revealed-new-alternate-art-mega-lucario-z-ex.157130","date":"2026-10-30T16:16:34.000Z","seen":"2026-10-30T16:17:43.279Z","summary":"Blastoise from Aura Seeker has been revealed in Traditional Chinese! The set will release in Japan on November 27th, and will then release in English as Flowing Fists on February 5th. Blastoise[/b] - Water - HP170 Sta...","author":"Water Pokémon Master","tags":["reveal"]},
