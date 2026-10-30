@@ -45,15 +45,15 @@
 {"id":704184,"name":"30th Celebration Mini Tin [Night Pikachu]","set":24722,"kind":"sealed","sealed":"tin","upc":"0196214159082","released":"2026-10-02"},
 {"id":704185,"name":"30th Celebration Mini Tin [Greninja]","set":24722,"kind":"sealed","sealed":"tin","upc":"0196214159082","released":"2026-10-02"},
 {"id":704186,"name":"30th Celebration Mini Tin Display","set":24722,"kind":"sealed","sealed":"tin","upc":"0196214159099","released":"2026-10-02"},
-{"id":704187,"name":"30th Celebration Battle Deck [Espeon ex]","set":24722,"kind":"sealed","sealed":"deck","upc":"0196214147270","released":"2026-10-30","presale":true},
-{"id":704188,"name":"30th Celebration Battle Deck [Umbreon ex]","set":24722,"kind":"sealed","sealed":"deck","upc":"0196214147270","released":"2026-10-30","presale":true},
+{"id":704187,"name":"30th Celebration Battle Deck [Espeon ex]","set":24722,"kind":"sealed","sealed":"deck","upc":"0196214147270","released":"2026-10-30"},
+{"id":704188,"name":"30th Celebration Battle Deck [Umbreon ex]","set":24722,"kind":"sealed","sealed":"deck","upc":"0196214147270","released":"2026-10-30"},
 {"id":704189,"name":"30th Celebration Ditto Premium Collection","set":24722,"kind":"sealed","sealed":"premium-collection","upc":"0196214158368","released":"2026-11-06","presale":true},
 {"id":704190,"name":"30th Celebration Ultra-Premium Collection [Day]","set":24722,"kind":"sealed","sealed":"upc","upc":"0196214158696","released":"2026-11-06","presale":true},
 {"id":704191,"name":"30th Celebration Ultra-Premium Collection [Night]","set":24722,"kind":"sealed","sealed":"upc","upc":"0196214158696","released":"2026-11-06","presale":true},
 {"id":704192,"name":"30th Celebration Classic Collection Pack","set":24722,"kind":"sealed","sealed":"collection","released":"2026-11-06","presale":true},
 {"id":704193,"name":"30th Celebration Figure Collection [Mew]","set":24722,"kind":"sealed","sealed":"accessory","upc":"0196214158856","released":"2026-11-06","presale":true},
 {"id":704194,"name":"30th Celebration Figure Collection [Mewtwo]","set":24722,"kind":"sealed","sealed":"accessory","upc":"0196214158856","released":"2026-11-06","presale":true},
-{"id":709016,"name":"30th Celebration Battle Deck Case","set":24722,"kind":"sealed","sealed":"case","upc":"10196214147277","released":"2026-10-30","presale":true},
+{"id":709016,"name":"30th Celebration Battle Deck Case","set":24722,"kind":"sealed","sealed":"case","upc":"10196214147277","released":"2026-10-30"},
 {"id":709017,"name":"30th Celebration Booster Bundle Case","set":24722,"kind":"sealed","sealed":"case","upc":"10196214158846","released":"2026-10-02"},
 {"id":709018,"name":"30th Celebration Ditto Premium Collection Case","set":24722,"kind":"sealed","sealed":"case","upc":"10196214158365","released":"2026-11-06","presale":true},
 {"id":709019,"name":"30th Celebration Figure Collection Case","set":24722,"kind":"sealed","sealed":"case","upc":"10196214158853","released":"2026-11-06","presale":true},
@@ -221,5 +221,5 @@
 {"id":718674,"name":"30th Celebration ex Tin [Sylveon ex] (Retail Version)","set":24722,"kind":"sealed","sealed":"tin","upc":"0196214146266"},
 {"id":718675,"name":"30th Celebration ex Tin [Set of 2] (Retail Version)","set":24722,"kind":"sealed","sealed":"tin","upc":"0196214146266"},
 {"id":722832,"name":"30th Celebration ex Box [Set of 2]","set":24722,"kind":"sealed","sealed":"collection","upc":"10196214158723"},
-{"id":726826,"name":"30th Celebration Battle Deck: Umbreon ex/Espeon ex [Set of two]","set":24722,"kind":"sealed","sealed":"deck","released":"2026-10-30","presale":true}
+{"id":726826,"name":"30th Celebration Battle Deck: Umbreon ex/Espeon ex [Set of two]","set":24722,"kind":"sealed","sealed":"deck"}
 ]
