@@ -1,10 +1,10 @@
 {
-"updatedAt":"2026-10-30T08:41:17.754Z",
+"updatedAt":"2026-10-30T09:40:45.738Z",
 "sources":{
-"pokebeach":{"name":"PokéBeach news","url":"https://www.pokebeach.com/forums/forum/front-page-news.18/index.rss","status":"ok","at":"2026-10-30T06:26:48.894Z","lastOk":"2026-10-30T06:26:48.894Z","count":30},
+"pokebeach":{"name":"PokéBeach news","url":"https://www.pokebeach.com/forums/forum/front-page-news.18/index.rss","status":"ok","at":"2026-10-30T09:40:45.738Z","lastOk":"2026-10-30T09:40:45.738Z","count":30},
 "pokebeach-forum":{"name":"PokéBeach forum","url":"https://www.pokebeach.com/forums/forums/-/index.rss","status":"ok","at":"2026-10-30T08:41:17.754Z","lastOk":"2026-10-30T08:41:17.754Z","count":30},
 "reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-30T08:41:17.754Z","lastOk":"2026-10-30T08:41:17.754Z","count":25},
-"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-30T06:26:48.894Z","lastOk":"2026-10-30T06:26:48.894Z","count":25}
+"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-30T09:40:45.738Z","lastOk":"2026-10-30T09:40:45.738Z","count":25}
 },
 "items":[
 {"id":"a791ad66","source":"pokebeach","title":"TPCi Accidentally Reveals McDonald’s 2027 Set a Year Early, Including an Unreleased Squirtle!","link":"https://www.pokebeach.com/forums/threads/tpci-accidentally-reveals-mcdonald%E2%80%99s-2027-set-a-year-early-including-an-unreleased-squirtle.157129","date":"2026-10-30T05:46:17.000Z","seen":"2026-10-30T06:26:48.894Z","summary":"As reported here over the last few weeks, the McDonald's 2026 Pokemon promotion will start in the United States on November 10th. It will feature plastic Happy Meal box toys and 15 cards like Chandelure, Palafin, and...","author":"Water Pokémon Master","tags":[]},
