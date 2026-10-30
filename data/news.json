@@ -1,9 +1,9 @@
 {
-"updatedAt":"2026-10-30T09:40:45.738Z",
+"updatedAt":"2026-10-30T12:24:36.459Z",
 "sources":{
 "pokebeach":{"name":"PokéBeach news","url":"https://www.pokebeach.com/forums/forum/front-page-news.18/index.rss","status":"ok","at":"2026-10-30T09:40:45.738Z","lastOk":"2026-10-30T09:40:45.738Z","count":30},
-"pokebeach-forum":{"name":"PokéBeach forum","url":"https://www.pokebeach.com/forums/forums/-/index.rss","status":"ok","at":"2026-10-30T08:41:17.754Z","lastOk":"2026-10-30T08:41:17.754Z","count":30},
-"reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-30T08:41:17.754Z","lastOk":"2026-10-30T08:41:17.754Z","count":25},
+"pokebeach-forum":{"name":"PokéBeach forum","url":"https://www.pokebeach.com/forums/forums/-/index.rss","status":"ok","at":"2026-10-30T12:24:36.459Z","lastOk":"2026-10-30T12:24:36.459Z","count":30},
+"reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-30T12:24:36.459Z","lastOk":"2026-10-30T12:24:36.459Z","count":25},
 "reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-30T09:40:45.738Z","lastOk":"2026-10-30T09:40:45.738Z","count":25}
 },
 "items":[
