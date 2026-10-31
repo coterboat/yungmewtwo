@@ -1,10 +1,10 @@
 {
-"updatedAt":"2026-10-31T11:11:54.356Z",
+"updatedAt":"2026-10-31T11:40:05.713Z",
 "sources":{
 "pokebeach":{"name":"PokéBeach news","url":"https://www.pokebeach.com/forums/forum/front-page-news.18/index.rss","status":"ok","at":"2026-10-31T09:14:04.098Z","lastOk":"2026-10-31T09:14:04.098Z","count":30},
 "pokebeach-forum":{"name":"PokéBeach forum","url":"https://www.pokebeach.com/forums/forums/-/index.rss","status":"ok","at":"2026-10-31T11:11:54.356Z","lastOk":"2026-10-31T11:11:54.356Z","count":30},
 "reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-31T11:11:54.356Z","lastOk":"2026-10-31T11:11:54.356Z","count":25},
-"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-31T08:16:36.694Z","lastOk":"2026-10-31T08:16:36.694Z","count":25}
+"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-31T11:40:05.713Z","lastOk":"2026-10-31T11:40:05.713Z","count":25}
 },
 "items":[
 {"id":"9750cf5b","source":"reddit-pokemontcg","title":"TGIF Pitch Black Booster Box","link":"https://www.reddit.com/r/PokemonTCG/comments/1xjxong/tgif_pitch_black_booster_box","date":"2026-10-31T01:41:17.000Z","seen":"2026-10-31T01:41:45.697Z","summary":"This is by far one of the most generous Booster Boxes we have opened. This was from the initial Pokemon Center drop, lucky enough to get this and some booster bundles. While no Darkrai, we hit on so many great cards,...","author":"MGuglielmo17","tags":["restock","pokemon-center"]},
