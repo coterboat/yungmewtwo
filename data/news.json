@@ -1,12 +1,13 @@
 {
-"updatedAt":"2026-10-30T23:12:18.993Z",
+"updatedAt":"2026-10-31T00:34:13.598Z",
 "sources":{
 "pokebeach":{"name":"PokéBeach news","url":"https://www.pokebeach.com/forums/forum/front-page-news.18/index.rss","status":"ok","at":"2026-10-30T23:12:18.993Z","lastOk":"2026-10-30T23:12:18.993Z","count":30},
 "pokebeach-forum":{"name":"PokéBeach forum","url":"https://www.pokebeach.com/forums/forums/-/index.rss","status":"ok","at":"2026-10-30T22:12:52.721Z","lastOk":"2026-10-30T22:12:52.721Z","count":30},
 "reddit-deals":{"name":"r/PKMNTCGDeals","url":"https://www.reddit.com/r/PKMNTCGDeals/new/.rss","status":"ok","at":"2026-10-30T22:12:52.721Z","lastOk":"2026-10-30T22:12:52.721Z","count":25},
-"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-30T23:12:18.993Z","lastOk":"2026-10-30T23:12:18.993Z","count":25}
+"reddit-pokemontcg":{"name":"r/PokemonTCG","url":"https://www.reddit.com/r/PokemonTCG/new/.rss","status":"ok","at":"2026-10-31T00:34:13.598Z","lastOk":"2026-10-31T00:34:13.598Z","count":25}
 },
 "items":[
+{"id":"c5f640bb","source":"reddit-pokemontcg","title":"Restock! Or Is It?","link":"https://www.reddit.com/r/PokemonTCG/comments/1xjvp7w/restock_or_is_it","date":"2026-10-31T00:09:29.000Z","seen":"2026-10-31T00:34:13.598Z","summary":"On All Hallows’ Eve…can you think of anything scarier than seeing a fully stocked Pokemon shelf, but realizing it’s just a bunch of kids toys? 🎃👻","author":"Cyber_Gengar","tags":["restock"]},
 {"id":"f3b7f5b7","source":"pokebeach","title":"Blastoise and Other Cards from “Aura Seeker” Revealed, New Alternate Art Mega Lucario Z ex!","link":"https://www.pokebeach.com/forums/threads/blastoise-and-other-cards-from-%E2%80%9Caura-seeker%E2%80%9D-revealed-new-alternate-art-mega-lucario-z-ex.157130","date":"2026-10-30T16:16:34.000Z","seen":"2026-10-30T16:17:43.279Z","summary":"Blastoise from Aura Seeker has been revealed in Traditional Chinese! The set will release in Japan on November 27th, and will then release in English as Flowing Fists on February 5th. Blastoise[/b] - Water - HP170 Sta...","author":"Water Pokémon Master","tags":["reveal"]},
 {"id":"b97f3bd2","source":"reddit-pokemontcg","title":"Opened Two 30th Booster Bundles","link":"https://www.reddit.com/r/PokemonTCG/comments/1xjjikz/opened_two_30th_booster_bundles","date":"2026-10-30T16:08:20.000Z","seen":"2026-10-30T16:17:43.279Z","summary":"Just started collecting when 30th came out, and have won two Walmart drawings so far. Super happy about these.","author":"Jalapeno28","tags":["drawing","walmart"]},
 {"id":"728232ee","source":"reddit-pokemontcg","title":"Bedtime rips continued","link":"https://www.reddit.com/r/PokemonTCG/comments/1xjfshc/bedtime_rips_continued","date":"2026-10-30T13:45:23.000Z","seen":"2026-10-30T14:18:04.982Z","summary":"Another bedtime rip with my daughter, with some real last pack magic! I was trash talking the 30th Celebration Bundles, they have not been very generous. This one was from a Walmart drawing, and I was going to swear t...","author":"MGuglielmo17","tags":["drawing","walmart"]},
